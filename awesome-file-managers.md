@@ -1,9 +1,10 @@
 ---
 tags:
   - Awesome
+  - Files
 ---
 
-# File Managers
+# Awesome File Managers
 
 ## List
 

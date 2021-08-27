@@ -1,9 +1,11 @@
 ---
 tags:
   - Awesome
+  - UI
+  - Front-End
 ---
 
-# UI Tools
+# Awesome UI
 
 ## List
 
