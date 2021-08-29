@@ -8,6 +8,8 @@ tags:
 
 > This is a [now](https://nownownow.com/about) page, read more about me at [[about]] page or [[projects]] page.
 
+## Projects now
+
 - **Maintaining [Gatsby Theme Primer Wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki)**
 - **Maintaining [Track Awesome List](https://www.trackawesomelist.com)**
 - **Maintaining [Actionsflow](https://github.com/actionsflow/actionsflow)**
@@ -30,7 +32,7 @@ tags:
 
   I'm a failure of English learning. I've learned English more than 10 years, but it still sucks, so I registered a Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung) for only English tweets, and this [blog](https://blog.owenyoung.com) to force me to use more English. It's Feb, 01, 2021 today when I writing this, I hope this is my last goal after making so many goals. Once I reach my goal, I'll update here.
 
-- **Goal**
+## Goals
 
 [[goals-2021]]
 
