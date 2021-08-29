@@ -32,7 +32,6 @@ module.exports = {
             url: "https://github.com/theowenyoung/wiki",
           },
         ],
-        sidebarDepth: 2,
         editUrl: "https://github.com/theowenyoung/wiki/tree/main/",
       },
     },
