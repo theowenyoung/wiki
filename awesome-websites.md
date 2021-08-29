@@ -4,6 +4,7 @@ language: zh
 tags:
   - Awesome
   - Tools
+  - 中文
 ---
 
 ## 发现类

@@ -3,6 +3,7 @@ language: zh
 tags:
   - Travel
   - Approvals
+  - 中文
 ---
 
 # 旅行手续

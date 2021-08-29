@@ -4,6 +4,7 @@ language: zh
 tags:
   - Awesome
   - Javascript
+  - 中文
 ---
 
 收集用过的，好用的 Javascipt 库。
