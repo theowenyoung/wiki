@@ -1,6 +1,6 @@
 ---
 tags:
-  - Nodejs
+  - Javascript
   - Tips
   - Programming-Languages
 ---

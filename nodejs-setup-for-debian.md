@@ -1,7 +1,7 @@
 ---
 tags:
   - Server
-  - Nodejs
+  - Javascript
   - Setup
   - Debian
   - Programming-Languages

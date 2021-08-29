@@ -1,7 +1,7 @@
 ---
 tags:
   - Monorepo
-  - Nodejs
+  - Javascript
   - Workflows
 ---
 
