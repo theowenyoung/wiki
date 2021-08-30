@@ -5,8 +5,9 @@ const siteMetadata = {
   shortName: "Wiki",
   description:
     "Personal wiki, share everything I learned, and spend a lifetime updating it. I hope it'll be a good gift for my grandchildren.",
-  siteUrl: "https://wiki.owenyoung.com",
   twitterName: "theowenyoung",
+  imageUrl: "/graph-visualisation.jpg",
+  siteUrl: "https://wiki.owenyoung.com",
 };
 module.exports = {
   siteMetadata,
