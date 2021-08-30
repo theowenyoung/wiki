@@ -31,6 +31,14 @@ module.exports = {
             title: "Github",
             url: "https://github.com/theowenyoung/wiki",
           },
+          {
+            title: "Twitter",
+            url: "https://twitter.com/theowenyoung",
+          },
+          {
+            title: "Blog",
+            url: "https://blog.owenyoung.com",
+          },
         ],
         editUrl: "https://github.com/theowenyoung/wiki/tree/main/",
       },
