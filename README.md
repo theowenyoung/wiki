@@ -14,6 +14,8 @@ Since I found [Everything I know](https://wiki.nikitavoloboev.xyz), I realized t
 
 So I hope it's a gift for my grandchildren(if I have :)
 
+[Read this wiki online.](https://wiki.owenyoung.com/)
+
 ## Why I build this?
 
 - Knowledge that is not remembered/not found is useless
