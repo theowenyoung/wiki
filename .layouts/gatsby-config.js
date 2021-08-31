@@ -21,7 +21,7 @@ module.exports = {
       options: {
         name: "content",
         path: `${__dirname}/..`,
-        ignore: [`**/\.*`, "**/.layouts/**"],
+        ignore: [`**/\.*/**/*`],
       },
     },
     {
