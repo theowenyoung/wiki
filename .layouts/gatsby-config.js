@@ -29,6 +29,10 @@ module.exports = {
       options: {
         nav: [
           {
+            title: "Now",
+            url: "/now/",
+          },
+          {
             title: "Github",
             url: "https://github.com/theowenyoung/wiki",
           },
@@ -38,7 +42,7 @@ module.exports = {
           },
           {
             title: "Blog",
-            url: "https://blog.owenyoung.com",
+            url: "https://blog.owenyoung.com/",
           },
         ],
         editUrl: "https://github.com/theowenyoung/wiki/tree/main/",
