@@ -11,3 +11,5 @@ tags:
 - [GitHub - foambubble/foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
 
 ## Applications
+
+- [Obsidian](https://obsidian.md/)

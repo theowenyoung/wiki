@@ -8,10 +8,12 @@
   },
   "files.defaultLanguage": "markdown",
   "files.exclude": {
-    "**/node_modules": true
+    "**/node_modules": true,
+    "**/.cache": true
   },
   "files.watcherExclude": {
-    "**/node_modules": true
+    "**/node_modules": true,
+    "**/.cache": true
   },
   "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
