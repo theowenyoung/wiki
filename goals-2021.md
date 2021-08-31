@@ -1,7 +1,7 @@
 ---
 title: 2021 Goals
 tags:
-  - "2021"
+  - "Year2021"
   - Todo
 ---
 
