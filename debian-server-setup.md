@@ -50,6 +50,7 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub username@remote_host
    1. `sudo apt install build-essential software-properties-common curl vim unzip --yes`
 9. Create `/data` for store data files with `777` permissions, avoid to use `/home` directory
 
+
 You might want to read also:
 
 - [[shadowsocks-rust-setup-for-debian]]

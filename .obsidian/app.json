@@ -1,0 +1,8 @@
+{
+  "spellcheck": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "useTab": false,
+  "tabSize": 2,
+  "attachmentFolderPath": "attachments"
+}
