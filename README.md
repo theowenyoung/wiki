@@ -10,9 +10,13 @@ tags:
 
 > A personal knowledge based wiki
 
-Since I found [Everything I know](https://wiki.nikitavoloboev.xyz), I realized that "Yes, this is what I want to do", I used to create many blogs, tumblr, wordpress, hexo, hugo, gatsbyjs etc. But I do not post too much posts, cause there is a certain cost for blog post. But not for note.
+Since I found [Everything I know](https://wiki.nikitavoloboev.xyz), I was fascinated by this concept, about wiki, second brain, lifetime notes, back links, tags. I realized that "Yes, this is what I want to do", I used to create many blogs, tumblr, wordpress, hexo, hugo, gatsbyjs etc. But I do not post too much posts, cause there is a certain cost for blog post. But not for note/wiki. Buy you know the front-end programmer will never satisfied the other's UI, so I create a [gatsby theme](https://github.com/theowenyoung/gatsby-theme-primer-wiki) for myself, if you you want to build a wiki like this, you can get started from [this template](https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki)
 
-So I hope it's a gift for my grandchildren(if I have :)
+Now , I'am using [foam](https://github.com/foambubble/foam) and [obsidian](https://obsidian.md/) to edit the wiki.
+
+> Note, Cause [obsidian](https://obsidian.md/) do not [generate automated link reference](https://foambubble.github.io/foam/features/link-reference-definitions), So I use the standard markdown link grammar in [obsidian](https://obsidian.md/)
+
+I hope it's a gift for my grandchildren(if I have :)
 
 [Read this wiki online.](https://wiki.owenyoung.com/)
 
@@ -23,6 +27,7 @@ So I hope it's a gift for my grandchildren(if I have :)
 - I am eager to show(show off) what I know
 - The cost of writing a blog is high, but the cost of writing notes is low
 - I need a non-vendor locked solution to motivate me to record permanently
+- Plain text is forever
 
 ## How I build this?
 
