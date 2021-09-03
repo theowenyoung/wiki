@@ -50,6 +50,9 @@ Server config sample:
 sudo vim /etc/systemd/system/ss.service
 ```
 
+
+> Note: Change `username` to your own username
+
 ```bash
 [Unit]
 Description=ssserver service
