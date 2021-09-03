@@ -14,8 +14,6 @@ Since I found [Everything I know](https://wiki.nikitavoloboev.xyz), I was fascin
 
 Now , I'am using [foam](https://github.com/foambubble/foam) and [obsidian](https://obsidian.md/) to edit the wiki.
 
-> Note, Cause [obsidian](https://obsidian.md/) do not [generate automated link reference](https://foambubble.github.io/foam/features/link-reference-definitions), So I use the standard markdown link grammar in [obsidian](https://obsidian.md/)
-
 I hope it's a gift for my grandchildren(if I have :)
 
 [Read this wiki online.](https://wiki.owenyoung.com/)
