@@ -1,11 +1,17 @@
 ---
+language: zh
 tags:
   - Social
   - Awesome
 ---
 
-# Awesome Socials
+# 收集有意思的社交应用
 
-## Text Social
+## 文字交友
 
-- [SLOWLY](https://slowly.app/en/) - An app you can receive and send letters like real. The time for sending a letter depends on the distance that you and the other guy.
+- [SLOWLY](https://slowly.app/en/) - SLOWLY让你从你的智能手机上认识笔友！按照距离远近，和不同的人发信有不同的发送时间，有的高达10多个小时才能发出去。与有共同爱好的人配对，写信并收集来自世界各地的邮票。说出你的想法--一次一封信!
+
+## Location based
+
+- [Zown](http://www.zown.co) - Zown让你看到离你超级近的人（半径500米内）。
+一旦你与某人建立联系，它只给你15分钟的聊天时间，所以它迫使你在现实生活中与对方见面以保持联系。
