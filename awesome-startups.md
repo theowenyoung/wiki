@@ -9,6 +9,8 @@ tags:
 
 ## Market
 
+- [Free Article Publishing](https://liquidary.com/freearticle/) - Get free press coverage for your project or startup
+
 ## Sharing
 
 - [#buildinpublic](https://buildinpublic.com/) - Share your process at Twitter with #buildinpublic

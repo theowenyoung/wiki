@@ -15,6 +15,10 @@ Curating the best of list on the internet with good summaries from others.
 
 - [Reddit List](https://redditlist.io) - Discover Subreddits for different topics
 
+## Communities
+
+- [Hive Index](https://thehiveindex.com/) - Find online communities, find your people.
+
 ## Startup
 
 - [STARTUP LAUNCH LIST](https://startuplaunchlist.com) - A​rticle list you need to read before launching a startup.

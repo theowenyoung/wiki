@@ -26,3 +26,7 @@ tags:
 ## Name
 
 - [namae](https://namae.dev) - name checking
+
+## Free Paid Wall
+
+- [Article reader](https://t.me/chotamreaderbot) - A telegram bot that can access paid wall article with a instant view article.
