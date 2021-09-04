@@ -44,3 +44,8 @@ Curating the best of list on the internet with good summaries from others.
 ## Media
 
 - [Tech Blogs List](https://airtable.com/shriIvyyV3gAJf0x4/tblcakhoBi0A33QhB/viwWIaPD1CBQtE5e1) - Curated list of 3,800+ tech journalists
+
+
+## Open-source
+
+- [Open source Alternatives](https://www.btw.so/open-source-alternatives) - Curated 200+ open source alternatives to tools that businesses require in day-to-day operations.

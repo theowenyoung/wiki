@@ -4,5 +4,6 @@
   "showFrontmatter": true,
   "useTab": false,
   "tabSize": 2,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "useMarkdownLinks": true
 }
