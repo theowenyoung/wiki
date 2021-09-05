@@ -15,3 +15,5 @@ tags:
 - [Helm](https://thehelm.com/) - 个人服务器，类似树莓派，$399 1T, #Privacy
 - [为什么超链接是蓝色的？](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 - [幼儿园，一孩难求](https://mp.weixin.qq.com/s/b6TLj4b2rhexEjDT-u4jHA) - 小孩数量在减少
+- [「不长大」，是怎么成为越来越多人的愿望？](https://mp.weixin.qq.com/s/XhRf8pvVxljAAzAd81_bLg)
+- [浪漫是怎么一步步在现代爱情中消失的？](https://mp.weixin.qq.com/s/5uKyMHd2G4bunZIZ9YFYYg)
