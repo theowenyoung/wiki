@@ -14,6 +14,8 @@ Curating the place for explore interesting things.
 - [r/SideProject - A community for sharing side projects (reddit.com)](https://www.reddit.com/r/SideProject/)
 - [Product Hunt](https://www.producthunt.com/) - The best new products in tech
 - [circlebatch](https://circlebatch.com/) - Circlebatch is a collaborative community to practice skills and work on projects with others, 寻找业余项目的合伙人
+- [Hacker news show 中文](https://hn.buzzing.cc/tags/show-hn)
+- [Hacker News Show](https://news.ycombinator.com/show)
 
 ## 中文
 
