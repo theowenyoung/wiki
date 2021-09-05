@@ -6,5 +6,6 @@
   "tabSize": 2,
   "attachmentFolderPath": "attachments",
   "useMarkdownLinks": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "promptDelete": false
 }

@@ -8,7 +8,7 @@ tags:
   - Me
 ---
 
-> A personal knowledge based wiki
+> A personal knowledge based wiki, where I share everything I know. I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between.
 
 Since I found [Everything I know](https://wiki.nikitavoloboev.xyz), I was fascinated by this concept, about wiki, second brain, lifetime notes, back links, tags. I realized that "Yes, this is what I want to do", I used to create many blogs, tumblr, wordpress, hexo, hugo, gatsbyjs etc. But I do not post too much posts, cause there is a certain cost for blog post. But not for note/wiki. Buy you know the front-end programmer will never satisfied the other's UI, so I create a [gatsby theme](https://github.com/theowenyoung/gatsby-theme-primer-wiki) for myself, if you you want to build a wiki like this, you can get started from [this template](https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki)
 
