@@ -17,6 +17,15 @@ Curating the place for explore interesting things.
 - [Hacker news show 中文](https://hn.buzzing.cc/tags/show-hn)
 - [Hacker News Show](https://news.ycombinator.com/show)
 
+## Github
+
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。
+
+## Tech
+
+- [Hacker News](https://news.ycombinator.com/news)
+- [ACM Tech News](https://technews.acm.org)
+
 ## 中文
 
 - [用中文浏览 Product Hunt 热门 App，网站和产品 - Product Hunt 热门 (buzzing.cc)](https://ph.buzzing.cc/)
