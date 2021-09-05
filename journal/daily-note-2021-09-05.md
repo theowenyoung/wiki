@@ -14,3 +14,4 @@ tags:
 - [最好的域名不是.com, 而是.is, The Best TLD is Not .com](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com) - #Domains , the best tld is `.is`, by Iceland
 - [Helm](https://thehelm.com/) - 个人服务器，类似树莓派，$399 1T, #Privacy
 - [为什么超链接是蓝色的？](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
+- [幼儿园，一孩难求](https://mp.weixin.qq.com/s/b6TLj4b2rhexEjDT-u4jHA) - 小孩数量在减少
