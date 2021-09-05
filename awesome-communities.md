@@ -10,6 +10,10 @@ tags:
 
 收集平时会逛的社区。
 
+## Index
+
+- [Hive Index](https://thehiveindex.com/) - Find online communities, find your people.
+
 ## 服务器
 
 - [Low End Talk](https://lowendtalk.com/) - 国外的底价主机论坛，上面经常会有主机商提供的活动
