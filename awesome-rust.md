@@ -11,6 +11,7 @@ Curating awesome rust resources.
 ## Resources
 
 - [Easy Rust](https://github.com/Dhghomon/easy_rust) - A book that let you learn rust easy, rust explained using easy English, for non-English native.
+- [rustlings](https://github.com/rust-lang/rustlings/) - 🦀 Small exercises to get you used to reading and writing Rust code!
 
 ## Answeres
 
