@@ -15,6 +15,8 @@ Curating awesome rust resources.
   - [Learning Rust by Working Through the Rustlings Exercises](https://egghead.io/courses/learning-rust-by-solving-the-rustlings-exercises-a722)
 - [GitHub - Mercateo/rust-for-node-developers: An introduction to the Rust programming language for Node developers.](https://github.com/Mercateo/rust-for-node-developers)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
+- [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
+- [rust cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - This Rust Cookbook is a collection of simple Rust examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
 
 ## Answeres
 
