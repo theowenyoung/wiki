@@ -8,7 +8,6 @@ tags:
 
 Curating awesome browsers.
 
-
 ## Common List
 
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge is the fast and secure browser, which I'm using now. its the best for now.
@@ -16,7 +15,8 @@ Curating awesome browsers.
 
 ## For developer
 
-- [Blisk](https://blisk.io/ )- Cross-Device Testing  Done Right
+- [Blisk](https://blisk.io/)- Cross-Device Testing Done Right
+- [bonsai](https://bonsaibrowser.com/) - Web-browser for research that helps programmers think clearly.
 
 ## Paid Browser
 

@@ -12,6 +12,9 @@ Curating awesome rust resources.
 
 - [Easy Rust](https://github.com/Dhghomon/easy_rust) - A book that let you learn rust easy, rust explained using easy English, for non-English native.
 - [rustlings](https://github.com/rust-lang/rustlings/) - 🦀 Small exercises to get you used to reading and writing Rust code!
+  - [Learning Rust by Working Through the Rustlings Exercises](https://egghead.io/courses/learning-rust-by-solving-the-rustlings-exercises-a722)
+- [GitHub - Mercateo/rust-for-node-developers: An introduction to the Rust programming language for Node developers.](https://github.com/Mercateo/rust-for-node-developers)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 
 ## Answeres
 
