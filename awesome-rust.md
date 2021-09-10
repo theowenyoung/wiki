@@ -17,8 +17,10 @@ Curating awesome rust resources.
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [rust cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - This Rust Cookbook is a collection of simple Rust examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+- [Rust Design Patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Answeres
 
 - [【翻译】 Rust 中的 String 和&str](https://zhuanlan.zhihu.com/p/123278299)
 - [【翻译】细谈 Rust 的所有权](https://zhuanlan.zhihu.com/p/115651233)
+- [Rust 程序设计语言中文版](https://kaisery.github.io/trpl-zh-cn/)
