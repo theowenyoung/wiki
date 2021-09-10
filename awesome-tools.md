@@ -14,3 +14,7 @@ tags:
 ## 公众号 RSS
 
 - [Feedadd](https://feeddd.org/) - 众包的形式运行爬虫机器人，上传数据
+
+## 测试，命理
+
+- [八字，命理测试](http://www.freehoro.net/FreeHoro/index.php)
