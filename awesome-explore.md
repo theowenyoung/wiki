@@ -16,6 +16,7 @@ Curating the place for explore interesting things.
 - [circlebatch](https://circlebatch.com/) - Circlebatch is a collaborative community to practice skills and work on projects with others, 寻找业余项目的合伙人
 - [Hacker news show 中文](https://hn.buzzing.cc/tags/show-hn)
 - [Hacker News Show](https://news.ycombinator.com/show)
+- [Betalist](https://betalist.com/) - Discover tomorrow's startups, today.
 
 ## Github
 
