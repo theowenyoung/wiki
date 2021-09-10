@@ -18,6 +18,11 @@ Curating the place for explore interesting things.
 - [Hacker News Show](https://news.ycombinator.com/show)
 - [Betalist](https://betalist.com/) - Discover tomorrow's startups, today.
 
+## Self-Hosted
+
+- [Self-Hosted Reddit](https://www.reddit.com/r/selfhosted/)
+- [Track Awesome-Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/)
+
 ## Github
 
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。
