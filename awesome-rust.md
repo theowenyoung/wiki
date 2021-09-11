@@ -19,6 +19,8 @@ Curating awesome rust resources.
 - [rust cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - This Rust Cookbook is a collection of simple Rust examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
 - [Rust Design Patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [Microsoft Rust First Class](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
+- [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
+- [Rust Language Cheat Sheet](https://cheats.rs/)
 
 ## Answeres
 
@@ -30,12 +32,21 @@ Curating awesome rust resources.
 
 - [Rust Reddit](https://www.reddit.com/r/rust/top/?t=year)
 
+## Tools
+
+- [cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
+- [wasm-pack](https://github.com/rustwasm/wasm-pack) - your favorite rust -> wasm workflow tool!
+- [gitoxide](https://github.com/Byron/gitoxide) - Git in Rust
+
 ## Libraries
 
 - [bevy](https://github.com/bevyengine/bevy) - 游戏引擎
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language
 - [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [axum](https://github.com/tokio-rs/axum) - web framework
+- [A data-first Rust-native UI toolkit. Druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
+- [cratetorrent](https://github.com/mandreyel/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux) #Torrents
+- [egui](https://github.com/emilk/egui) - GUI library in Rust
 
 ## Projects
 
@@ -44,3 +55,7 @@ Curating awesome rust resources.
 ## Applications
 
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+
+## Criticism
+
+- [Why not Rust](https://matklad.github.io/2020/09/20/why-not-rust.html)

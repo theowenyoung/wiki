@@ -15,3 +15,9 @@ tags:
 ```bash
 git pull upstream main --commit --no-edit
 ```
+
+## 对所有采用上游的更新
+
+```bash
+git checkout --theirs .
+```
