@@ -13,6 +13,9 @@ tags:
 ## Index
 
 - [Hive Index](https://thehiveindex.com/) - Find online communities, find your people.
+- [Get community list](https://getcommunitylist.com/) - Find hundreds of Communities to Promote your Product $49 #Paid
+- [community list](https://www.notion.so/Community-908921f2f6584ae990bea68b048b8ea9) - List of some active community you must follow, Free
+- [Reddit List](http://redditlist.com/sfw) - Reddit subs trends, categories
 
 ## 服务器
 
@@ -31,3 +34,9 @@ tags:
 ## 关系建议
 
 - [关系建议小组 reddit 小组](https://www.reddit.com/r/relationshipadvice/) - 各种关系的建议，讨论
+
+## Maker
+
+- [Make.rs](https://make.rs/) - What are you working on?
+- [Something I Made Reddit](https://www.reddit.com/r/somethingimade/)
+- [Side Project](https://www.reddit.com/r/SideProject)

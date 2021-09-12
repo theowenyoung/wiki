@@ -17,6 +17,8 @@ Curating the place for explore interesting things.
 - [Hacker news show 中文](https://hn.buzzing.cc/tags/show-hn)
 - [Hacker News Show](https://news.ycombinator.com/show)
 - [Betalist](https://betalist.com/) - Discover tomorrow's startups, today.
+- [startupbase](https://startupbase.io/) - Discover early access products.
+- [10words](https://10words.io/) - 10words: Discover new apps and startups in 10 words or less
 
 ## Self-Hosted
 
@@ -27,6 +29,10 @@ Curating the place for explore interesting things.
 
 - [awesome-decentralized](https://github.com/croqaz/awesome-decentralized)
 
+## Trends
+
+- [Discover Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
+
 ## Github
 
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。
@@ -35,8 +41,13 @@ Curating the place for explore interesting things.
 
 - [Hacker News](https://news.ycombinator.com/news)
 - [ACM Tech News](https://technews.acm.org)
+- [indie hackers](https://www.indiehackers.com/)
 
 ## 中文
 
 - [用中文浏览 Product Hunt 热门 App，网站和产品 - Product Hunt 热门 (buzzing.cc)](https://ph.buzzing.cc/)
 - [用中文浏览 reddit 业余项目讨论 - 业余项目分享交流 (buzzing.cc)](https://sideproject.buzzing.cc/)
+
+## 信息订阅/推送
+
+- [Cortadomail](https://cortadomail.com/) - 免费版的 Mailbrew

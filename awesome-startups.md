@@ -13,6 +13,9 @@ tags:
 - [ProductHunt](https://www.producthunt.com/)
 - [Hacknew Show](https://news.ycombinator.com/show)
 - [Side Project Reddit](https://www.reddit.com/r/SideProject/)
+- [productlift](https://productlift.ai/) - ProductLift helps you find relevant communities and influencers so you can:
+- [280+ Websites To Share Your Startup / Public](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show)
+- [The best places to post your startup. Twitter Thread](https://twitter.com/jakeprins_nl/status/1293243281556594690?s=21)
 
 ## Cooperation
 
@@ -34,3 +37,7 @@ tags:
 ## Investing
 
 - [Micro investment](https://www.micro-invest.io/) - Micro investment for solo founders
+
+## Ideas
+
+- [110+ Actionable tasks to get from Zero to $$$](https://www.notion.so/110-Actionable-tasks-to-get-from-Zero-to-2a28bd237e964f75a8f4cf8fcd8182c5)
