@@ -12,6 +12,7 @@ Curating awesome browsers.
 
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge is the fast and secure browser, which I'm using now. its the best for now.
 - [Vivaldi Browser | Now with built-in Translate, Mail, and Calendar](https://vivaldi.com/)
+- [Waterfox](https://www.waterfox.net/) - The way to surf the web. Striking the perfect balance of privacy and useability.
 
 ## For developer
 

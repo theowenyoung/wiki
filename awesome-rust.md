@@ -47,6 +47,7 @@ Curating awesome rust resources.
 - [A data-first Rust-native UI toolkit. Druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [cratetorrent](https://github.com/mandreyel/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux) #Torrents
 - [egui](https://github.com/emilk/egui) - GUI library in Rust
+- [structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct. It combines clap with custom derive.
 
 ## Projects
 
@@ -55,6 +56,7 @@ Curating awesome rust resources.
 ## Applications
 
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 
 ## Criticism
 

@@ -10,3 +10,4 @@ tags:
 
 - [cloudron](https://www.cloudron.io/index.html)
 - [sandstorm](https://sandstorm.io/)
+- [freedombox](https://freedombox.org/)

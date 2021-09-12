@@ -6,6 +6,8 @@ tags:
 
 Programmer, Freelancer, Workflow lover, Personal Finance Enthusiast
 
+See what am I doing now at [here](now.md)
+
 ## A failure of English learning
 
 I've learned English more than 10 years, but it still sucks, so I registered a Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung) for only English tweets, and this [wiki](https://wiki.owenyoung.com) and [blog](https://blog.owenyoung.com) to force me to use more English.
