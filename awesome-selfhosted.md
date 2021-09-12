@@ -32,3 +32,10 @@ tags:
 - [cloudron](https://www.cloudron.io/index.html)
 - [sandstorm](https://sandstorm.io/)
 - [freedombox](https://freedombox.org/)
+
+## Federation
+
+- [Mobilizon](https://joinmobilizon.org/en/) - Mobilizon is a tool that helps you find, create and organize events.
+- [Orbit](https://github.com/orbitdb/orbit) - A distributed, serverless, peer-to-peer chat application on IPFS.
+- [Iris](https://github.com/irislib/iris-messenger) - Decentralized messenger
+- [Twt.social](https://twt.social/) - Twt.social is a new Social Media platform
