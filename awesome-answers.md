@@ -5,6 +5,7 @@ tags:
   - Awesome
   - FAQ
   - Answer
+  - 中文
 ---
 
 收集网上看到的有意思的问题。

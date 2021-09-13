@@ -4,6 +4,7 @@ language: zh
 tags:
   - License
   - Comparison
+  - 中文
 ---
 
 ![License Comparison](attachments/license-comparision.png)

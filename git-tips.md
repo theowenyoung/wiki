@@ -4,6 +4,7 @@ language: zh
 tags:
   - Git
   - Tips
+  - 中文
 ---
 
 ## 回答合集
