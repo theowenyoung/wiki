@@ -41,3 +41,7 @@ tags:
 ## Ideas
 
 - [110+ Actionable tasks to get from Zero to $$$](https://www.notion.so/110-Actionable-tasks-to-get-from-Zero-to-2a28bd237e964f75a8f4cf8fcd8182c5)
+
+## Legel
+
+- [avodocs](https://www.avodocs.com/) - Free legal documents for startups

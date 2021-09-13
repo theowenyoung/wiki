@@ -41,3 +41,7 @@ tags:
 - [Make.rs](https://make.rs/) - What are you working on?
 - [Something I Made Reddit](https://www.reddit.com/r/somethingimade/)
 - [Side Project](https://www.reddit.com/r/SideProject)
+
+## Developers
+
+- [Make friends making the web. ✨](https://webwide.chat/) - Webwide is an inclusive, supportive community of professional and hobbyist web designers & developers.

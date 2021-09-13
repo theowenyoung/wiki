@@ -48,6 +48,7 @@ Curating awesome rust resources.
 - [cratetorrent](https://github.com/mandreyel/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux) #Torrents
 - [egui](https://github.com/emilk/egui) - GUI library in Rust
 - [structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct. It combines clap with custom derive.
+- [telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 
 ## Projects
 

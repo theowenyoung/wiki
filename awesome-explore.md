@@ -32,6 +32,7 @@ Curating the place for explore interesting things.
 ## Trends
 
 - [Discover Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
+- [treendly](https://treendly.com/) - Discover rising trends you haven't heard of
 
 ## Github
 
@@ -51,3 +52,7 @@ Curating the place for explore interesting things.
 ## 信息订阅/推送
 
 - [Cortadomail](https://cortadomail.com/) - 免费版的 Mailbrew
+
+## Fun
+
+- [病毒步行](https://www.viralwalk.com/) - 通过互联网漫步发现新网站
