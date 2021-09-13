@@ -11,7 +11,7 @@ Also see [[books]]
 
 ## workflows
 
-目前主要是用 [[qbittorrent-setup-for-debian]],[[jackett-setup]]，[[sonarr-setup]],[[bazarr-setup]] 在下载和管理剧以及字幕，买了一台 1T 的 VPS 作为 NAS。本来想用[[jellyfin-setup]]来作为影视中心的，但是使用后感觉客户端并不是 native 的，略卡，可能暂时还不胜用，所以索性直接上[[caddy-file-server-url-scheme]], 然后 mac 用 [IINA](https://iina.io/)，或者迅雷看看（大多数剧的字幕匹配做的好一点），手机端用 [nplayer](https://nplayer.com/)或[VLC](https://www.videolan.org/) 打开流文件。目前这样的体验是最爽的。
+目前主要是用 [[qbittorrent-setup-for-debian]],[[jackett-setup]]，[[sonarr-setup]],[[bazarr-setup]] 在下载和管理剧以及字幕，买了一台 1T 的 VPS 作为 NAS。本来想用[[jellyfin-setup]]来作为影视中心的，但是使用后感觉客户端并不是 native 的，略卡，可能暂时还不胜用，所以索性直接上[[caddy-file-server-url-scheme]], 然后 mac 用 [IINA](https://iina.io/)，或者[迅雷看看](https://video.xunlei.com/)（大多数剧的字幕匹配做的好一点），手机端用 [nplayer](https://nplayer.com/)或[VLC](https://www.videolan.org/) 打开流文件。目前这样的体验是最爽的。
 
 ![Root Screenshot](attachments/caddy-root.png)
 ![Rick and Morty Season 5](attachments/caddy-tv-demo.png)
