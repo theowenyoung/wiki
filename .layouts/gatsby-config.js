@@ -38,10 +38,6 @@ module.exports = {
             url: "/now/",
           },
           {
-            title: "Github",
-            url: "https://github.com/theowenyoung/wiki",
-          },
-          {
             title: "Twitter",
             url: "https://twitter.com/theowenyoung",
           },
