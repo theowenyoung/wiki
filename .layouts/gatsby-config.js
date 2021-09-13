@@ -27,7 +27,12 @@ module.exports = {
     {
       resolve: "gatsby-theme-primer-wiki",
       options: {
+        defaultIndexLatestPostCount: 15,
         nav: [
+          {
+            title: "Latest",
+            url: "/latest/",
+          },
           {
             title: "Now",
             url: "/now/",
