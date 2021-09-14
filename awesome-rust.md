@@ -37,6 +37,7 @@ Curating awesome rust resources.
 - [cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - your favorite rust -> wasm workflow tool!
 - [gitoxide](https://github.com/Byron/gitoxide) - Git in Rust
+- [Cargo Watch](https://github.com/watchexec/cargo-watch) - Cargo watch, hot reload rust.
 
 ## Libraries
 

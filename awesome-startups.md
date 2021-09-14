@@ -7,6 +7,10 @@ tags:
 
 # Awesome Startups
 
+## Prelaunch
+
+- [Waiting list](https://waitinglist.app/) - Build your audience before you launch, #API
+
 ## Publish
 
 - [betalist](https://betalist.com/) - Discover tomorrow's startups, today.
