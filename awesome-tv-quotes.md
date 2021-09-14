@@ -10,3 +10,7 @@ tags:
 1. ![他们不知道该怎么做，需要你来告诉他们](attachments/the-morning-show-screenshot-1.jpg)
 
 > -- 《早间新闻》S01E09
+
+2. ![一个穷人什么时候有时间发疯啊](attachments/Man.Of.La.Mancha.1972-quote1.jpg)
+
+> -- 《梦幻骑士》1972
