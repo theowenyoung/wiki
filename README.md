@@ -23,6 +23,7 @@ I hope it's a gift for my grandchildren(if I have :)
 - Knowledge that is not remembered/not found is useless
 - My memory is poor
 - I am eager to show(show off) what I know
+- Records make me feel like I'm not wasting my time
 - The cost of writing a blog is high, but the cost of writing notes is low
 - I need a non-vendor locked solution to motivate me to record permanently
 - Plain text is forever

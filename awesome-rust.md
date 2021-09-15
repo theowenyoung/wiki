@@ -21,6 +21,7 @@ Curating awesome rust resources.
 - [Microsoft Rust First Class](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
 - [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Rust Latam: learn procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
 
 ## Answeres
 
