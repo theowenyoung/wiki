@@ -18,3 +18,7 @@ tags:
 ## 测试，命理
 
 - [八字，命理测试](http://www.freehoro.net/FreeHoro/index.php)
+
+## 追贼
+
+- [I Know what your download](https://iknowwhatyoudownload.com/) - 我知道你下载了什么，追踪 ip 的下载列表，有点可怕。。

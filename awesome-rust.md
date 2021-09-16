@@ -11,6 +11,7 @@ Curating awesome rust resources.
 ## Resources
 
 - [Easy Rust](https://github.com/Dhghomon/easy_rust) - A book that let you learn rust easy, rust explained using easy English, for non-English native.
+  - [中文版](https://kumakichi.github.io/easy_rust_chs/Chapter_0.html)
 - [rustlings](https://github.com/rust-lang/rustlings/) - 🦀 Small exercises to get you used to reading and writing Rust code!
   - [Learning Rust by Working Through the Rustlings Exercises](https://egghead.io/courses/learning-rust-by-solving-the-rustlings-exercises-a722)
 - [GitHub - Mercateo/rust-for-node-developers: An introduction to the Rust programming language for Node developers.](https://github.com/Mercateo/rust-for-node-developers)
@@ -28,6 +29,7 @@ Curating awesome rust resources.
 - [【翻译】 Rust 中的 String 和&str](https://zhuanlan.zhihu.com/p/123278299)
 - [【翻译】细谈 Rust 的所有权](https://zhuanlan.zhihu.com/p/115651233)
 - [Rust 程序设计语言中文版](https://kaisery.github.io/trpl-zh-cn/)
+- [【译】Rust 宏：教程与示例（二）](https://zhuanlan.zhihu.com/p/356427780)
 
 ## Communities
 
