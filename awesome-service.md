@@ -31,3 +31,11 @@ Curating awesome services.
 ## Applications
 
 - [make passport photo](https://makepassportphoto.com/?utm_campaign) - Get your biometric Passport/Visa/ID photos in minutes, #Photos #Print
+
+## APIs
+
+- [API LIST](https://apilist.fun/)
+
+## Sample
+
+- [Bad SSL](https://badssl.com/)

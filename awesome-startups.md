@@ -41,6 +41,7 @@ tags:
 ## Investing
 
 - [Micro investment](https://www.micro-invest.io/) - Micro investment for solo founders
+- [Maker Fellow Ship](https://www.makerfellowship.com/) - We offer $500 grant to indie makers to ship something useful within four weeks.
 
 ## Ideas
 

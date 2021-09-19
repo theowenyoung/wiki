@@ -20,9 +20,11 @@ Curating awesome rust resources.
 - [rust cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - This Rust Cookbook is a collection of simple Rust examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
 - [Rust Design Patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [Microsoft Rust First Class](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
+  - [中文版](https://docs.microsoft.com/zh-cn/learn/paths/rust-first-steps/)
 - [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Rust Latam: learn procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
+- [Native Rust support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
 
 ## Answeres
 
@@ -53,6 +55,8 @@ Curating awesome rust resources.
 - [egui](https://github.com/emilk/egui) - GUI library in Rust
 - [structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct. It combines clap with custom derive.
 - [telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
+- [anyhow](https://github.com/dtolnay/anyhow) - General error handle
+- [thiserror](https://github.com/dtolnay/thiserror) - Specific error handle
 
 ## Projects
 
@@ -66,3 +70,7 @@ Curating awesome rust resources.
 ## Criticism
 
 - [Why not Rust](https://matklad.github.io/2020/09/20/why-not-rust.html)
+
+## Jobs
+
+- [Rust Careers](https://rust.careers/)
