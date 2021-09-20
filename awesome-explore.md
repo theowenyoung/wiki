@@ -56,3 +56,7 @@ Curating the place for explore interesting things.
 ## Fun
 
 - [病毒步行](https://www.viralwalk.com/) - 通过互联网漫步发现新网站
+
+## Life
+
+- [Life Hacker](https://lifehacker.com/) - 生活黑客，提高生活质量的方法
