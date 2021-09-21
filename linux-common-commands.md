@@ -84,3 +84,23 @@ Tar to specific directory
 ```bash
 tar -xf x.tar.gz -C ./xxx
 ```
+
+## Stdout to File
+
+```bash
+command &> file
+```
+
+Overwrite:
+
+```bash
+command >| file.txt 2>&1
+```
+
+## Download/Upload file by SSH SCP
+
+Download to local:
+
+```bash
+scp root@ip:/path ~/Downloads
+```

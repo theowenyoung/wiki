@@ -57,6 +57,8 @@ Curating awesome rust resources.
 - [telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [anyhow](https://github.com/dtolnay/anyhow) - General error handle
 - [thiserror](https://github.com/dtolnay/thiserror) - Specific error handle
+- [frankenstein](https://github.com/ayrat555/frankenstein) - telegram bot api
+- [config-rs](https://github.com/mehcode/config-rs) - Default config for rs
 
 ## Projects
 
