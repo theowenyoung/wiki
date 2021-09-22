@@ -12,6 +12,7 @@ tags:
 ## 交流，笔友
 
 - [My Language Change](https://www.mylanguageexchange.com/Search.asp?selX3=1&selTxtChat=true) - 找到语言交换的笔友，按照最近上线时间排序，可以按照不同条件筛选。
+- [多语言在线聊天室 linguaroom 免费](https://www.linguaroom.io/)
 
 ## 工具
 
