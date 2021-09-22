@@ -23,6 +23,7 @@ Curating P2P things.
 ## Protocol
 
 - [Scuttlebutt](https://scuttlebutt.nz/get-started/) - Scuttlebutt is a social network and it works like others social apps we already use. The key difference is that it is decentralised, meaning not centralised
+- [urbit](https://urbit.org/) - A clean-slate OS and network for the 21st century.
 
 ## Torrents
 
