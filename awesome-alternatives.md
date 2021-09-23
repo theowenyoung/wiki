@@ -15,3 +15,4 @@ Curating awesome alternative resources.
   - Instances: <https://instances.invidious.io/>
 - [Open source Alternatives](https://www.btw.so/open-source-alternatives) - Curated 200+ open source alternatives to tools that businesses require in day-to-day operations. #Open-Source
 - [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust #Rust
+- [Bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more

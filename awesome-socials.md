@@ -20,3 +20,11 @@ tags:
 
 - [Superpeer](https://superpeer.com/) - Host cohort-based courses, live events, or 1:1 sessions, an all-in-one video platform that gives you the tools you need to engage with your audience through video, and connect in a more authentic way.
   - [Awesome Peers](https://awesomepeers.com/) - A list includes 900+ free peers
+
+## 协作社交
+
+- [WT.social](https://wt.social/) - 维基百科式的社交网络，所有都可以协作编辑所有人的帖子。
+
+## 图片
+
+- [pixelfled](https://pixelfed.org)
