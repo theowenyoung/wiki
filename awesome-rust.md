@@ -59,6 +59,7 @@ Curating awesome rust resources.
 - [thiserror](https://github.com/dtolnay/thiserror) - Specific error handle
 - [frankenstein](https://github.com/ayrat555/frankenstein) - telegram bot api
 - [config-rs](https://github.com/mehcode/config-rs) - Default config for rs
+- [ssr-rs](https://github.com/shakacode/ssr-rs) - rust ssr with js
 
 ## Projects
 
