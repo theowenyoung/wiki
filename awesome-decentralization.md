@@ -24,3 +24,7 @@ Curating awesome decentralized applications.
   - [jenny](https://www.uninformativ.de/git/jenny/file/README.html) - another python cli for twtxt
   - [mutt](https://gitlab.com/muttmua/mutt) - simillar but for email.
   - [jenny + mutt: Getting started with twtxt](https://www.uninformativ.de/blog/postings/2021-09-19/0/POSTING-en.html)
+  - [rusttxt](https://github.com/rustwtxt/rustwtxt)
+  - [twtxt-registry](https://github.com/DracoBlue/twtxt-registry)
+  - [twtxt xyz](http://twtxt.xyz/) - A twtxt user list
+    - [source](https://github.com/reednj/twtxt-directory)
