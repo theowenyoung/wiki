@@ -60,6 +60,8 @@ Curating awesome rust resources.
 - [frankenstein](https://github.com/ayrat555/frankenstein) - telegram bot api
 - [config-rs](https://github.com/mehcode/config-rs) - Default config for rs
 - [ssr-rs](https://github.com/shakacode/ssr-rs) - rust ssr with js
+- [sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly
+- [percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
 
 ## Projects
 
