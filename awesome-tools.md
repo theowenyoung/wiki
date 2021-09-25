@@ -22,3 +22,7 @@ tags:
 ## 追贼
 
 - [I Know what your download](https://iknowwhatyoudownload.com/) - 我知道你下载了什么，追踪 ip 的下载列表，有点可怕。。
+
+## 转换
+
+- [百度文库转 word 或 pdf](http://www.html22.com/zh/) - 有瑕疵，勉强能用。
