@@ -33,10 +33,7 @@ module.exports = {
             title: "Latest",
             url: "/latest/",
           },
-          {
-            title: "Now",
-            url: "/now/",
-          },
+
           {
             title: "Twitter",
             url: "https://twitter.com/theowenyoung",
@@ -44,6 +41,27 @@ module.exports = {
           {
             title: "Blog",
             url: "https://blog.owenyoung.com/",
+          },
+          {
+            title: "About",
+            items: [
+              {
+                title: "Now",
+                url: "/now/",
+              },
+              {
+                title: "About",
+                url: "/about/",
+              },
+              {
+                title: "Github",
+                url: "https://github.com/theowenyoung",
+              },
+              {
+                title: "Source Code",
+                url: "https://github.com/theowenyoung/wiki",
+              },
+            ],
           },
         ],
         editUrl: "https://github.com/theowenyoung/wiki/tree/main/",
