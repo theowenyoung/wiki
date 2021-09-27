@@ -34,3 +34,15 @@ tags:
 ## 语言
 
 - [imba](https://github.com/imba/imba) - IMBA 语言，全栈语言，最终编译为 Javascript，内置 html,style
+
+## 性能测试
+
+- [js 框架性能测试](https://github.com/krausest/js-framework-benchmark)
+- [ui bench](https://localvoid.github.io/uibench/) - another ui bench
+
+## 前端框架
+
+- [solid](https://github.com/solidjs/solid) - react like 的写法，但是性能极大的提高
+  - [solid real world example](https://github.com/solidjs/solid-realworld)
+  - [solid headless ui](https://github.com/LXSMNSYC/solid-headless)
+- [lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
