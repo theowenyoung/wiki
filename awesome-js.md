@@ -46,3 +46,11 @@ tags:
   - [solid real world example](https://github.com/solidjs/solid-realworld)
   - [solid headless ui](https://github.com/LXSMNSYC/solid-headless)
 - [lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+- [redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
+- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+  - [sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
+  - [svelte kit](https://github.com/sveltejs/kit)
+
+## 汇总资源
+
+- [awesome-react](https://github.com/enaqx/awesome-react)

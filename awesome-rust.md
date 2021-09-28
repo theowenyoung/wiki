@@ -25,6 +25,7 @@ Curating awesome rust resources.
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Rust Latam: learn procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
 - [Native Rust support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
+- [rust error handling](https://www.lpalmieri.com/posts/error-handling-rust/)
 
 ## Answeres
 
@@ -32,6 +33,7 @@ Curating awesome rust resources.
 - [【翻译】细谈 Rust 的所有权](https://zhuanlan.zhihu.com/p/115651233)
 - [Rust 程序设计语言中文版](https://kaisery.github.io/trpl-zh-cn/)
 - [【译】Rust 宏：教程与示例（二）](https://zhuanlan.zhihu.com/p/356427780)
+- [如何合并 error](https://stackoverflow.com/questions/52438988/what-is-the-most-idiomatic-way-to-merge-two-error-types)
 
 ## Communities
 
@@ -79,3 +81,7 @@ Curating awesome rust resources.
 ## Jobs
 
 - [Rust Careers](https://rust.careers/)
+
+## Real world example
+
+- [portier](https://github.com/portier/portier-broker) Portier Broker reference implementation, written in Rust, email login.
