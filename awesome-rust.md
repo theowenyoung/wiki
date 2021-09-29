@@ -34,6 +34,7 @@ Curating awesome rust resources.
 - [Rust 程序设计语言中文版](https://kaisery.github.io/trpl-zh-cn/)
 - [【译】Rust 宏：教程与示例（二）](https://zhuanlan.zhihu.com/p/356427780)
 - [如何合并 error](https://stackoverflow.com/questions/52438988/what-is-the-most-idiomatic-way-to-merge-two-error-types)
+- [rust 配置文件指南](https://blog.logrocket.com/configuration-management-in-rust-web-services/)
 
 ## Communities
 
@@ -64,6 +65,12 @@ Curating awesome rust resources.
 - [ssr-rs](https://github.com/shakacode/ssr-rs) - rust ssr with js
 - [sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly
 - [percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
+- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [env-logger](https://github.com/env-logger-rs/env_logger/) - log for rust
+- [fluent-rs](https://github.com/projectfluent/fluent-rs) - rust i18n
+  - [handlebars-fluent](https://github.com/manishearth/handlebars-fluent)
+- [handlebars-rust](https://github.com/sunng87/handlebars-rust)
+  - [handlebars_misc_helpers](https://github.com/davidB/handlebars_misc_helpers)
 
 ## Projects
 
@@ -85,3 +92,5 @@ Curating awesome rust resources.
 ## Real world example
 
 - [portier](https://github.com/portier/portier-broker) Portier Broker reference implementation, written in Rust, email login.
+- [plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub
+- [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
