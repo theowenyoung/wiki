@@ -46,6 +46,7 @@ Curating awesome rust resources.
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - your favorite rust -> wasm workflow tool!
 - [gitoxide](https://github.com/Byron/gitoxide) - Git in Rust
 - [Cargo Watch](https://github.com/watchexec/cargo-watch) - Cargo watch, hot reload rust.
+- [Cargo Make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 
 ## Libraries
 
@@ -71,6 +72,8 @@ Curating awesome rust resources.
   - [handlebars-fluent](https://github.com/manishearth/handlebars-fluent)
 - [handlebars-rust](https://github.com/sunng87/handlebars-rust)
   - [handlebars_misc_helpers](https://github.com/davidB/handlebars_misc_helpers)
+- [glob](https://github.com/rust-lang-nursery/glob) - Support for matching file paths against Unix shell style patterns.
+- [walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
 
 ## Projects
 
