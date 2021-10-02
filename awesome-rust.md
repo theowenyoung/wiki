@@ -26,6 +26,7 @@ Curating awesome rust resources.
 - [Rust Latam: learn procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
 - [Native Rust support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
 - [rust error handling](https://www.lpalmieri.com/posts/error-handling-rust/)
+- [actix examples](https://github.com/actix/examples)
 
 ## Answeres
 
@@ -47,6 +48,8 @@ Curating awesome rust resources.
 - [gitoxide](https://github.com/Byron/gitoxide) - Git in Rust
 - [Cargo Watch](https://github.com/watchexec/cargo-watch) - Cargo watch, hot reload rust.
 - [Cargo Make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
+- [roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for static datasets without writing a single line of code.
+- [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. ⚡🦀
 
 ## Libraries
 
@@ -74,6 +77,10 @@ Curating awesome rust resources.
   - [handlebars_misc_helpers](https://github.com/davidB/handlebars_misc_helpers)
 - [glob](https://github.com/rust-lang-nursery/glob) - Support for matching file paths against Unix shell style patterns.
 - [walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
+- [askama](https://github.com/djc/askama) - type safe template engine
+- [ramhorns](https://github.com/maciejhirsz/ramhorns) - Fast Mustache template engine implementation in pure Rust.
+- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [couch-rs](https://github.com/mibes/couch-rs) - CouchDB library for Rust
 
 ## Projects
 
