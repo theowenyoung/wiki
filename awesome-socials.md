@@ -34,3 +34,7 @@ tags:
 ## 语音交流
 
 - [Dialup](https://dialup.com/) - 偶然的声音聊天。
+
+## 匿名
+
+- [Turtle - Chat Anonymously ](https://apps.apple.com/us/app/turtle-chat-anonymously/id1313518475) - Turtle is an app that lets you message people and remain anonymous for three days. After three days, the other person will be able to see who you are. In an essence, it’s almost like meeting someone with a blindfold on. There is no room for implicit bias. The first impressions will be based off character, instead of appearance or status.
