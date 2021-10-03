@@ -10,6 +10,7 @@ tags:
 ## 文字交友
 
 - [SLOWLY](https://slowly.app/en/) - SLOWLY 让你从你的智能手机上认识笔友！按照距离远近，和不同的人发信有不同的发送时间，有的高达 10 多个小时才能发出去。与有共同爱好的人配对，写信并收集来自世界各地的邮票。说出你的想法--一次一封信!
+- [Addchat](https://apps.apple.com/us/app/addchat-random-chat/id1464989529) - Make Random Friends and Chat !
 
 ## Location based
 
@@ -28,3 +29,8 @@ tags:
 ## 图片
 
 - [pixelfled](https://pixelfed.org)
+- [deviantart](https://www.deviantart.com/) - 艺术家社区
+
+## 语音交流
+
+- [Dialup](https://dialup.com/) - 偶然的声音聊天。

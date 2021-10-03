@@ -27,12 +27,12 @@ Curating awesome rust resources.
 - [Native Rust support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
 - [rust error handling](https://www.lpalmieri.com/posts/error-handling-rust/)
 - [actix examples](https://github.com/actix/examples)
+- [Rust 程序设计语言中文版](https://kaisery.github.io/trpl-zh-cn/)
 
 ## Answeres
 
 - [【翻译】 Rust 中的 String 和&str](https://zhuanlan.zhihu.com/p/123278299)
 - [【翻译】细谈 Rust 的所有权](https://zhuanlan.zhihu.com/p/115651233)
-- [Rust 程序设计语言中文版](https://kaisery.github.io/trpl-zh-cn/)
 - [【译】Rust 宏：教程与示例（二）](https://zhuanlan.zhihu.com/p/356427780)
 - [如何合并 error](https://stackoverflow.com/questions/52438988/what-is-the-most-idiomatic-way-to-merge-two-error-types)
 - [rust 配置文件指南](https://blog.logrocket.com/configuration-management-in-rust-web-services/)
@@ -81,6 +81,7 @@ Curating awesome rust resources.
 - [ramhorns](https://github.com/maciejhirsz/ramhorns) - Fast Mustache template engine implementation in pure Rust.
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [couch-rs](https://github.com/mibes/couch-rs) - CouchDB library for Rust
+- [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases, redis alternatives
 
 ## Projects
 

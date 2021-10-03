@@ -48,6 +48,10 @@ Curating the place for explore interesting things.
 
 - [用中文浏览 Product Hunt 热门 App，网站和产品 - Product Hunt 热门 (buzzing.cc)](https://ph.buzzing.cc/)
 - [用中文浏览 reddit 业余项目讨论 - 业余项目分享交流 (buzzing.cc)](https://sideproject.buzzing.cc/)
+- [沉迷优秀 App 不能自拔-豆瓣小组 ](https://www.douban.com/group/689011/)
+- [这小程序针不戳啊-豆瓣小组](https://www.douban.com/group/718741/)
+- [分享创造-v2ex](https://v2ex.com/go/create)
+- [分享发现-v2ex](https://v2ex.com/go/share)
 
 ## 信息订阅/推送
 
@@ -60,3 +64,7 @@ Curating the place for explore interesting things.
 ## Life
 
 - [Life Hacker](https://lifehacker.com/) - 生活黑客，提高生活质量的方法
+
+## Image
+
+- [deviantart](https://www.deviantart.com/) - 艺术家社区

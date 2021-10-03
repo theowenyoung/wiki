@@ -45,3 +45,7 @@ tags:
 ## Developers
 
 - [Make friends making the web. ✨](https://webwide.chat/) - Webwide is an inclusive, supportive community of professional and hobbyist web designers & developers.
+
+## Foods
+
+- [速食食品爱好者联盟-豆瓣小组](https://www.douban.com/group/682274/)

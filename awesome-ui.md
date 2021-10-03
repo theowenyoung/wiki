@@ -34,3 +34,7 @@ Curating awesome UI tools, resources.
   - [tailwind landing page](https://github.com/cruip/tailwind-landing-page-template)
 - [milligram](https://github.com/milligram/milligram) - 极简主义 css
 - [headlessui](https://github.com/tailwindlabs/headlessui)
+
+## CSS Tools
+
+- [theme-change](https://github.com/saadeghi/theme-change) - Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
