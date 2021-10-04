@@ -104,3 +104,15 @@ Download to local:
 ```bash
 scp root@ip:/path ~/Downloads
 ```
+
+## Remove node_modules
+
+```bash
+find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +
+```
+
+## Remove target
+
+```bash
+find . -name 'target' -type d -prune -exec rm -rf '{}' +
+```
