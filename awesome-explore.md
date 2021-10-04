@@ -68,3 +68,7 @@ Curating the place for explore interesting things.
 ## Image
 
 - [deviantart](https://www.deviantart.com/) - 艺术家社区
+
+## Maker
+
+- [Get Maker Log](https://getmakerlog.com/) - How makers stay productive

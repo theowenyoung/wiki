@@ -50,3 +50,7 @@ tags:
 ## Legel
 
 - [avodocs](https://www.avodocs.com/) - Free legal documents for startups
+
+## Communities
+
+- [Get Maker Log](https://getmakerlog.com/) - How makers stay productive

@@ -41,6 +41,7 @@ tags:
 - [Make.rs](https://make.rs/) - What are you working on?
 - [Something I Made Reddit](https://www.reddit.com/r/somethingimade/)
 - [Side Project](https://www.reddit.com/r/SideProject)
+- [Get Maker Log](https://getmakerlog.com/) - How makers stay productive
 
 ## Developers
 
