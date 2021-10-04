@@ -50,3 +50,7 @@ tags:
 ## Foods
 
 - [速食食品爱好者联盟-豆瓣小组](https://www.douban.com/group/682274/)
+
+## 迷惑
+
+- [神人](https://www.reddit.com/r/nextfuckinglevel/)
