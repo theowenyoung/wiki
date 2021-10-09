@@ -56,13 +56,6 @@ Now that dependencies are installed, before running PeerTube you should start Po
 sudo systemctl start redis postgresql
 ```
 
-# Production guide
-
-- [Installation](#installation)
-- [Upgrade](#upgrade)
-
-## Installation
-
 ### PeerTube user
 
 Create a `peertube` user with `/var/www/peertube` home:
