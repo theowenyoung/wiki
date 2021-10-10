@@ -23,7 +23,7 @@ This is a list of projects I've done and am doing.
 
 - **[Buzzing](https://www.buzzing.cc)**
 
-  You can use [Buzzing](https://www.buzzing.cc/) to see hot discussions in your native language. Browse in your native language, Read more into the original text. Currently, it supports Chinese, you can find topics like [Buzzing on Reddit](https://reddit.buzzing.cc), [Buzzing on Stocks](https://stocks.buzzing.cc), [Buzzing on Product Hunt](https://ph.buzzing.cc), [Buzzing on Hacker News](https://hn.buzzing.cc/), [Buzzing on Reddit ASK](https://ask.buzzing.cc/), etc.
+  You can use [Buzzing](https://www.buzzing.cc/) to see hot discussions in your native language. Browse in your native language, Read more into the original text. Currently, it supports Chinese, Japanese, English, you can find topics like [Buzzing on Reddit](https://reddit.buzzing.cc), [Buzzing on Stocks](https://stocks.buzzing.cc), [Buzzing on Product Hunt](https://ph.buzzing.cc), [Buzzing on Hacker News](https://hn.buzzing.cc/), [Buzzing on Reddit ASK](https://ask.buzzing.cc/), etc.
 
 - **[Gatsby Theme Timeline](https://github.com/theowenyoung/gatsby-theme-timeline)**
 
