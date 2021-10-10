@@ -43,3 +43,7 @@ tags:
 
 - [bumble](https://bumble.com/zh/) - 女性友好
 - [vina](https://www.heyvina.com/) - 女性交友社区
+
+## All in one chat
+
+- [beeper](https://www.beeper.com/?hn) - 真正的 all in one 聊天，整合 15 个 app 的聊天，降维打击啊这是。

@@ -13,6 +13,7 @@ tags:
 - [新西兰创业公司](https://www.failory.com/startups/new-zealand)
 - [app store 2021 stats](https://42matters.com/ios-apple-app-store-statistics-and-trends)
 - [妈妈测试- hn 图书推荐](https://hacker-recommended-books.vercel.app/category/0/past-6-months/page/0/5)
+  - [妈妈测试书评](https://book.douban.com/review/10002244/)
 - [hn shows 去哪了](https://news.ycombinator.com/item?id=28682173)
 
 ## 感想

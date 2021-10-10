@@ -31,3 +31,11 @@ tags:
 ## Server
 
 - [Nginx Playground](https://nginx-playground.wizardzines.com/) - 在线调试 nginx 服务器
+
+## Developmenets
+
+- [cosmopolitan - build-once run-anywhere c library](https://github.com/jart/cosmopolitan) - 编译生成单一的可执行文件的服务器
+
+## Stocks
+
+- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone. python 写的投资情绪等分析。

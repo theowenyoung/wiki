@@ -26,6 +26,7 @@ Full stack developer, main technology stack is javascript. Find more my projects
 - Telegram [@theowenyoung](https://t.me/theowenyoung)
 - Instagram [@iamowenyoung](https://www.instagram.com/iamowenyoung/)
 - Patreon [@theowenyoung](https://www.patreon.com/theowenyoung)
+- Read.cv [@owenyoung](https://read.cv/owenyoung)
 
 ## How I built my wiki?
 
