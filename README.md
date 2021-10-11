@@ -32,7 +32,7 @@ I hope it's a gift for my grandchildren(if I have :)
 
 The source and site are hosted on [GitHub - theowenyoung/wiki: Personal Knowledge Base Wiki, Everything I Know.](https://github.com/theowenyoung/wiki)
 
-I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-primer-wiki: Gatsby Theme Primer Wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki), If you want to build your own wiki like this, you can follow [GitHub - theowenyoung/foam-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki)
+I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-primer-wiki: Gatsby Theme Primer Wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki), If you want to build your own wiki like this, you can follow [GitHub - theowenyoung/foam-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki) or [obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki) if you prefer Obsidian.
 
 ## About Me
 

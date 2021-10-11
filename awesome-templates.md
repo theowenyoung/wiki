@@ -17,3 +17,7 @@ Curating awesome templates for projects.
   - [rust-mustache](https://github.com/nickel-org/rust-mustache)
 - [handlebars](https://github.com/handlebars-lang/handlebars.js#)
   - [handlebars-rust](https://github.com/sunng87/handlebars-rust)
+
+## Boilerplate
+
+- [makenew](https://github.com/makenew/) - Tested project skeletons to instantly bootstrap and reliably maintain your next project.

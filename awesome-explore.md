@@ -75,7 +75,7 @@ Curating the place for explore interesting things.
 
 - [Get Maker Log](https://getmakerlog.com/) - How makers stay productive
 
-## Trends
+## Indexes
 
 - [[awesome-indexes]]
 

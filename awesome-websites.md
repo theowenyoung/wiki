@@ -20,3 +20,4 @@ tags:
 - [stumbled](https://stumbled.cc/stumble) - 随机发现有意思的网站
 - [哪个艺术品更贵](https://expensivetaste.art/)
 - [ipod 复古界面听音乐](https://tannerv.com/ipod/)
+- [Gif.so](https://welcome.gif.so/) - 随便填个子域名，他会返回一个对应的表情包

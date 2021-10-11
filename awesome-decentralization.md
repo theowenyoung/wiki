@@ -28,3 +28,7 @@ Curating awesome decentralized applications.
   - [twtxt-registry](https://github.com/DracoBlue/twtxt-registry)
   - [twtxt xyz](http://twtxt.xyz/) - A twtxt user list
     - [source](https://github.com/reednj/twtxt-directory)
+
+## Mail
+
+- [MNM](https://mnmnotmail.org/) - Email alternatives

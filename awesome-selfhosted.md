@@ -43,3 +43,11 @@ tags:
 ## Old school
 
 - [gemini](https://gemini.circumlunar.space/) - Gemini is a new internet protocol which: Is heavier than gopher, Is lighter than the web, Will not replace either, Strives for maximum power to weight ratio, Takes user privacy very seriously
+
+## Livestreaming
+
+- [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
+
+## Admin
+
+- [ToolJet](https://github.com/ToolJet/ToolJet/) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
