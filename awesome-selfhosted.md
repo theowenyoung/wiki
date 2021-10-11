@@ -39,3 +39,7 @@ tags:
 - [Orbit](https://github.com/orbitdb/orbit) - A distributed, serverless, peer-to-peer chat application on IPFS.
 - [Iris](https://github.com/irislib/iris-messenger) - Decentralized messenger
 - [Twt.social](https://twt.social/) - Twt.social is a new Social Media platform
+
+## Old school
+
+- [gemini](https://gemini.circumlunar.space/) - Gemini is a new internet protocol which: Is heavier than gopher, Is lighter than the web, Will not replace either, Strives for maximum power to weight ratio, Takes user privacy very seriously

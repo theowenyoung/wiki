@@ -39,3 +39,7 @@ tags:
 ## Stocks
 
 - [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone. python 写的投资情绪等分析。
+
+## Wifi
+
+- [Wificard](https://wificard.io/) - print wifi info to card

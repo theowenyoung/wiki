@@ -20,6 +20,7 @@ Curating the place for explore interesting things.
 - [Betalist](https://betalist.com/) - Discover tomorrow's startups, today.
 - [startupbase](https://startupbase.io/) - Discover early access products.
 - [10words](https://10words.io/) - 10words: Discover new apps and startups in 10 words or less
+- [Read.cv explore](https://read.cv/explore) - profile 聚合,个人简历聚合
 
 ## Self-Hosted
 
