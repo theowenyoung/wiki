@@ -2,7 +2,7 @@
 tags:
   - Awesome
   - Code
-  - Leaning
+  - Learning
 ---
 
 # Awesome Code Learning
