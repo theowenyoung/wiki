@@ -48,3 +48,15 @@ Curating awesome services.
 ## Resume/Profile
 
 - [read cv](https://read.cv/)
+
+## News
+
+- [Their news](https://www.their.news/) - left or right news
+
+## Image process
+
+- [screen stab](https://www.screenstab.com/editor/) - convert image to a more seo mode.
+
+## Code in Cloud
+
+- [never install](https://neverinstall.com/)

@@ -21,3 +21,11 @@ tags:
 - [哪个艺术品更贵](https://expensivetaste.art/)
 - [ipod 复古界面听音乐](https://tannerv.com/ipod/)
 - [Gif.so](https://welcome.gif.so/) - 随便填个子域名，他会返回一个对应的表情包
+- [their news](https://www.their.news/) - 左派/右派新闻对比
+- [从图片/PDF 中提取表格](https://extract-table.com/)
+- [youtube 上的教程分类集合](ytt-tech.com)
+- [摄像头捕捉变成复选框动画](https://www.bryanbraun.com/checkboxland/docs/demos/webcam-test/)
+  - [源代码库](https://github.com/bryanbraun/checkboxland)
+- [将网站的 console 控制台变成聊天室](https://www.consolechat.io/)
+- [生成一次性秘密用一次性 url](https://github.com/sniptt-official/ots)
+- [收集有意思的网站到一个个清单](https://bunklist.com/)

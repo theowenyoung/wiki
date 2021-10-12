@@ -82,10 +82,14 @@ Curating awesome rust resources.
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [couch-rs](https://github.com/mibes/couch-rs) - CouchDB library for Rust
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases, redis alternatives
+- [rksuid](https://github.com/nharring/rksuid) - Rust implementation of Segment.io's ksuid, id generator.
+  - [sonyflake-rs](https://github.com/bahlo/sonyflake-rs) - sony flake id generator rust
 
 ## Projects
 
 - [mini-redis](https://github.com/tokio-rs/mini-redis/) - based on tokio, redis example
+- [hacker news in rust](https://github.com/ivanceras/hackernews-sauron)
+- [blade site](https://github.com/grego/bladesite) - rust static site generator, blaze fast
 
 ## Applications
 
@@ -105,3 +109,7 @@ Curating awesome rust resources.
 - [portier](https://github.com/portier/portier-broker) Portier Broker reference implementation, written in Rust, email login.
 - [plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
+
+## Templates
+
+- [rust cli starter](https://github.com/rust-starter/rust-starter) - rust cli template

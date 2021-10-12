@@ -18,3 +18,8 @@ Curating awesome database resources.
 - [localforage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [kinto](https://github.com/Kinto/kinto.js/) - An Offline-First JavaScript Client for Kinto.
 - [puchdb](https://github.com/pouchdb/pouchdb) - 🐨 - PouchDB is a pocket-sized database.
+
+## Tools
+
+- [sqlite playgound](https://sqlime.org/)
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins

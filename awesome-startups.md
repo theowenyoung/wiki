@@ -29,6 +29,8 @@ tags:
 
 - [Free Article Publishing](https://liquidary.com/freearticle/) - Get free press coverage for your project or startup
 - [Microacquire](https://microacquire.com/buyers/) - Sell your company online, Sell your startup within 30 days. Anonymous listings. No fees.
+- [promote your next startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
+- [My Side Project rocks](https://mysideproject.rocks/)
 
 ## Sharing
 

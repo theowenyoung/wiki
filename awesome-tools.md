@@ -43,3 +43,18 @@ tags:
 ## Wifi
 
 - [Wificard](https://wificard.io/) - print wifi info to card
+
+## 图片生成
+
+- [漂亮的代码截图生成](https://ray.so/)
+- [另一个代码截图生成器](https://carbon.now.sh/)
+- [52 斗图](https://www.52doutu.cn/) - 表情包在线生成
+- [rust 生成线条图片](https://github.com/lf94/img2utf)
+
+## URL 缩短器
+
+- [利用 github Issues 缩短网址](https://github.com/nelsontky/gh-pages-url-shortener)
+
+## 图片裁剪
+
+- [photo 16x9](https://photo16x9.com/) - 填充背景色以使得图片满足 16:9 的推特比例
