@@ -13,3 +13,4 @@ tags:
   > by [nothing_in_my_mind](https://www.reddit.com/r/TooAfraidToAsk/comments/pgvecw/how_are_7080_year_olds_generally_regarded_as/hbffv43/?utm_source=reddit&utm_medium=web2x&context=3)
 - > “川陀的覆灭，”谢顿说，“是任何努力都无法阻止的。然而，要使它加速却非常容易。
   > by 《银河帝国》
+- > 夹三明治的肉，如果写成「90％不含脂肪」就比「含 10％脂肪」更具吸引力。 -- 《快思慢想》
