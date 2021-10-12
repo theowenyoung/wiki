@@ -27,5 +27,7 @@ Curating awesome alternative resources.
   - [nhost](https://github.com/nhost/nhost) - another firebase alternative.
 - Hacker News
   - [hacker news open source in ruby](hhttps://github.com/lobsters/lobsters)
+  - [littr](https://github.com/mariusor/go-littr)
+  - [gurlic](https://gurlic.com/) - another hacker news alternatives
 - Netlify
   - [Meli](https://github.com/getmeli/meli)

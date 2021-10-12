@@ -90,6 +90,8 @@ Curating awesome rust resources.
 - [mini-redis](https://github.com/tokio-rs/mini-redis/) - based on tokio, redis example
 - [hacker news in rust](https://github.com/ivanceras/hackernews-sauron)
 - [blade site](https://github.com/grego/bladesite) - rust static site generator, blaze fast
+- [kibou](https://github.com/Toromino/kibou) - rust mastondon
+  - https://git.cybre.club/kibouproject/kibou
 
 ## Applications
 

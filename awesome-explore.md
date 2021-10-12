@@ -66,6 +66,7 @@ Curating the place for explore interesting things.
 ## Life
 
 - [Life Hacker](https://lifehacker.com/) - 生活黑客，提高生活质量的方法
+- [something awful](https://www.somethingawful.com/)
 
 ## Image
 

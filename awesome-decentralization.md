@@ -10,6 +10,7 @@ Curating awesome decentralized applications.
 ## List
 
 - [awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - A curated list about the decentralized technologies and tools to develop decentralized applications.
+- [Fediverse Wiki](https://en.wikipedia.org/wiki/Fediverse)
 
 ## Social
 
@@ -28,6 +29,8 @@ Curating awesome decentralized applications.
   - [twtxt-registry](https://github.com/DracoBlue/twtxt-registry)
   - [twtxt xyz](http://twtxt.xyz/) - A twtxt user list
     - [source](https://github.com/reednj/twtxt-directory)
+- [kibou](https://github.com/Toromino/kibou) - rust mastondon
+- [Indie Web](https://indieweb.org/) - The IndieWeb is a community of individual personal websites
 
 ## Mail
 

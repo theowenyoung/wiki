@@ -29,3 +29,4 @@ tags:
 - [将网站的 console 控制台变成聊天室](https://www.consolechat.io/)
 - [生成一次性秘密用一次性 url](https://github.com/sniptt-official/ots)
 - [收集有意思的网站到一个个清单](https://bunklist.com/)
+- [和老人聊天并获得报酬](https://silverdial.org/)
