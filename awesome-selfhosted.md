@@ -51,3 +51,8 @@ tags:
 ## Admin
 
 - [ToolJet](https://github.com/ToolJet/ToolJet/) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
+
+## Chat
+
+- [mattermost](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [conduit](https://gitlab.com/famedly/conduit) - Conduit is a simple, fast and reliable chat server powered by Matrix

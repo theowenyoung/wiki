@@ -7,6 +7,15 @@ tags:
 
 Curating awesome database resources.
 
+## Resource
+
+- [Mastering Postgres indexes in 10 minutes](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)
+- [country states database](https://github.com/dr5hn/countries-states-cities-database)
+
+## Answers
+
+- [find the nearest location by latitude and longitude in postgresql](https://stackoverflow.com/questions/37827468/find-the-nearest-location-by-latitude-and-longitude-in-postgresql)
+
 ## ORM
 
 - [prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)

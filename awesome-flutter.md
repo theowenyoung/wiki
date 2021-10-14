@@ -11,6 +11,7 @@ Curating Flutter resources.
 
 - [awesome flutter](https://github.com/Solido/awesome-flutter)
   - [track](https://www.trackawesomelist.com/Solido/awesome-flutter/readme/)
+- [open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - 📱 List of open source Flutter applications :octocat:
 
 ## Roadmap
 
@@ -27,3 +28,8 @@ Curating Flutter resources.
 ## Libraries
 
 - [visa](https://github.com/e-oj/visa) - Easy third party authentication (OAuth 2.0) for Flutter apps.
+- [wechat-assets-picker](https://github.com/fluttercandies/flutter_wechat_assets_picker)
+
+## Apps
+
+- [flutter-tinder](https://github.com/Ivaskuu/tinder_cards)

@@ -83,7 +83,11 @@ Curating awesome rust resources.
 - [couch-rs](https://github.com/mibes/couch-rs) - CouchDB library for Rust
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases, redis alternatives
 - [rksuid](https://github.com/nharring/rksuid) - Rust implementation of Segment.io's ksuid, id generator.
+
   - [sonyflake-rs](https://github.com/bahlo/sonyflake-rs) - sony flake id generator rust
+  - [ulid-rs](https://github.com/dylanhart/ulid-rs)
+
+- [diesel](https://github.com/diesel-rs/diesel) - database orm
 
 ## Projects
 
@@ -92,6 +96,7 @@ Curating awesome rust resources.
 - [blade site](https://github.com/grego/bladesite) - rust static site generator, blaze fast
 - [kibou](https://github.com/Toromino/kibou) - rust mastondon
   - https://git.cybre.club/kibouproject/kibou
+- [forustm](https://github.com/daogangtang/forustm) - rust forum
 
 ## Applications
 
@@ -111,6 +116,7 @@ Curating awesome rust resources.
 - [portier](https://github.com/portier/portier-broker) Portier Broker reference implementation, written in Rust, email login.
 - [plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
+- [conduit](https://gitlab.com/famedly/conduit) - Conduit is a simple, fast and reliable chat server powered by Matrix
 
 ## Templates
 
