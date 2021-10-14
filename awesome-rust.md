@@ -117,6 +117,7 @@ Curating awesome rust resources.
 - [plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
 - [conduit](https://gitlab.com/famedly/conduit) - Conduit is a simple, fast and reliable chat server powered by Matrix
+- [revolt](https://github.com/revoltchat/revolt) - discord alternative
 
 ## Templates
 

@@ -27,7 +27,9 @@ module.exports = {
     {
       resolve: "gatsby-theme-primer-wiki",
       options: {
-        defaultIndexLatestPostCount: 15,
+        icon: "./static/logo.png",
+        sidebarComponents: ["latest", "tag"],
+        defaultIndexLatestPostCount: 10,
         nav: [
           {
             title: "Latest",

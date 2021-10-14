@@ -33,3 +33,4 @@ Curating Flutter resources.
 ## Apps
 
 - [flutter-tinder](https://github.com/Ivaskuu/tinder_cards)
+- [flutty chat](https://gitlab.com/famedly/fluffychat) - FluffyChat is a multi-platform Matrix client written in Dart/Flutter. It compiles to native code on Android, iOS, macOS, Windows and Linux and renders with Skia on the web. FluffyChat is just a hobby project from the developers of Famedly and licensed under AGPLv3. It follows a design philosophy to be minimalistic, inclusive and easy to use.
