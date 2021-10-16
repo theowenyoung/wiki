@@ -15,6 +15,7 @@ Curating awesome database resources.
 ## Answers
 
 - [find the nearest location by latitude and longitude in postgresql](https://stackoverflow.com/questions/37827468/find-the-nearest-location-by-latitude-and-longitude-in-postgresql)
+- [change postgres enum type](https://www.munderwood.ca/index.php/2015/05/28/altering-postgresql-columns-from-one-enum-to-another/)
 
 ## ORM
 

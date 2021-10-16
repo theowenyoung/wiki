@@ -88,6 +88,7 @@ Curating awesome rust resources.
   - [ulid-rs](https://github.com/dylanhart/ulid-rs)
 
 - [diesel](https://github.com/diesel-rs/diesel) - database orm
+- [rust juniper](https://github.com/graphql-rust/juniper) - graphql in rust
 
 ## Projects
 
@@ -102,6 +103,9 @@ Curating awesome rust resources.
 
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
+- [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. real world example
+- [rust full stack](https://github.com/steadylearner/Rust-Full-Stack)
+- [canduma](https://github.com/clifinger/canduma) - A Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT
 
 ## Criticism
 

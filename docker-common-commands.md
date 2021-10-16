@@ -10,3 +10,10 @@ tags:
 ```bash
 docker-compose exec service-name /bin/sh
 ```
+
+## Clean all
+
+```bash
+docker system prune --volumes
+
+```
