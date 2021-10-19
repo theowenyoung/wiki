@@ -56,6 +56,7 @@ Curating awesome services.
 ## Image process
 
 - [screen stab](https://www.screenstab.com/editor/) - convert image to a more seo mode.
+- [robohash](https://github.com/e1ven/Robohash) - generate image by any text
 
 ## Code in Cloud
 

@@ -36,6 +36,8 @@ Curating awesome rust resources.
 - [【译】Rust 宏：教程与示例（二）](https://zhuanlan.zhihu.com/p/356427780)
 - [如何合并 error](https://stackoverflow.com/questions/52438988/what-is-the-most-idiomatic-way-to-merge-two-error-types)
 - [rust 配置文件指南](https://blog.logrocket.com/configuration-management-in-rust-web-services/)
+- [rust mongodb redis example](https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/)
+- [rust sqlx postgres custom type](https://github.com/launchbadge/sqlx/issues/1004)
 
 ## Communities
 
@@ -89,6 +91,7 @@ Curating awesome rust resources.
 
 - [diesel](https://github.com/diesel-rs/diesel) - database orm
 - [rust juniper](https://github.com/graphql-rust/juniper) - graphql in rust
+- [include_dir](https://github.com/Michael-F-Bryan/include_dir) - compile include dir files
 
 ## Projects
 

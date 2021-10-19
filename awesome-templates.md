@@ -21,3 +21,9 @@ Curating awesome templates for projects.
 ## Boilerplate
 
 - [makenew](https://github.com/makenew/) - Tested project skeletons to instantly bootstrap and reliably maintain your next project.
+
+## Landing page
+
+- [react-saas](https://github.com/dunky11/react-saas-template)
+- [tailwind langding page](https://github.com/cruip/tailwind-landing-page-template)
+- [mobile app](https://github.com/sandoche/Mobile-app-landingpage-template)

@@ -21,3 +21,7 @@ Curating awesome applications.
 ## Web
 
 - [Stupid RSS Reader](https://github.com/gurov/stupid-rss-reader) - ⊕ PWA RSS client on Angular 11
+
+## All
+
+- [自记账](https://www.zijizhang.com/) - 自己记账，不找代理
