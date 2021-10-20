@@ -15,5 +15,5 @@ docker-compose exec service-name /bin/sh
 
 ```bash
 docker system prune --volumes
-
+docker image prune -a
 ```

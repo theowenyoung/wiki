@@ -38,6 +38,7 @@ Curating awesome rust resources.
 - [rust 配置文件指南](https://blog.logrocket.com/configuration-management-in-rust-web-services/)
 - [rust mongodb redis example](https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/)
 - [rust sqlx postgres custom type](https://github.com/launchbadge/sqlx/issues/1004)
+- [rust jwt example](https://blog.logrocket.com/jwt-authentication-in-rust/)
 
 ## Communities
 
@@ -92,6 +93,8 @@ Curating awesome rust resources.
 - [diesel](https://github.com/diesel-rs/diesel) - database orm
 - [rust juniper](https://github.com/graphql-rust/juniper) - graphql in rust
 - [include_dir](https://github.com/Michael-F-Bryan/include_dir) - compile include dir files
+- [jwt-simple](https://crates.io/crates/jwt-simple)
+- [pasetors](https://github.com/brycx/pasetors)
 
 ## Projects
 
