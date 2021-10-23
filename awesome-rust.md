@@ -28,6 +28,7 @@ Curating awesome rust resources.
 - [rust error handling](https://www.lpalmieri.com/posts/error-handling-rust/)
 - [actix examples](https://github.com/actix/examples)
 - [Rust 程序设计语言中文版](https://kaisery.github.io/trpl-zh-cn/)
+- [rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison)
 
 ## Answeres
 
@@ -39,6 +40,8 @@ Curating awesome rust resources.
 - [rust mongodb redis example](https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/)
 - [rust sqlx postgres custom type](https://github.com/launchbadge/sqlx/issues/1004)
 - [rust jwt example](https://blog.logrocket.com/jwt-authentication-in-rust/)
+- [tokio service 解析](https://tokio.rs/blog/2021-05-14-inventing-the-service-trait)
+  - [中文版](https://www.purewhite.io/2021/05/24/inventing-the-service-trait/)
 
 ## Communities
 
@@ -95,6 +98,8 @@ Curating awesome rust resources.
 - [include_dir](https://github.com/Michael-F-Bryan/include_dir) - compile include dir files
 - [jwt-simple](https://crates.io/crates/jwt-simple)
 - [pasetors](https://github.com/brycx/pasetors)
+- [validator](https://github.com/Keats/validator)
+- [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 
 ## Projects
 
