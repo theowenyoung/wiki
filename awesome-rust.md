@@ -42,6 +42,7 @@ Curating awesome rust resources.
 - [rust jwt example](https://blog.logrocket.com/jwt-authentication-in-rust/)
 - [tokio service 解析](https://tokio.rs/blog/2021-05-14-inventing-the-service-trait)
   - [中文版](https://www.purewhite.io/2021/05/24/inventing-the-service-trait/)
+- [关于 rust 的常见疑问中文版](https://www.purewhite.io/2021/09/01/rust-faq/)
 
 ## Communities
 
