@@ -101,6 +101,7 @@ Curating awesome rust resources.
 - [pasetors](https://github.com/brycx/pasetors)
 - [validator](https://github.com/Keats/validator)
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [once cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
 
 ## Projects
 
