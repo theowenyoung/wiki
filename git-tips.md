@@ -22,3 +22,15 @@ git pull upstream main --commit --no-edit
 ```bash
 git checkout --theirs .
 ```
+
+## 首次更新子 repo
+
+```bash
+git submodule update --init --recursive
+```
+
+Later
+
+```bash
+git submodule update --recursive
+```
