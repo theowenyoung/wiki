@@ -116,3 +116,15 @@ find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +
 ```bash
 find . -name 'target' -type d -prune -exec rm -rf '{}' +
 ```
+
+## Find and replace string
+
+```bash
+sed -i 's/old-text/new-text/g' input.txt
+```
+
+## Soft Link
+
+```bash
+ln -s source_file target_file
+```
