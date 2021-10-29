@@ -7,6 +7,10 @@ tags:
 
 Curating Flutter resources.
 
+## Articles
+
+- [Dart Board](https://github.com/ahammer/dart_board) - Dart Board is a Framework/Architecture pattern for Flutter applications.
+
 ## List
 
 - [awesome flutter](https://github.com/Solido/awesome-flutter)
@@ -64,6 +68,7 @@ Curating Flutter resources.
 - [flutter wechat](https://github.com/OpenFlutter/fluwx) - flutter 微信 sdk
 - [tiktoklike scrooler](https://pub.dev/packages/tiktoklikescroller)
 - [river_pod](https://github.com/rrousselgit/river_pod) - A simple way to access state while robust and testable.
+- [very good cli](https://pub.dev/packages/very_good_cli) - create kool template flutter cli
 
 ## Apps
 
@@ -75,3 +80,10 @@ Curating Flutter resources.
 - [facebook reactions](https://github.com/duytq94/flutter-fb-reactions-animation)
 - [whatsapp clone](https://github.com/iampawan/FlutterWhatsAppClone)
 - [flutter food bite](https://github.com/JideGuru/FlutterFoodybite) - 挺好看的
+- [flutgter boilerplate](https://github.com/zubairehman/flutter-boilerplate-project)
+  - <https://github.com/bizz84/starter_architecture_flutter_firebase>
+
+## Templates
+
+- [nft template](https://github.com/nhancv/nft)
+- [bloc boilerplate](https://github.com/wem2017/flutter_bloc_boilerplate)
