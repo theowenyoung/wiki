@@ -63,6 +63,7 @@ Curating Flutter resources.
 - [animated text kit](https://github.com/aagarwal1012/Animated-Text-Kit)
 - [flutter wechat](https://github.com/OpenFlutter/fluwx) - flutter 微信 sdk
 - [tiktoklike scrooler](https://pub.dev/packages/tiktoklikescroller)
+- [river_pod](https://github.com/rrousselgit/river_pod) - A simple way to access state while robust and testable.
 
 ## Apps
 
