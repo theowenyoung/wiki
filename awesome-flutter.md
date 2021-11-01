@@ -12,6 +12,10 @@ Curating Flutter resources.
 - [Dart Board](https://github.com/ahammer/dart_board) - Dart Board is a Framework/Architecture pattern for Flutter applications.
 - [Dart JSON and serialization](https://flutter.dev/docs/development/data-and-backend/json#code-generation)
 
+## Books
+
+- [Flutter in action]](https://livebook.manning.com/book/flutter-in-action/)
+
 ## List
 
 - [awesome flutter](https://github.com/Solido/awesome-flutter)

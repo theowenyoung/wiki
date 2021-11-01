@@ -22,7 +22,25 @@ sudo apt update
 sudo apt install nginx
 ```
 
-## Install certbot
+## Optional generate nginx conf online
+
+Generate a nginx conf online at [here](https://www.digitalocean.com/community/tools/nginx)
+
+If nginx conf need dhparam.pem, run :`cd /etc/nginx sudo openssl dhparam -dsaparam -out dhparam.pem 4096`
+
+## Optional install acme.sh
+
+```bash
+sudo su
+wget -O -  https://get.acme.sh | sh -s email=my@example.com
+```
+
+```bash
+source ~/.bashrc
+acme.sh --issue -d example.com --nginx
+```
+
+## Optional Install certbot
 
 ### Install snap
 
@@ -38,15 +56,12 @@ sudo snap install core; sudo snap refresh core
 
 ```bash
 sudo snap install --classic certbot
+sudo snap install certbot-dns-cloudflare
 sudo ln -s /snap/bin/certbot /usr/bin/certbot
 ```
-
-### Optional
-
-Generate a nginx conf online at [here](https://www.digitalocean.com/community/tools/nginx)
 
 ## Generate SSL
 
 ```bash
-sudo certbot nginx
+sudo certbot --nginx
 ```
