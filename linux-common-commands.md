@@ -128,3 +128,17 @@ sed -i 's/old-text/new-text/g' input.txt
 ```bash
 ln -s source_file target_file
 ```
+
+## Create User
+
+```bash
+useradd -m USERNAME
+```
+
+> Note: with home directory
+
+## Get all shells
+
+```bash
+cat /etc/shells
+```

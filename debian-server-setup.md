@@ -31,6 +31,8 @@ tags:
 ssh-copy-id -i ~/.ssh/id_rsa.pub username@remote_host
 ```
 
+> This will copy your id_rsa.pub to remote machine `~/.ssh/authorized_keys`
+
 3. Change the default password
 
    1. `passwd`
@@ -47,9 +49,8 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub username@remote_host
    1. `ssh-copy-id -i ~/.ssh/id_rsa.pub username@remote_host`
 7. Login with new normal user `ssh username@ip`
 8. Install common utils:
-   1. `sudo apt install build-essential software-properties-common curl vim unzip --yes`
+   1. `sudo apt install build-essential software-properties-common curl vim unzip git pkg-config libssl-dev --yes`
 9. Create `/data` for store data files with `777` permissions, avoid to use `/home` directory
-
 
 You might want to read also:
 

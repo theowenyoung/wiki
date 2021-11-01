@@ -10,3 +10,5 @@ tags:
 ## Tips
 
 - Delete all words: `1,$d`
+
+- Current line end: `$`
