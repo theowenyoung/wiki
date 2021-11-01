@@ -41,6 +41,12 @@ sudo snap install --classic certbot
 sudo ln -s /snap/bin/certbot /usr/bin/certbot
 ```
 
+### Optional
+
+Generate a nginx conf online at [here](https://www.digitalocean.com/community/tools/nginx)
+
+## Generate SSL
+
 ```bash
 sudo certbot nginx
 ```
