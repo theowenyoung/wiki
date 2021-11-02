@@ -142,3 +142,9 @@ useradd -m USERNAME
 ```bash
 cat /etc/shells
 ```
+
+## Last n lines in file
+
+```bash
+tail -3 file.txt
+```
