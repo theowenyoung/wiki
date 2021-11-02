@@ -16,3 +16,7 @@ tags:
 ## Starter
 
 - [GitHub - stefanfrede/11st-starter-kit: 11ty, powered by Snowpack with Tailwind CSS and Alpine.js.](https://github.com/stefanfrede/11st-starter-kit)
+
+## Comments
+
+- [Static Man](https://github.com/eduardoboucas/staticman) - 💪 User-generated content for Git-powered websites, comment save to repo.
