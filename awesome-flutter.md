@@ -74,6 +74,7 @@ Curating Flutter resources.
 - [tiktoklike scrooler](https://pub.dev/packages/tiktoklikescroller)
 - [river_pod](https://github.com/rrousselgit/river_pod) - A simple way to access state while robust and testable.
 - [very good cli](https://pub.dev/packages/very_good_cli) - create kool template flutter cli
+- [adptive theme](https://github.com/birjuvachhani/adaptive_theme) - Easiest way to add support for light and dark theme in your flutter app.
 
 ## Apps
 
