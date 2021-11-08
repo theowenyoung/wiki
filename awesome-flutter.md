@@ -76,6 +76,8 @@ Curating Flutter resources.
 - [very good cli](https://pub.dev/packages/very_good_cli) - create kool template flutter cli
 - [adptive theme](https://github.com/birjuvachhani/adaptive_theme) - Easiest way to add support for light and dark theme in your flutter app.
 - [responsive_framework](https://pub.dev/packages/responsive_framework)
+- [flutter secure storage](https://pub.dev/packages/flutter_secure_storage) - Flutter Secure Storage provides API to store data in secure storage. Keychain is used in iOS, KeyStore based solution is used in Android.
+- [flutter dotenv](https://github.com/java-james/flutter_dotenv)
 
 ## Apps
 
