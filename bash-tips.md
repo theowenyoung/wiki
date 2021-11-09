@@ -18,3 +18,11 @@ workspace="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )/../" &> /dev/null && pw
 ```bash
 workspace="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 ```
+
+## Bash Dotenv
+
+> 导出.env 文件到当前执行环境
+
+```bash
+set -o allexport; source .env; set +o allexport
+```
