@@ -30,3 +30,4 @@ tags:
 ## Free Paid Wall
 
 - [Article reader](https://t.me/chotamreaderbot) - A telegram bot that can access paid wall article with a instant view article.
+- [12ft](https://12ft.io/) - Show me a 10ft paywall, I’ll show you a 12ft ladder.
