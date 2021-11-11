@@ -102,6 +102,8 @@ Curating awesome rust resources.
 - [validator](https://github.com/Keats/validator)
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [once cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
+- [semver](https://github.com/dtolnay/semver) - Semantic versioning and version ranges for Rust
+- [derivative](https://crates.io/crates/derivative) - A set of alternative `derive` attributes for Rust
 
 ## Projects
 
