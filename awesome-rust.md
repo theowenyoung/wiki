@@ -104,6 +104,7 @@ Curating awesome rust resources.
 - [once cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
 - [semver](https://github.com/dtolnay/semver) - Semantic versioning and version ranges for Rust
 - [derivative](https://crates.io/crates/derivative) - A set of alternative `derive` attributes for Rust
+- [radix 64](https://github.com/ggriffiniii/radix64) - 64 radix for rust, rust 64 进制
 
 ## Projects
 
