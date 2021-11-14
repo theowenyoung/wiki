@@ -30,3 +30,4 @@ tags:
 - [生成一次性秘密用一次性 url](https://github.com/sniptt-official/ots)
 - [收集有意思的网站到一个个清单](https://bunklist.com/)
 - [和老人聊天并获得报酬](https://silverdial.org/)
+- [欧拉项目](https://projecteuler.net/) - 对数学/计算机问题感兴趣的人的问题库，注册后可以去解决各种各样有意思的数学问题
