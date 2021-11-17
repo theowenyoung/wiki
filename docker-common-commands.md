@@ -11,6 +11,13 @@ tags:
 docker-compose exec service-name /bin/sh
 ```
 
+## Stop All contains and remove
+
+```bash
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
+```
+
 ## Clean all
 
 ```bash
