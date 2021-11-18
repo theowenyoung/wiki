@@ -55,3 +55,7 @@ tags:
 ## 迷惑
 
 - [神人](https://www.reddit.com/r/nextfuckinglevel/)
+
+## 严肃讨论
+
+- [有一条无论如何都想沙一沙的龙](https://www.douban.com/group/make-it-clear/)
