@@ -32,7 +32,7 @@ Certbot 自动生成 Lets encrypt 的方案已经被墙了，经过各种尝试�
 
    > 如果有什么不清楚的，可以参考文档： <https://github.com/acmesh-official/acme.sh/wiki/dnsapi>
 
-1. 签发证书，运行 `acme.sh --issue --dns dns_cf -d example.com`
+1. 签发证书，运行 `acme.sh --issue --dns dns_cf -d example.com --server letsencrypt`
 
 1. 安装证书到指定目录：
 

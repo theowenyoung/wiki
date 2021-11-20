@@ -25,6 +25,7 @@ Curating awesome alternative resources.
 - Firebase
   - [etesync](https://github.com/etesync/server)
   - [nhost](https://github.com/nhost/nhost) - another firebase alternative.
+  - [appwrite](https://github.com/appwrite/appwrite)
 - Hacker News
   - [hacker news open source in ruby](hhttps://github.com/lobsters/lobsters)
   - [littr](https://github.com/mariusor/go-littr)

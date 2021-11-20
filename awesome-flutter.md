@@ -79,6 +79,7 @@ Curating Flutter resources.
 - [flutter secure storage](https://pub.dev/packages/flutter_secure_storage) - Flutter Secure Storage provides API to store data in secure storage. Keychain is used in iOS, KeyStore based solution is used in Android.
 - [flutter dotenv](https://github.com/java-james/flutter_dotenv)
 - [flutter webrtc](https://github.com/flutter-webrtc/flutter-webrtc)
+- [flutter chat ui](https://github.com/flyerhq/flutter_chat_ui)
 
 ## Apps
 
