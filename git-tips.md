@@ -34,3 +34,10 @@ Later
 ```bash
 git submodule update --recursive
 ```
+
+## 忽略所有，除了文件夹
+
+```bash
+folder/*
+!folder/.gitkeep
+```
