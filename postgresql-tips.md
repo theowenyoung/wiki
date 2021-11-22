@@ -29,6 +29,12 @@ psql
 \d table_name
 ```
 
+## Pretty print table
+
+```bash
+\x on
+```
+
 ## Alter table
 
 See <https://www.postgresql.org/docs/current/sql-altertable.html>
