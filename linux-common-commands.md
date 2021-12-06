@@ -148,3 +148,15 @@ cat /etc/shells
 ```bash
 tail -3 file.txt
 ```
+
+## Linux find a biggest directory in ./
+
+```bash
+sudo du -a ./ 2>/dev/null | sort -n -r | head -n 20
+```
+
+## Linux find a biggest file in ./
+
+```bash
+find ./ -type f -printf '%s %p\n' | sort -nr | head -10
+```
