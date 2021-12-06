@@ -12,3 +12,4 @@ tags:
 - [JSON Web Token (JWT) Claims](https://www.iana.org/assignments/jwt/jwt.xhtml)
 - [aws signature v4](https://docs.aws.amazon.com/general/latest/gr/sigv4_signing.html)
 - [actix http status code](https://docs.rs/actix-http/2.2.1/actix_http/http/struct.StatusCode.html)
+- [Web Auth ](https://webauthn.guide/) - A better alternative for securing our sensitive information online
