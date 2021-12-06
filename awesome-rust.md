@@ -108,6 +108,7 @@ Curating awesome rust resources.
 - [serde_with](https://docs.rs/serde_with/1.11.0/serde_with/) - serde with integligent convert
 - [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [rumqtt](https://github.com/bytebeamio/rumqtt) - rust mqtt broker
+- [coreutils](https://github.com/uutils/coreutils) - linux core utils in rust
 
 ## Projects
 
