@@ -14,6 +14,7 @@ Also see [[tv-shows]], [[movies]]
 ## 其他人的书籍推荐资源
 
 - [汇总了 hacker news 上评论里提到的书籍的排名](https://hacker-recommended-books.vercel.app/)
+- [reddit 上的图书推荐排名](https://www.redditreads.com/)
 
 ## 人生必读系列
 
