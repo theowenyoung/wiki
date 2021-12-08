@@ -118,6 +118,8 @@ Curating awesome rust resources.
 - [kibou](https://github.com/Toromino/kibou) - rust mastondon
   - https://git.cybre.club/kibouproject/kibou
 - [forustm](https://github.com/daogangtang/forustm) - rust forum
+- [rusoto](https://rusoto.github.io/rusoto/rusoto_core/) - aws sdk
+  - [aws-sign-v4](https://crates.io/crates/aws-sign-v4)
 
 ## Applications
 
