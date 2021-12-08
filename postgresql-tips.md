@@ -11,6 +11,12 @@ tags:
 psql
 ```
 
+## Show all databases
+
+```bash
+\l
+```
+
 ## Enter Database
 
 ```bash
