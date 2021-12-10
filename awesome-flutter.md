@@ -82,6 +82,7 @@ Curating Flutter resources.
 - [flutter chat ui](https://github.com/flyerhq/flutter_chat_ui)
 - [flutter_markdown](https://pub.dev/packages/flutter_markdown)
 - [pointycastle](https://github.com/bcgit/pc-dart) - flutter encode, decode, sha1, sha3, hmac...
+- [avatar ](https://github.com/ch-muhammad-adil/flutter-plugin-circular_profile_avatar)
 
 ## Apps
 
