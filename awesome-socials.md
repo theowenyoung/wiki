@@ -51,3 +51,7 @@ tags:
 ## 复古
 
 - [spacehey](https://spacehey.com/home) - 重制了 mysapce，令人感慨那个年代的互联网的纯真
+
+## 本地
+
+- [纽约社交网络](https://newyorksocialnetwork.com/)

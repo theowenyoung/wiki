@@ -29,3 +29,8 @@ Curating P2P things.
 
 - [exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
 - [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+
+## Git
+
+- [Gittorrent](https://github.com/cjb/gittorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
+- [Radicle](https://docs.radicle.xyz/docs/what-is-radicle.html) - Radicle is a decentralized code collaboration network built on open protocols 🌱.

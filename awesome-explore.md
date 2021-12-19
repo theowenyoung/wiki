@@ -45,6 +45,7 @@ Curating the place for explore interesting things.
 - [Hacker News](https://news.ycombinator.com/news)
 - [ACM Tech News](https://technews.acm.org)
 - [indie hackers](https://www.indiehackers.com/)
+- [Hacker News 经典文章集合](https://hn.lindylearn.io/)
 
 ## 中文
 

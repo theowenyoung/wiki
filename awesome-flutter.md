@@ -84,6 +84,7 @@ Curating Flutter resources.
 - [pointycastle](https://github.com/bcgit/pc-dart) - flutter encode, decode, sha1, sha3, hmac...
 - [avatar ](https://github.com/ch-muhammad-adil/flutter-plugin-circular_profile_avatar)
 - [uni_links](https://pub.dev/packages/uni_links) -- uni links
+- [phoenix](https://github.com/mobiten/flutter_phoenix) -- app restart lifetime
 
 ## Apps
 
