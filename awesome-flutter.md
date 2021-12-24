@@ -85,6 +85,7 @@ Curating Flutter resources.
 - [avatar ](https://github.com/ch-muhammad-adil/flutter-plugin-circular_profile_avatar)
 - [uni_links](https://pub.dev/packages/uni_links) -- uni links
 - [phoenix](https://github.com/mobiten/flutter_phoenix) -- app restart lifetime
+- [text_editor](https://pub.dev/packages/text_editor) - Instagram like text editor
 
 ## Apps
 

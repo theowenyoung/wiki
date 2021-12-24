@@ -48,3 +48,9 @@ See <https://www.postgresql.org/docs/current/sql-altertable.html>
 ## Upsert
 
 See <https://stackoverflow.com/questions/61494958/postgres-on-conflict-do-update-only-non-null-values-in-python>
+
+## Export Schema
+
+```bash
+ pg_dump database_name -s --no-owner > schema.sql
+```
