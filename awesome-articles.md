@@ -15,6 +15,7 @@ tags:
 - [为什么 Go 语言不够好？](https://yager.io/programming/go.html)
 - [BSD vs Linux](http://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
   - https://news.ycombinator.com/item?id=12034277
+- [为什么大多数建议都很糟糕？](https://atis.substack.com/p/most-advice-is-pretty-bad)
 
 ## 工作
 
