@@ -54,3 +54,17 @@ See <https://stackoverflow.com/questions/61494958/postgres-on-conflict-do-update
 ```bash
  pg_dump database_name -s --no-owner > schema.sql
 ```
+
+## Delete or Drop or Remove Database
+
+```bash
+psql
+drop database database_name;
+```
+
+## Create Database
+
+```bash
+psql
+CREATE DATABASE name;
+```
