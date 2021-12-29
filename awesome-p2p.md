@@ -34,3 +34,7 @@ Curating P2P things.
 
 - [Gittorrent](https://github.com/cjb/gittorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
 - [Radicle](https://docs.radicle.xyz/docs/what-is-radicle.html) - Radicle is a decentralized code collaboration network built on open protocols 🌱.
+
+## Communities
+
+- [Superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired decentralized internet discussion system
