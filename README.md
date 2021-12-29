@@ -41,12 +41,18 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 - [[projects]]
 - [[goals-2021]]
 
+## Contact Me
+
+- Telegram: <https://t.me/itsowenyoung>
+- Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
+- 中文推 [@owenyoung_zh](https://twitter.com/owenyoung_zh)
+
 ## Follow Me
 
 - Wiki [Everything I Know](https://wiki.owenyoung.com/)
 - Blog [Owen's Story](https://blog.owenyoung.com)
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
-- Twitter for Chinese [@owenyoung_zh](https://twitter.com/owenyoung_zh)
+- 中文推 [@owenyoung_zh](https://twitter.com/owenyoung_zh)
 - Github [@theowenyoung](https://github.com/theowenyoung)
 - Telegram [@theowenyoung](https://t.me/theowenyoung)
 - Instagram [@iamowenyoung](https://www.instagram.com/iamowenyoung/)
