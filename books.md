@@ -14,6 +14,7 @@ Also see [[tv-shows]], [[movies]]
 ## 其他人的书籍推荐资源
 
 - [汇总了 hacker news 上评论里提到的书籍的排名](https://hacker-recommended-books.vercel.app/)
+  - [又一个 hacker news 提到的图书周报](https://hackernewsbooks.com/top-books-on-hacker-news)
 - [reddit 上的图书推荐排名](https://www.redditreads.com/)
 - [豆瓣图书 top250](https://book.douban.com/top250)
 
