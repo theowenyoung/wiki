@@ -20,3 +20,7 @@ tags:
 ## Comments
 
 - [Static Man](https://github.com/eduardoboucas/staticman) - 💪 User-generated content for Git-powered websites, comment save to repo.
+
+## Marddown Tools
+
+- [xdm](https://github.com/wooorm/xdm) - Just a _really_ good MDX compiler. No runtime. With esbuild, Rollup, and webpack plugins

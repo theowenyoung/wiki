@@ -22,3 +22,15 @@ find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +
 ```bash
 npm token create
 ```
+
+### Check NPM modules updates
+
+```bash
+npx npm-check-updates
+```
+
+Update to the latest version:
+
+```bash
+npx npm-check-updates -u
+```
