@@ -1,12 +1,13 @@
 ---
-title:
+title: Linux Anti DDos
 tags:
-  -
+  - Linux
+  - DDos
 ---
 
 ## See who connect with Me
 
-<https://www.linuxshelltips.com/find-ip-addresses-are-connected-to-linux/>
+See: [here](https://www.linuxshelltips.com/find-ip-addresses-are-connected-to-linux/)
 
 ```bash
 ss -tun state connected
@@ -20,7 +21,7 @@ netstat -tn 2>/dev/null | grep -E '\s[0-9.]+:443\s' | awk '{print $5}' | cut -d 
 
 ## Ban
 
-<https://docs.rackspace.com/support/how-to/block-an-ip-address-on-a-Linux-server/>
+See [here](https://docs.rackspace.com/support/how-to/block-an-ip-address-on-a-Linux-server/)
 
 ```bash
 sudo systemctl status firewalld
