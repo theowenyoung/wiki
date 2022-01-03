@@ -43,6 +43,7 @@ Curating awesome rust resources.
 - [tokio service 解析](https://tokio.rs/blog/2021-05-14-inventing-the-service-trait)
   - [中文版](https://www.purewhite.io/2021/05/24/inventing-the-service-trait/)
 - [关于 rust 的常见疑问中文版](https://www.purewhite.io/2021/09/01/rust-faq/)
+- [100 行实现 rust 静态网站生成](https://github.com/skerkour/kerkour.com/tree/main/2021/rust_static_site_generator)
 
 ## Communities
 
