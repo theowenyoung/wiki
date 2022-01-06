@@ -58,3 +58,7 @@ tags:
 ## 工具
 
 - [Turborepo](https://github.com/vercel/turborepo) - vercel mono repo tool
+
+## Schema
+
+- [Zod(https://github.com/colinhacks/zod) - 好用的 JS Schema 验证库，再也不用担心 js 运行时类型问题了
