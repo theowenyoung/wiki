@@ -35,6 +35,8 @@ tags:
 ## Developmenets
 
 - [cosmopolitan - build-once run-anywhere c library](https://github.com/jart/cosmopolitan) - 编译生成单一的可执行文件的服务器
+- [try it online](https://tio.run/#) - 在线运行几百种变成语言
+- [Docker Run](https://github.com/glotcode/docker-run) - 使用 docker 来运行不信任的代码，运行后删除
 
 ## Stocks
 

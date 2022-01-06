@@ -7,5 +7,5 @@ tags:
 
 ## Library
 
-- [aleph](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
+- [aleph](https://github.com/alephjs/aleph.js) - The Full-stack Framework, ssr, next.js alternative in Deno.
 - [ultra](https://github.com/exhibitionist-digital/ultra)
