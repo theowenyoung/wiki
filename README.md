@@ -54,8 +54,6 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
 - 中文推 [@owenyoung_zh](https://twitter.com/owenyoung_zh)
 - Github [@theowenyoung](https://github.com/theowenyoung)
-- Telegram [@theowenyoung](https://t.me/theowenyoung)
-- Instagram [@iamowenyoung](https://www.instagram.com/iamowenyoung/)
 - Patreon [@theowenyoung](https://www.patreon.com/theowenyoung)
 
 ## Graph Visualisation Preview
