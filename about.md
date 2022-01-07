@@ -16,6 +16,12 @@ I've learned English more than 10 years, but it still sucks, so I registered a T
 
 Full stack developer, main technology stack is javascript. Find more my projects [[projects]]
 
+## Contact Me
+
+- Telegram: <https://t.me/itsowenyoung>
+- Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
+- 中文推 [@owenyoung_zh](https://twitter.com/owenyoung_zh)
+
 ## Follow me at the following platforms
 
 - Wiki [Everything I Know](https://wiki.owenyoung.com/)
@@ -23,8 +29,6 @@ Full stack developer, main technology stack is javascript. Find more my projects
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
 - Twitter for Chinese [@owenyoung_zh](https://twitter.com/owenyoung_zh)
 - Github [@theowenyoung](https://github.com/theowenyoung)
-- Telegram [@theowenyoung](https://t.me/theowenyoung)
-- Instagram [@iamowenyoung](https://www.instagram.com/iamowenyoung/)
 - Patreon [@theowenyoung](https://www.patreon.com/theowenyoung)
 - Read.cv [@owenyoung](https://read.cv/owenyoung)
 
