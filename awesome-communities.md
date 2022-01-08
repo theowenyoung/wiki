@@ -59,3 +59,7 @@ tags:
 ## 严肃讨论
 
 - [有一条无论如何都想沙一沙的龙](https://www.douban.com/group/make-it-clear/)
+
+## 中文技术
+
+- [小众软件论坛](https://meta.appinn.net/)
