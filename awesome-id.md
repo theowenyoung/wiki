@@ -10,3 +10,4 @@ tags:
 - snowflake
 - ksuid
 - [nanoid](https://github.com/ai/nanoid) - `V1StGXR8_Z5jdHi6B-myT`
+- tiny id: https://github.com/paulgb/tiny_id
