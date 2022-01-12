@@ -33,3 +33,7 @@ Curating awesome database resources.
 
 - [sqlite playgound](https://sqlime.org/)
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
+
+## Sqlite
+
+- [Sqllite httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Query Sqlite with static files
