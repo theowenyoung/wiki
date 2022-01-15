@@ -11,6 +11,10 @@ tags:
 
 - [Finding the date/time a file was first added to a Git repository - Stack Overflow](https://stackoverflow.com/questions/2390199/finding-the-date-time-a-file-was-first-added-to-a-git-repository/25633731) - 获取首次提交时间
 
+## 提交
+
+- [Git Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) - git 语义化提交消息模版
+
 ## 合并上游的时候不弹出确认框
 
 ```bash
