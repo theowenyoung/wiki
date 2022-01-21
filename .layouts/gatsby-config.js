@@ -30,6 +30,7 @@ module.exports = {
         icon: "./static/logo.png",
         sidebarComponents: ["latest", "tag"],
         defaultIndexLatestPostCount: 10,
+        searchBody: true,
         nav: [
           {
             title: "Latest",
