@@ -11,6 +11,7 @@ Curation of semantic things.
 
 - [Classless CSS](https://github.com/dbohdan/classless-css) - A list of Classless CSS frameworks.
   - [Marx](https://mblode.github.io/marx/documentation/)
+  - [Tufte](https://github.com/edwardtufte/tufte-css)
 
 ## Git
 
