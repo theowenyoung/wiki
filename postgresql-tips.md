@@ -55,6 +55,12 @@ See <https://stackoverflow.com/questions/61494958/postgres-on-conflict-do-update
  pg_dump database_name -s --no-owner > schema.sql
 ```
 
+## Export Only data
+
+```bash
+ pg_dump database_name -a --no-owner > data.sql
+```
+
 ## Delete or Drop or Remove Database
 
 ```bash
@@ -67,4 +73,10 @@ drop database database_name;
 ```bash
 psql
 CREATE DATABASE name;
+```
+
+## Import Database
+
+```bash
+psql database_name < data.sql
 ```
