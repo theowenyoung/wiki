@@ -15,4 +15,4 @@ Curating awesome indexes about trends.
 
 ## Socials
 
-- [Find Reddit](findareddit.com) - Find reddit
+- [Find Reddit](https://findareddit.com) - Find reddit
