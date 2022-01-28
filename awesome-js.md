@@ -62,3 +62,7 @@ tags:
 ## Schema
 
 - [Zod(https://github.com/colinhacks/zod) - 好用的 JS Schema 验证库，再也不用担心 js 运行时类型问题了
+
+## Libraries
+
+- [PapaParse](https://github.com/mholt/PapaParse) - 解析 CSV 文件

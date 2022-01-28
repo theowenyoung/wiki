@@ -27,3 +27,7 @@ Curating awesome templates for projects.
 - [react-saas](https://github.com/dunky11/react-saas-template)
 - [tailwind langding page](https://github.com/cruip/tailwind-landing-page-template)
 - [mobile app](https://github.com/sandoche/Mobile-app-landingpage-template)
+
+## Docuemnts Templates
+
+- [Document template](https://github.com/kbariotis/templatesf) - A set of standard document templates.

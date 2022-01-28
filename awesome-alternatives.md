@@ -9,6 +9,7 @@ Curating awesome alternative resources.
 
 - [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - #Front-End
 - [Alternative Internet](https://github.com/redecentralize/alternative-internet)
+- [Ethical Alternatives & Resources](https://ethical.net/resources/)
 - Twitter
   - [Nitter](https://github.com/zedeus/nitter) - Twitter front end alternative.
   - Official instance: <https://nitter.net/> #Twitter

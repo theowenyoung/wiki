@@ -50,6 +50,7 @@ tags:
 ## 图片生成
 
 - [漂亮的代码截图生成](https://ray.so/)
+  - [代码截图生成的 API](https://sourcecodeshots.com/language/js/theme/dark-plus)
 - [另一个代码截图生成器](https://carbon.now.sh/)
 - [52 斗图](https://www.52doutu.cn/) - 表情包在线生成
 - [rust 生成线条图片](https://github.com/lf94/img2utf)
