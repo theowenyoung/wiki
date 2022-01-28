@@ -46,6 +46,7 @@ Curating the place for explore interesting things.
 - [ACM Tech News](https://technews.acm.org)
 - [indie hackers](https://www.indiehackers.com/)
 - [Hacker News 经典文章集合](https://hn.lindylearn.io/)
+- [Hacker News 编辑精选](https://news.ycombinator.com/invited)
 
 ## 中文
 
@@ -85,6 +86,7 @@ Curating the place for explore interesting things.
 
 - [What to build](https://whattobuild.co/) - 总结了一些想法
 - [valid need](https://needgap.com/) - 验证需求，由用户发需求，投票
+- [profit hunt](https://profithunt.co/) - 从已经有利润的项目中获取灵感
 
 ## Books
 

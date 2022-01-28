@@ -37,3 +37,7 @@ Curating awesome database resources.
 ## Sqlite
 
 - [Sqllite httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Query Sqlite with static files
+
+## Version
+
+- [Dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data

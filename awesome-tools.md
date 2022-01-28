@@ -10,6 +10,7 @@ tags:
 ## 打字
 
 - [Code Typing Script(https://codingspeedtest.com) - 用代码测试你的打字速度，可以选语言比如 js,go
+- [用小说内容来练习打字](https://www.typelit.io/)
 
 ## 公众号 RSS
 
@@ -60,3 +61,7 @@ tags:
 ## 图片裁剪
 
 - [photo 16x9](https://photo16x9.com/) - 填充背景色以使得图片满足 16:9 的推特比例
+
+## 背景音乐，白噪音
+
+- [Lofi 咖啡](https://www.lofi.cafe/)

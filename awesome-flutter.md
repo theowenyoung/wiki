@@ -7,6 +7,10 @@ tags:
 
 Curating Flutter resources.
 
+## Cros
+
+- [Flutter Failed To Solve the Biggest Challenge for Our Cross-Platform App](https://betterprogramming.pub/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18)
+
 ## Articles
 
 - [Dart Board](https://github.com/ahammer/dart_board) - Dart Board is a Framework/Architecture pattern for Flutter applications.

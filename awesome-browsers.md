@@ -18,6 +18,7 @@ Curating awesome browsers.
 
 - [Blisk](https://blisk.io/)- Cross-Device Testing Done Right
 - [bonsai](https://bonsaibrowser.com/) - Web-browser for research that helps programmers think clearly.
+- [Brow](https://www.brow.sh/) - Text based broswer
 
 ## Paid Browser
 
