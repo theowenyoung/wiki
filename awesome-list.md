@@ -49,3 +49,7 @@ Curating the best of list on the internet with good summaries from others.
 ## Media
 
 - [Tech Blogs List](https://airtable.com/shriIvyyV3gAJf0x4/tblcakhoBi0A33QhB/viwWIaPD1CBQtE5e1) - Curated list of 3,800+ tech journalists
+
+## Posts/Articles
+
+- [最受欢迎的 HackerNews 帖子](https://news.ycombinator.com/item?id=24351073)

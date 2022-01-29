@@ -18,6 +18,7 @@ Also see [[tv-shows]], [[movies]]
 - [reddit 上的图书推荐排名](https://www.redditreads.com/)
 - [豆瓣图书 top250](https://book.douban.com/top250)
 - [像在书店一样发现新的书](https://shepherd.com/)
+- [Ask HN: 那些书改变了你对所有事情的看法？](https://news.ycombinator.com/item?id=19087418)
 
 ## 人生必读系列
 
