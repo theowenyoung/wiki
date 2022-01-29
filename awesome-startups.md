@@ -10,6 +10,8 @@ tags:
 ## Prelaunch
 
 - [Waiting list](https://waitinglist.app/) - Build your audience before you launch, #API
+- [Startup Checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
+  - [HN link](https://news.ycombinator.com/item?id=20254057)
 
 ## Publish
 

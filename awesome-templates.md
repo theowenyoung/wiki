@@ -21,6 +21,7 @@ Curating awesome templates for projects.
 ## Boilerplate
 
 - [makenew](https://github.com/makenew/) - Tested project skeletons to instantly bootstrap and reliably maintain your next project.
+- [html boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
 
 ## Landing page
 

@@ -29,6 +29,7 @@ Curating awesome rust resources.
 - [actix examples](https://github.com/actix/examples)
 - [Rust 程序设计语言中文版](https://kaisery.github.io/trpl-zh-cn/)
 - [rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison)
+- [半小时学习 Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ## Answeres
 
