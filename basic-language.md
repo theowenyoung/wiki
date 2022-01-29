@@ -67,3 +67,31 @@ tags:
 16. 数字
 
 - Zero, one, two, three, four, five, six, seven, eight, nine, ten
+
+17. 好的
+
+- Ok, Yes
+
+18. 不
+
+- No
+
+19. 对不起，我不明白
+
+- Sorry, I don't understand.
+
+20. 我可以坐这里吗？
+
+- May I sit here?
+
+21. 这很好吃
+
+- This is so delicious!
+
+22. 这是什么？
+
+- What is this?
+
+23. 这个东西用你的语言怎么说？
+
+- How do you say <English word> in <your language>, please?

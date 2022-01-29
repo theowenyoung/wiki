@@ -6,6 +6,7 @@ tags:
   - FAQ
   - Answer
   - 中文
+  - Ask
 ---
 
 收集网上看到的有意思的问题。
@@ -18,6 +19,7 @@ tags:
 
 - [你收到过的最糟糕的建议是什么？](https://www.reddit.com/r/AskReddit/comments/ph4pax/what_was_the_worst_advice_you_have_ever_received/)
 - [你个人发现有哪些生活小窍门可以改善你的生活？](https://www.reddit.com/r/AskReddit/comments/pk5x1q/what_life_hacks_have_you_personally_found_that/)
+- [Ask HN: 你在一小时内能学到的最佳价值的东西是什么？](https://news.ycombinator.com/item?id=21581361)
 
 ## 两性
 
