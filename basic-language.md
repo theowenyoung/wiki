@@ -94,4 +94,4 @@ tags:
 
 23. 这个东西用你的语言怎么说？
 
-- How do you say <English word> in <your language>, please?
+- How do you say {English word} in {your language}, please?
