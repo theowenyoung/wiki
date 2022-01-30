@@ -37,6 +37,7 @@ Curating awesome database resources.
 ## Sqlite
 
 - [Sqllite httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Query Sqlite with static files
+- [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 
 ## Version
 

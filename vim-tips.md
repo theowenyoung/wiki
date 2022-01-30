@@ -7,6 +7,10 @@ tags:
 
 # Vim Tips
 
+## Resources
+
+- [Vim online exercises](https://www.vim.so/) - help you master vim with interactive exercises.
+
 ## Tips
 
 - Delete all words: `1,$d`
