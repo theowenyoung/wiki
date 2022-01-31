@@ -66,3 +66,7 @@ tags:
 ## 背景音乐，白噪音
 
 - [Lofi 咖啡](https://www.lofi.cafe/)
+
+## RSS
+
+- [Hacker News to Kindle](https://hntokindle.com/)
