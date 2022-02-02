@@ -90,6 +90,7 @@ Curating Flutter resources.
 - [uni_links](https://pub.dev/packages/uni_links) -- uni links
 - [phoenix](https://github.com/mobiten/flutter_phoenix) -- app restart lifetime
 - [text_editor](https://pub.dev/packages/text_editor) - Instagram like text editor
+- [auto size text](https://github.com/leisim/auto_size_text) - auto size text
 
 ## Apps
 
