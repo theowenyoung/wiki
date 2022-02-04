@@ -17,6 +17,8 @@ Curating the place for explore interesting things.
 - [Hacker news show 中文](https://hn.buzzing.cc/tags/show-hn)
 - [Hacker News Show](https://news.ycombinator.com/show)
   - [hn show sort by points](https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=show%20hn&sort=byPopularity&type=story)
+  - [hn show中文](https://showhn.buzzing.cc/)
+  - [ask hn中文](https://askhn.buzzing.cc/)
 - [Betalist](https://betalist.com/) - Discover tomorrow's startups, today.
 - [startupbase](https://startupbase.io/) - Discover early access products.
 - [10words](https://10words.io/) - 10words: Discover new apps and startups in 10 words or less
