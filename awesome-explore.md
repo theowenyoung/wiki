@@ -81,6 +81,8 @@ Curating the place for explore interesting things.
 ## Indexes
 
 - [[awesome-indexes]]
+- [云海拾贝](https://getizumo.com/shibei) - 出云整理的国外高质量网站系列
+- [数字移民导航](https://shuziyimin.org/) - 数字移民整理的国外网站导航
 
 ## Ideas
 
