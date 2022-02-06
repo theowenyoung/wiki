@@ -59,6 +59,7 @@ Curating awesome rust resources.
 - [Cargo Make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for static datasets without writing a single line of code.
 - [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. ⚡🦀
+- [Create rust app](https://github.com/Wulf/create-rust-app)
 
 ## Libraries
 
