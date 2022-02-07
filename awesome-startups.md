@@ -41,6 +41,7 @@ tags:
 ## Tools
 
 - [AppLaunchpad - (1000) Best Free Mockup Generator (theapplaunchpad.com)](https://theapplaunchpad.com/mockup-generator/) - Screen Shot Generator
+- [Twitter Analytics](https://www.twitonomy.com/)
 
 ## Investing
 
