@@ -21,6 +21,10 @@ Also see [[tv-shows]], [[movies]]
 - [Ask HN: 那些书改变了你对所有事情的看法？](https://news.ycombinator.com/item?id=19087418)
   - [Ask HN: 您推荐大家阅读的一本书是什么？](https://hn.buzzing.cc/hn/30241190/)
 
+## 资源
+
+- [标准电子书](https://standardebooks.org/) - 制作精美的免费版权的电子书
+
 ## 人生必读系列
 
 这里放我自己觉得必读的一些书籍：
