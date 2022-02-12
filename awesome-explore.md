@@ -13,7 +13,6 @@ Curating the place for explore interesting things.
 - [Product Hunt Trending (producthunt-trending.js.org)](https://producthunt-trending.js.org/?range=monthly) - Browser producthunk by ranking, weekly, monthly, yearly.
 - [r/SideProject - A community for sharing side projects (reddit.com)](https://www.reddit.com/r/SideProject/)
 - [Product Hunt](https://www.producthunt.com/) - The best new products in tech
-- [circlebatch](https://circlebatch.com/) - Circlebatch is a collaborative community to practice skills and work on projects with others, 寻找业余项目的合伙人
 - [Hacker news show 中文](https://hn.buzzing.cc/tags/show-hn)
 - [Hacker News Show](https://news.ycombinator.com/show)
   - [hn show sort by points](https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=show%20hn&sort=byPopularity&type=story)
@@ -88,7 +87,6 @@ Curating the place for explore interesting things.
 
 ## Ideas
 
-- [What to build](https://whattobuild.co/) - 总结了一些想法
 - [valid need](https://needgap.com/) - 验证需求，由用户发需求，投票
 - [profit hunt](https://profithunt.co/) - 从已经有利润的项目中获取灵感
 

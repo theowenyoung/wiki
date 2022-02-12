@@ -51,6 +51,7 @@ tags:
 ## Foods
 
 - [速食食品爱好者联盟-豆瓣小组](https://www.douban.com/group/682274/)
+- [Reddit Food subreddit](https://www.reddit.com/r/food/)
 
 ## 迷惑
 
@@ -63,3 +64,7 @@ tags:
 ## 中文技术
 
 - [小众软件论坛](https://meta.appinn.net/)
+
+## 未来主义
+
+- [reddit 未来主义小组](https://old.reddit.com/r/Futurology)
