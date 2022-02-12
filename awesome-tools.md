@@ -66,6 +66,7 @@ tags:
 ## 背景音乐，白噪音
 
 - [Lofi 咖啡](https://www.lofi.cafe/)
+- [BBC 6 音乐电台](http://radio.garden/listen/bbc-radio-6-music/sPUw6n5C)
 
 ## RSS
 

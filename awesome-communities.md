@@ -36,6 +36,7 @@ tags:
 ## 关系建议
 
 - [关系建议小组 reddit 小组](https://www.reddit.com/r/relationshipadvice/) - 各种关系的建议，讨论
+- [关于报仇/报复的故事 reddit 小组](https://old.reddit.com/r/ProRevenge)
 
 ## Maker
 
@@ -60,6 +61,7 @@ tags:
 ## 严肃讨论
 
 - [有一条无论如何都想沙一沙的龙](https://www.douban.com/group/make-it-clear/)
+- [reddit 觉醒小组](https://old.reddit.com/r/awakened/) - 突然对某事有了新的想法
 
 ## 中文技术
 
@@ -68,3 +70,15 @@ tags:
 ## 未来主义
 
 - [reddit 未来主义小组](https://old.reddit.com/r/Futurology)
+
+## 情绪
+
+- [reddit 骂组](https://old.reddit.com/r/rant/)
+
+## 幻想
+
+- [reddit 假装组](https://old.reddit.com/r/ScenesFromAHat/top/) - 假装一切
+
+## 百科
+
+- [维基百科 reddit 小组](https://old.reddit.com/r/wikipedia/) - 讨论一些有意思的维基百科
