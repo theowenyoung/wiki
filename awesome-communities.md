@@ -78,6 +78,7 @@ tags:
 ## 幻想
 
 - [reddit 假装组](https://old.reddit.com/r/ScenesFromAHat/top/) - 假装一切
+- [reddit 预言组](https://old.reddit.com/r/MarkMyWords/top/?sort=top)
 
 ## 百科
 
