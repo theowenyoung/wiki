@@ -12,7 +12,7 @@ tags:
 
 - **Maintaining [Denoflow](https://github.com/denoflow/denoflow)**
 
-  [Denoflow](https://github.com/denoflow/denoflow)\*\* is an automate workflows based on Deno/Typescript/Javascript
+  [Denoflow](https://github.com/denoflow/denoflow) is an automate workflows based on Deno/Typescript/Javascript
 
 - **Maintaining [Gatsby Theme Primer Wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki)**
 - **Maintaining [Track Awesome List](https://www.trackawesomelist.com)**
