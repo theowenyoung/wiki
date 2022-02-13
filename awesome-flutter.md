@@ -91,6 +91,7 @@ Curating Flutter resources.
 - [phoenix](https://github.com/mobiten/flutter_phoenix) -- app restart lifetime
 - [text_editor](https://pub.dev/packages/text_editor) - Instagram like text editor
 - [auto size text](https://github.com/leisim/auto_size_text) - auto size text
+- [custom pop up menu](https://github.com/malikwang/custom_pop_up_menu) - 仿微信消息弹出菜单
 
 ## Apps
 
