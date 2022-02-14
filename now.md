@@ -8,6 +8,13 @@ tags:
 
 > This is a [now](https://nownownow.com/about) page, read more about me at [[about]] page or [[projects]] page.
 
+## Sounds Now
+
+- [BBC Radio 6 Music](https://www.bbc.co.uk/sounds/play/live:bbc_6music)
+- [BBC Radio 1 Relax](https://www.bbc.co.uk/sounds/play/live:bbc_radio_one_relax)
+
+> 目前使用 [@hzlzh](https://twitter.com/hzlzh) 开发的[Menubarx](https://menubarx.app) , 打开 BBC sounds 的网页版（BBC 广播的网页版和客户端都做的非常棒），保存书签，下次即可接着收听，方便快捷。
+
 ## Projects now
 
 - **Maintaining [Denoflow](https://github.com/denoflow/denoflow)**
