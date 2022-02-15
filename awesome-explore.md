@@ -19,6 +19,7 @@ Curating the place for explore interesting things.
   - [hn show 中文](https://showhn.buzzing.cc/)
   - [ask hn 中文](https://askhn.buzzing.cc/)
   - [best of show hn](https://bestofshowhn.com/)
+  - [best hacker news comments](https://news.ycombinator.com/bestcomments)
 - [Betalist](https://betalist.com/) - Discover tomorrow's startups, today.
 - [startupbase](https://startupbase.io/) - Discover early access products.
 - [10words](https://10words.io/) - 10words: Discover new apps and startups in 10 words or less

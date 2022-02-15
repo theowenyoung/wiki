@@ -5,6 +5,12 @@ tags:
   - Maker
 ---
 
+## List
+
+- [Hacker News Users with highest karma](https://news.ycombinator.com/leaders)
+
+## Users
+
 收集独立创造者，以及他们主要发布作品的链接
 
 - andreyazimov, sheet2site 作者：
