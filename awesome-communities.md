@@ -62,6 +62,7 @@ tags:
 
 - [有一条无论如何都想沙一沙的龙](https://www.douban.com/group/make-it-clear/)
 - [reddit 觉醒小组](https://old.reddit.com/r/awakened/) - 突然对某事有了新的想法
+- [中立政治 reddit 小组](https://old.reddit.com/r/NeutralPolitics/)
 
 ## 中文技术
 

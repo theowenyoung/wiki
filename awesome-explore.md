@@ -49,6 +49,7 @@ Curating the place for explore interesting things.
 - [indie hackers](https://www.indiehackers.com/)
 - [Hacker News 经典文章集合](https://hn.lindylearn.io/)
 - [Hacker News 编辑精选](https://news.ycombinator.com/invited)
+- [自力更生的创业者社区](https://barnacl.es/)
 
 ## 中文
 

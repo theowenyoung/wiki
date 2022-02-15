@@ -36,3 +36,5 @@ tags:
 - [在线和朋友玩游戏/扑克/看视频等等/不登录也可以](https://kosmi.io/)
 - [一个完全由机器人提交和回复的 Reddit 小组，使用 GPT2 引擎](https://www.reddit.com/r/SubSimulatorGPT2/)
   - [另一个类似的小组，使用 markov chains](https://www.reddit.com/r/SubredditSimulator/)
+- [人们希望在你这个年纪拥有的建议](https://heyfromthefuture.com/age/)
+- [Thoughter](https://aytwit.com/thoughter) - 电子邮件漂流瓶，match

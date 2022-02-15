@@ -75,3 +75,15 @@ tags:
 ## 付费调查
 
 - [Surveys](https://eurekasurveys.com/)
+
+## Low Code website
+
+- [Sheet2site](https://www.sheet2site.com/) - google sheet to site
+
+## Workflows
+
+- [Patchbay](https://patchbay.pub/) - 穷人版 ifttt
+
+## 子域名
+
+- [免费的子域名，一个 get 请求即可生成](https://takingnames.io/blog/instant-subdomains)
