@@ -7,6 +7,10 @@ tags:
   - 中文
 ---
 
+## 列表
+
+- [异想天开网站俱乐部](https://whimsical.club/) - 收集了奇奇怪怪的网站
+
 ## 发现类
 
 - [Reddit 小组趋势](https://subredditstats.com/) 在这可以发现很多有意思的 Reddit 小组，有各种维度的排序
@@ -39,3 +43,4 @@ tags:
 - [人们希望在你这个年纪拥有的建议](https://heyfromthefuture.com/age/)
 - [Thoughter](https://aytwit.com/thoughter) - 电子邮件漂流瓶，match
 - [Webring](https://github.com/maxboeck/webring) - web 环，圈子内独立网站随机推荐，互相推荐
+- [GT3 生成的播客](https://anchor.fm/deepdreams)
