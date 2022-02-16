@@ -38,3 +38,4 @@ tags:
   - [另一个类似的小组，使用 markov chains](https://www.reddit.com/r/SubredditSimulator/)
 - [人们希望在你这个年纪拥有的建议](https://heyfromthefuture.com/age/)
 - [Thoughter](https://aytwit.com/thoughter) - 电子邮件漂流瓶，match
+- [Webring](https://github.com/maxboeck/webring) - web 环，圈子内独立网站随机推荐，互相推荐

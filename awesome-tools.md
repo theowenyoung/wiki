@@ -87,3 +87,8 @@ tags:
 ## 子域名
 
 - [免费的子域名，一个 get 请求即可生成](https://takingnames.io/blog/instant-subdomains)
+
+## 音频
+
+- [最快速的音频聊天/在线分享服务 farplay](https://farplay.io/)
+  - [好吧，他们说这个可能更快，jamulus](https://jamulus.io/)
