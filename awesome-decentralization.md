@@ -35,3 +35,7 @@ Curating awesome decentralized applications.
 ## Mail
 
 - [MNM](https://mnmnotmail.org/) - Email alternatives
+
+## Pub/Sub
+
+- [WebSubHub](https://github.com/clone1018/WebSubHub) - WebSubHub is a fully compliant WebSub Hub built that you can use to distribute live changes from various publishers. Usage of WebSubHub is very simple with only a single endpoint available at https://websubhub.com/hub.
