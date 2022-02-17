@@ -92,3 +92,7 @@ tags:
 
 - [最快速的音频聊天/在线分享服务 farplay](https://farplay.io/)
   - [好吧，他们说这个可能更快，jamulus](https://jamulus.io/)
+
+## Kindle
+
+- [Hacker News to Kindle](https://github.com/abishekmuthian/hntoebook)
