@@ -44,3 +44,4 @@ tags:
 - [Thoughter](https://aytwit.com/thoughter) - 电子邮件漂流瓶，match
 - [Webring](https://github.com/maxboeck/webring) - web 环，圈子内独立网站随机推荐，互相推荐
 - [GT3 生成的播客](https://anchor.fm/deepdreams)
+- [古人活在现在的样子](https://mossandfog.com/artist-imagines-what-famous-historical-figures-would-look-like-today/)

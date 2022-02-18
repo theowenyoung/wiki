@@ -39,3 +39,7 @@ tags:
 
 - [为我节省 100 小时的程序](https://danielsada.tech/blog/programs-saved-me-100-hours/)
   - [HN 讨论](https://news.ycombinator.com/item?id=13887237)
+
+## 业余项目
+
+- [HN 提问： 你的不在乎结果的项目是？](https://news.ycombinator.com/item?id=25992782)

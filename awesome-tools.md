@@ -96,3 +96,7 @@ tags:
 ## Kindle
 
 - [Hacker News to Kindle](https://github.com/abishekmuthian/hntoebook)
+
+## 文件
+
+- [在线把本地文件夹作为一个 http 服务器](https://github.com/EtherDream/http-server-online)

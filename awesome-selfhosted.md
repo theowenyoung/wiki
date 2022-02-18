@@ -60,3 +60,7 @@ tags:
 ## Deploy
 
 - [Webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+
+## Music
+
+- [music server in rust](https://github.com/izderadicka/audioserve)
