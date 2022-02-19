@@ -27,6 +27,7 @@ Curating awesome UI tools, resources.
 
 - [Open source illustrations kit](https://illlustrations.co/) - Free illustrations images resource, #Free #Image #UI
 - [placeholder avatar](https://pravatar.cc/)
+- [开源 emoji 库](https://openmoji.org/)
 
 ## Demos
 

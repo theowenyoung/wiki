@@ -100,3 +100,19 @@ tags:
 ## 文件
 
 - [在线把本地文件夹作为一个 http 服务器](https://github.com/EtherDream/http-server-online)
+
+## Commands
+
+- [cmd 有趣在线挑战](https://cmdchallenge.com/)
+
+## Tools
+
+- [Json for matter, 友好的在线 json 格式化网站](https://jsonformatter.com/)
+
+## 视频
+
+- [爆米花种子播放器，边下边播](https://github.com/popcorn-official/popcorn-desktop)
+
+## Other
+
+- [Newsletter to RSS](https://github.com/leafac/kill-the-newsletter)
