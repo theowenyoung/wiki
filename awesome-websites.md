@@ -45,3 +45,4 @@ tags:
 - [Webring](https://github.com/maxboeck/webring) - web 环，圈子内独立网站随机推荐，互相推荐
 - [GT3 生成的播客](https://anchor.fm/deepdreams)
 - [古人活在现在的样子](https://mossandfog.com/artist-imagines-what-famous-historical-figures-would-look-like-today/)
+- [paulgraham 的博客故意把列宽设置为一个很小的值，称之为人类最佳阅读宽度](http://www.paulgraham.com/)
