@@ -21,6 +21,7 @@ tags:
 - [你个人发现有哪些生活小窍门可以改善你的生活？](https://www.reddit.com/r/AskReddit/comments/pk5x1q/what_life_hacks_have_you_personally_found_that/)
 - [Ask HN: 你在一小时内能学到的最佳价值的东西是什么？](https://news.ycombinator.com/item?id=21581361)
 - [Ask HN: 说出一个改变你生活的想法](https://news.ycombinator.com/item?id=23092657)
+- [最适合居住的国家是哪一个？](https://www.reddit.com/r/AskReddit/comments/sb5gci/what_is_the_best_country_to_live_in/)
 
 ## 两性
 

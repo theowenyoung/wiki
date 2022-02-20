@@ -25,6 +25,6 @@ tags:
 
 - [掌握金钱，负担得起你所有想要的东西](https://affordanything.com/start-here/)
 
-## 答案
+## 人物
 
-- [最适合居住的国家是哪一个？](https://www.reddit.com/r/AskReddit/comments/sb5gci/what_is_the_best_country_to_live_in/)
+- [我从 Hacker News 中学到了什么？](http://www.paulgraham.com/hackernews.html)
