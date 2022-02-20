@@ -38,3 +38,7 @@ Curating P2P things.
 ## Communities
 
 - [Superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired decentralized internet discussion system
+
+## Search
+
+- [yacy p2p search engine](https://yacy.net/)
