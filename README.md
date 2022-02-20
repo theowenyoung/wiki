@@ -45,14 +45,14 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 
 - Telegram: <https://t.me/itsowenyoung>
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
-- 中文推 [@owenyoung_zh](https://twitter.com/owenyoung_zh)
+- 中文推 [@OwenYoungZh](https://twitter.com/OwenYoungZh)
 
 ## Follow Me
 
 - Wiki [Everything I Know](https://wiki.owenyoung.com/)
 - Blog [Owen's Story](https://blog.owenyoung.com)
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
-- 中文推 [@owenyoung_zh](https://twitter.com/owenyoung_zh)
+- 中文推 [@OwenYoungZh](https://twitter.com/OwenYoungZh)
 - Github [@theowenyoung](https://github.com/theowenyoung)
 - Patreon [@theowenyoung](https://www.patreon.com/theowenyoung)
 

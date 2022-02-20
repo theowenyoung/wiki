@@ -20,14 +20,14 @@ Full stack developer, main technology stack is javascript. Find more my projects
 
 - Telegram: <https://t.me/itsowenyoung>
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
-- 中文推 [@owenyoung_zh](https://twitter.com/owenyoung_zh)
+- 中文推 [@OwenYoungZh](https://twitter.com/OwenYoungZh)
 
 ## Follow me at the following platforms
 
 - Wiki [Everything I Know](https://wiki.owenyoung.com/)
 - Blog [Owen's Story](https://blog.owenyoung.com)
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
-- Twitter for Chinese [@owenyoung_zh](https://twitter.com/owenyoung_zh)
+- Twitter for Chinese [@OwenYoungZh](https://twitter.com/OwenYoungZh)
 - Github [@theowenyoung](https://github.com/theowenyoung)
 - Patreon [@theowenyoung](https://www.patreon.com/theowenyoung)
 - Read.cv [@owenyoung](https://read.cv/owenyoung)
