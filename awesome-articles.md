@@ -28,3 +28,7 @@ tags:
 ## 人物
 
 - [我从 Hacker News 中学到了什么？](http://www.paulgraham.com/hackernews.html)
+
+## 写作
+
+- [非虚构写作的读书笔记](https://sive.rs/book/OnWritingWell)
