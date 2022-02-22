@@ -49,3 +49,5 @@ tags:
 - [长期赌注](https://longbets.org/bets/)
   - [巴菲特 2008 年赌标普 500 未来 10 年收益率超过对冲基金，赢](https://longbets.org/362/)
 - [2017:未来 4 年内某个生物袭击事件将导致 100 万人丧生](https://longbets.org/9/)
+- [Dwitter javascript 社交，像推特一样，140 字符限制，写一些有意思的 javascript 代码](https://beta.dwitter.net/)
+  - [Source Code](https://github.com/lionleaf/dwitter)
