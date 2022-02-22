@@ -32,3 +32,11 @@ tags:
 ## 写作
 
 - [非虚构写作的读书笔记](https://sive.rs/book/OnWritingWell)
+
+## 有趣
+
+- [一个关于某个特定 url10 年后还会不会存在的投注](https://blog.archive.org/2022/02/22/a-long-bet-pays-off/)
+
+## 历史
+
+- [美国警告日本人民即将投放原子弹的传单，传单上要求居民立即撤离并且要求他们的领导人立即投降，或者更换领导人](https://www.atomicheritage.org/key-documents/warning-leaflets)

@@ -46,3 +46,6 @@ tags:
 - [GT3 生成的播客](https://anchor.fm/deepdreams)
 - [古人活在现在的样子](https://mossandfog.com/artist-imagines-what-famous-historical-figures-would-look-like-today/)
 - [paulgraham 的博客故意把列宽设置为一个很小的值，称之为人类最佳阅读宽度](http://www.paulgraham.com/)
+- [长期赌注](https://longbets.org/bets/)
+  - [巴菲特 2008 年赌标普 500 未来 10 年收益率超过对冲基金，赢](https://longbets.org/362/)
+- [2017:未来 4 年内某个生物袭击事件将导致 100 万人丧生](https://longbets.org/9/)

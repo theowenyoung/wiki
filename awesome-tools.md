@@ -9,7 +9,7 @@ tags:
 
 ## 打字
 
-- [Code Typing Script(https://codingspeedtest.com) - 用代码测试你的打字速度，可以选语言比如 js,go
+- [Code Typing Script](https://codingspeedtest.com) - 用代码测试你的打字速度，可以选语言比如 js,go
 - [用小说内容来练习打字](https://www.typelit.io/)
 
 ## 公众号 RSS
