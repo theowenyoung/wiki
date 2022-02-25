@@ -53,3 +53,7 @@ Curating the best of list on the internet with good summaries from others.
 ## Posts/Articles
 
 - [最受欢迎的 HackerNews 帖子](https://news.ycombinator.com/item?id=24351073)
+
+## Website
+
+- [awesome lite websites](https://github.com/mdibaiee/awesome-lite-websites)

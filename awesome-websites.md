@@ -51,3 +51,4 @@ tags:
 - [2017:未来 4 年内某个生物袭击事件将导致 100 万人丧生](https://longbets.org/9/)
 - [Dwitter javascript 社交，像推特一样，140 字符限制，写一些有意思的 javascript 代码](https://beta.dwitter.net/)
   - [Source Code](https://github.com/lionleaf/dwitter)
+- [awesome lite website](https://github.com/mdibaiee/awesome-lite-websites) - 轻量级网站汇总
