@@ -24,10 +24,12 @@ Also see [[tv-shows]], [[movies]]
 - [BBC 最有影响力的 100 本书籍](https://en.wikipedia.org/wiki/BBC_list_of_100_%22most_inspiring%22_novels)
 - [Good read 最受欢迎的书籍列表](https://www.goodreads.com/list/popular_lists)
   - [有史以来最好的书 - Good read list](https://www.goodreads.com/list/show/1.Best_Books_Ever)
+- [时代周刊百大最佳英文长篇小说](https://zh.wikipedia.org/wiki/%E6%99%82%E4%BB%A3%E9%9B%9C%E8%AA%8C%E7%99%BE%E5%A4%A7%E8%8B%B1%E6%96%87%E5%B0%8F%E8%AA%AA)
 
 ## 资源
 
 - [标准电子书](https://standardebooks.org/) - 制作精美的免费版权的电子书
+- [鸠摩电子书搜索](https://www.jiumodiary.com/)
 
 ## 人生必读系列
 
