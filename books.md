@@ -23,6 +23,7 @@ Also see [[tv-shows]], [[movies]]
 - [Sive 的读书笔记](https://sive.rs/book)
 - [BBC 最有影响力的 100 本书籍](https://en.wikipedia.org/wiki/BBC_list_of_100_%22most_inspiring%22_novels)
 - [Good read 最受欢迎的书籍列表](https://www.goodreads.com/list/popular_lists)
+  - [有史以来最好的书 - Good read list](https://www.goodreads.com/list/show/1.Best_Books_Ever)
 
 ## 资源
 
