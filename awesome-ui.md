@@ -45,7 +45,11 @@ Curating awesome UI tools, resources.
   - [tailwind landing page](https://github.com/cruip/tailwind-landing-page-template)
 - [milligram](https://github.com/milligram/milligram) - 极简主义 css
 - [headlessui](https://github.com/tailwindlabs/headlessui)
-- [](https://github.com/picocss/pico) - 语义化的 CSS 框架，极简
+- [Picocss](https://github.com/picocss/pico) - 语义化的 CSS 框架，极简
+
+## React UI
+
+- [Mantine](https://mantine.dev/)
 
 ## CSS Tools
 
