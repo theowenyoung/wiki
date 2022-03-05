@@ -30,6 +30,13 @@ Also see [[tv-shows]], [[movies]]
 
 - [标准电子书](https://standardebooks.org/) - 制作精美的免费版权的电子书
 - [鸠摩电子书搜索](https://www.jiumodiary.com/)
+- Z-Library
+  - <sg1lib.org>
+  - <1lib.pl>
+  - <ng1lib.org>
+  - <b-ok.com>
+  - <bookzz.ren>
+  - <booksc.xyz>
 
 ## 人生必读系列
 
