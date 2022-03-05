@@ -10,6 +10,8 @@ tags:
 
 - [Mailtie](https://mailtie.com) - Free Email Forwarding for Your Domain
 - [FakerMail](https://fakermail.com) - Unlimited Temporary Email Provider
+- [Foreard Email](https://forwardemail.net/) - 免费域名 Email 转发
+- [Simple Login](https://simplelogin.io/) - 免费域名转发，发送
 
 ## Git
 

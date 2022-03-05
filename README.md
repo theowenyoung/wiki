@@ -43,6 +43,7 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 
 ## Contact Me
 
+- Email: `owen#owenyoung.com` (Replace `#` with `@`)
 - Telegram: <https://t.me/itsowenyoung>
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
 - 中文推 [@OwenYoungZh](https://twitter.com/OwenYoungZh)

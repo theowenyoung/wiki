@@ -18,6 +18,7 @@ Full stack developer, main technology stack is javascript. Find more my projects
 
 ## Contact Me
 
+- Email: `owen#owenyoung.com` (Replace `#` with `@`)
 - Telegram: <https://t.me/itsowenyoung>
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
 - 中文推 [@OwenYoungZh](https://twitter.com/OwenYoungZh)
