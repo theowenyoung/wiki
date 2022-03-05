@@ -10,12 +10,12 @@ tags:
 ## 电子书
 
 - [Z-Library 全球最大数字图书馆](https://zh.z-lib.org/)
-  - <sg1lib.org>
-  - <1lib.pl>
-  - <ng1lib.org>
-  - <b-ok.com>
-  - <bookzz.ren>
-  - <booksc.xyz>
+  - <https://sg1lib.org>
+  - <https://1lib.pl>
+  - <https://ng1lib.org>
+  - <https://b-ok.com>
+  - <https://bookzz.ren>
+  - <https://booksc.xyz>
 - [鸠摩电子书搜索](https://www.jiumodiary.com/)
 
 ## 电影
