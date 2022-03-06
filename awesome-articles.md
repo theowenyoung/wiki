@@ -40,3 +40,7 @@ tags:
 ## 历史
 
 - [美国警告日本人民即将投放原子弹的传单，传单上要求居民立即撤离并且要求他们的领导人立即投降，或者更换领导人](https://www.atomicheritage.org/key-documents/warning-leaflets)
+
+## 注意力
+
+- [我们生活在人类历史上最分心的时代。我们能重新获得我们的注意力吗？](https://www.vox.com/vox-conversations-podcast/2022/2/8/22910773/vox-conversations-johann-hari-stolen-focus)
