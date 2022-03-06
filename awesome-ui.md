@@ -12,6 +12,7 @@ Curating awesome UI tools, resources.
 ## Articles
 
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
+- [Alpine & HTMX 服务器端渲染的复兴](https://alexmercedcoder.medium.com/the-renaissance-of-server-side-rendering-with-alipine-and-htmx-reactivity-with-minimal-js-809e5442480f)
 
 ## Tools
 
