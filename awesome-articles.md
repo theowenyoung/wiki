@@ -44,3 +44,11 @@ tags:
 ## 注意力
 
 - [我们生活在人类历史上最分心的时代。我们能重新获得我们的注意力吗？](https://www.vox.com/vox-conversations-podcast/2022/2/8/22910773/vox-conversations-johann-hari-stolen-focus)
+
+## 俄罗斯入侵乌克兰相关
+
+- [俄罗斯的普通人是如何支持入侵乌克兰的？](https://threadreaderapp.com/thread/1500495309595725831.html)
+- [为什么制裁经常失效？](https://www.newyorker.com/news/daily-comment/why-sanctions-too-often-fail)
+  - 愿意使人民挨饿和孤立其国家的独裁者可以无视他们。
+  - 独裁者经常无视制裁，无论他们自己或他们的国家付出多大的代价。到目前为止，普京似乎也不在乎。
+  - 在十九世纪五十年代的朝鲜战争之后首次对朝鲜实施的制裁和禁运已经完全失败了。在三代人的时间里，金氏王朝只会变得更加好战，武装得更好，更加顽固。据估计，世界上最孤立的政权现在拥有数十枚核武器和远程导弹，可以在亚洲和太平洋地区发射。

@@ -52,3 +52,5 @@ tags:
 - [Dwitter javascript 社交，像推特一样，140 字符限制，写一些有意思的 javascript 代码](https://beta.dwitter.net/)
   - [Source Code](https://github.com/lionleaf/dwitter)
 - [awesome lite website](https://github.com/mdibaiee/awesome-lite-websites) - 轻量级网站汇总
+- [模拟 90 年代的电视](https://www.my90stv.com)
+  - [80 年代](https://www.my80stv.com/)

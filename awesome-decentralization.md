@@ -17,6 +17,7 @@ Also see [[awesome-p2p]]
 
 - [awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - A curated list about the decentralized technologies and tools to develop decentralized applications.
 - [Fediverse Wiki](https://en.wikipedia.org/wiki/Fediverse)
+- [Lets decentralize](https://letsdecentralize.org/)
 
 ## Social
 

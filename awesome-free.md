@@ -6,6 +6,12 @@ tags:
   - Tools
 ---
 
+## List
+
+- [互联网上有哪些免费服务，每个人都应该知道？](https://www.reddit.com/r/AskReddit/comments/444cnh/what_are_some_free_services_on_the_internet/cznc9la/)
+- [FREE MEDIA HECK YEAH](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH)
+- [Free for dev](https://free-for.dev/#/)
+
 ## Mail
 
 - [Mailtie](https://mailtie.com) - Free Email Forwarding for Your Domain
