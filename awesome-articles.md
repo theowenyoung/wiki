@@ -16,10 +16,14 @@ tags:
 - [BSD vs Linux](http://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
   - https://news.ycombinator.com/item?id=12034277
 - [为什么大多数建议都很糟糕？](https://atis.substack.com/p/most-advice-is-pretty-bad)
+- [智能手机毁了一代人吗？](https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/)
 
 ## 工作
 
 - [如果你很忙，也许你做错了什么](https://www.calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/)
+- [如果远程工作并不意味着在家工作怎么办？](https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home)
+  - 家里充满了熟悉的东西，熟悉的东西会吸引我们的注意力，破坏了清晰思考所需的微妙的神经元舞蹈的稳定性。当我们把洗衣篮放在家庭办公室（又名卧室）外面时，我们的大脑会转向家务环境，即使我们想把注意力集中在电子邮件、即将召开的 Zoom 会议或其他任何需要完成的事情上。这种现象是我们大脑联想性的结果。
+  - 人类的大脑善于过滤掉多余的传入信息，但如果这些多余的信息与我们相关，它就很难被忽视。认知科学先驱 E. Colin Cherry 将此称为"鸡尾酒会问题"——指的是在嘈杂的派对上，在房间里突然出现自己名字的声音的常见体验——它有助于解释为什么在熙熙攘攘的咖啡店里，你可以高效地工作几个小时， 只有当你在相邻的对话中听到一个熟悉的话题出现时，你的注意力就会被劫持。从这个角度来看，你的家有时感觉就像一家咖啡店，所有的顾客都在谈论你关心的事情。Benchley 愿意忍受炉子组装的刘海和叮当声，一旦你了解到他在此期间家里有两个年幼的孩子，他就更有意义了。锤子的声音并不像你自己孩子的抱怨声那么引人注目。
 
 ## 生活方式
 
@@ -52,3 +56,7 @@ tags:
   - 愿意使人民挨饿和孤立其国家的独裁者可以无视他们。
   - 独裁者经常无视制裁，无论他们自己或他们的国家付出多大的代价。到目前为止，普京似乎也不在乎。
   - 在十九世纪五十年代的朝鲜战争之后首次对朝鲜实施的制裁和禁运已经完全失败了。在三代人的时间里，金氏王朝只会变得更加好战，武装得更好，更加顽固。据估计，世界上最孤立的政权现在拥有数十枚核武器和远程导弹，可以在亚洲和太平洋地区发射。
+
+## 创业
+
+- [你该赚钱还是学习？](https://bothsidesofthetable.com/is-it-time-for-you-to-earn-or-to-learn-34270acd2f4)

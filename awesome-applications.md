@@ -11,6 +11,7 @@ Curating awesome applications.
 
 - [Radar](https://getradar.co/) - Menu bar app to check the things that matter to you
 - [Menubarx](https://menubarx.app/) - Menu bar app to browser website.
+- [Taskpaper](https://www.taskpaper.com/)- Plain text task manager
 
 ## iOS
 

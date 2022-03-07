@@ -8,6 +8,14 @@ tags:
 
 Curating the place for explore interesting things.
 
+## News/Magazine
+
+- [New Yorker](https://www.newyorker.com/)
+
+## 专栏
+
+- [Cal Newport ](https://www.newyorker.com/contributors/cal-newport) - 深度工作作者
+
 ## Product
 
 - [Product Hunt Trending (producthunt-trending.js.org)](https://producthunt-trending.js.org/?range=monthly) - Browser producthunk by ranking, weekly, monthly, yearly.

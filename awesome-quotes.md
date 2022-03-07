@@ -64,6 +64,7 @@ tags:
 - > “女性不是一种性别，而是一种处境” -- 微博网友
 - > 48 岁的奥尔加·科洛廖娃（Olga Kololyova）站在她破碎的家的厨房里抽泣着说。玻璃被吹出她的前窗，她的前门被毁坏。她说，当火箭如雨点般落下时，她躲在浴室里。"他(普京）认为我们要服从他？"她说。"我希望他能经历我今天早上所经历的一切。 -- [纽约时报](https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war)
 - > "现在德国正在向我们提供武器，以保护自己免受俄罗斯人的侵害，"她说。"这是荒谬的。我们的祖父们会怎么想？ -- [纽约时报](https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war)
+- > 旨在保护注意力和自主权的自上而下的干预措施的好处可能是巨大的。 -- [the-rise-and-fall-of-getting-things-done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
 
 ## 美好生活指南：斯多葛派喜悦的古老艺术 - 威廉·欧文
 
