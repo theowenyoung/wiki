@@ -31,7 +31,7 @@ See what am I doing now at [here](now.md)
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
 - 中文推 [@OwenYoungZh](https://twitter.com/OwenYoungZh)
 
-## Other resources
+## Other Resources
 
 - Wiki [Everything I Know](https://wiki.owenyoung.com/)
 - Blog [Owen's Story](https://blog.owenyoung.com)

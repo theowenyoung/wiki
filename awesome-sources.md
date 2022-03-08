@@ -2,11 +2,12 @@
 tags:
   - Awesome
   - Explore
+  - Sources
 ---
 
-# Awesome Explore
+# Awesome Sources
 
-Curating the place for explore interesting things.
+Curating the place for valued things.
 
 ## News/Magazine
 
@@ -62,6 +63,7 @@ Curating the place for explore interesting things.
 - [Hacker News 编辑精选](https://news.ycombinator.com/invited)
 - [自力更生的创业者社区](https://barnacl.es/)
 - [Wired - 连线杂志](https://www.wired.com/) - 科技相关的报道
+- [一个聚合了 500 多个程序员博客的时间流](https://engineeringblogs.xyz/)
 
 ## 中文
 

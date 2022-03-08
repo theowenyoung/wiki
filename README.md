@@ -12,16 +12,16 @@ tags:
 
 [Read this wiki online.](https://wiki.owenyoung.com/)
 
-## Featured
+## You May Like
 
 - [[books]]
 - [[awesome-articles]]
-- [[awesome-explore]]
+- [[awesome-sources]]
 - [[awesome-quotes]]
 - [[awesome-tools]]
 - [[awesome-answers]]
 - [[awesome-websites]]
-- [[thinking]]
+- [[thoughts]]
 
 ## Why I build this?
 
@@ -68,12 +68,12 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 [about]: about.md "About Me and the Wiki"
 [books]: books.md "读书笔记"
 [awesome-articles]: awesome-articles.md "值得一看的文章列表"
-[awesome-explore]: awesome-explore.md "Awesome Explore"
+[awesome-sources]: awesome-sources.md "Awesome Sources"
 [awesome-quotes]: awesome-quotes.md "收集发人深省的话"
 [awesome-tools]: awesome-tools.md "最好用的工具集合"
 [awesome-answers]: awesome-answers.md "有意思的问题收集"
 [awesome-websites]: awesome-websites.md "收集一些有意思的网站"
-[thinking]: thinking.md "所思所想"
+[thoughts]: thoughts.md "所思所想"
 [now]: now.md "What I’m doing now?"
 [projects]: projects.md "Projects"
 [goals-2021]: goals-2021.md "2021 Goals"
