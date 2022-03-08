@@ -27,3 +27,4 @@ Curating awesome applications.
 ## All
 
 - [自记账](https://www.zijizhang.com/) - 自己记账，不找代理
+- [正念消息传递 PonyMessager](https://www.ponymessenger.com/) - 每天固定时间发送和接收消息
