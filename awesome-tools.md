@@ -128,3 +128,7 @@ tags:
 ## 付费墙
 
 - [12ft](https://12ft.io/) - 绕过付费墙
+
+## Email 订阅
+
+- [竹白](https://zhubai.love/) - 中国邮件订阅/公众号订阅服务

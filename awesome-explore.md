@@ -15,6 +15,7 @@ Curating the place for explore interesting things.
 ## 专栏
 
 - [Cal Newport ](https://www.newyorker.com/contributors/cal-newport) - 深度工作作者
+- [纽约客专栏作家作品列表](https://www.newyorker.com/news/our-columnists)
 
 ## Product
 

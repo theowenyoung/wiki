@@ -21,3 +21,7 @@ tags:
 ## 电影
 
 - [YTS](https://yts.mx/) - 高质量，高清的电影种子站
+
+## 付费墙
+
+- [chrome 插件绕过付费墙](https://github.com/iamadamdev/bypass-paywalls-chrome)

@@ -34,6 +34,7 @@ tags:
 - [Microacquire](https://microacquire.com/buyers/) - Sell your company online, Sell your startup within 30 days. Anonymous listings. No fees.
 - [promote your next startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [My Side Project rocks](https://mysideproject.rocks/)
+- 热心而真诚的评论素人的状态，你可能会收获一个关注。
 
 ## Sharing
 
