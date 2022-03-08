@@ -16,3 +16,8 @@ Curating awesome indexes about trends.
 ## Socials
 
 - [Find Reddit](https://findareddit.com) - Find reddit
+
+## Articles
+
+- [大西洋月刊在 reddit 上有史以来最受欢迎的文章](https://www.reddit.com/search/?q=site%3Atheatlantic.com&sort=top&t=all)
+  - [True Reddit 小组 only](https://www.reddit.com/r/TrueReddit/search/?q=site%3Atheatlantic.com&restrict_sr=1&sr_nsfw=&sort=top&t=all)

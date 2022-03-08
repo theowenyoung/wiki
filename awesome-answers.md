@@ -18,6 +18,7 @@ tags:
 ## 指南
 
 - [Hacker News 最全使用说明](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+- [Reddit 搜索指南](https://www.reddit.com/wiki/search)
 
 ## 人生
 
