@@ -65,6 +65,8 @@ tags:
 - > 48 岁的奥尔加·科洛廖娃（Olga Kololyova）站在她破碎的家的厨房里抽泣着说。玻璃被吹出她的前窗，她的前门被毁坏。她说，当火箭如雨点般落下时，她躲在浴室里。"他(普京）认为我们要服从他？"她说。"我希望他能经历我今天早上所经历的一切。 -- [纽约时报](https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war)
 - > "现在德国正在向我们提供武器，以保护自己免受俄罗斯人的侵害，"她说。"这是荒谬的。我们的祖父们会怎么想？ -- [纽约时报](https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war)
 - > 旨在保护注意力和自主权的自上而下的干预措施的好处可能是巨大的。 -- [the-rise-and-fall-of-getting-things-done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
+- > - 在随身听出现之前，音乐主要是一种共享的体验。随身听让人们学会了保持社交距离。 - 2022.03.08
+- > - 研究人员最近给了密歇根州的儿童和青少年家用电脑，以换取监控他们互联网使用情况的许可。该研究发现，成绩和阅读分数随着在线时间的增加而上升。甚至访问色情网站也提高了学习成绩。当然，如果互联网继续由 YouTube 推动的从印刷品向电视的演变，这种协同效应可能会消失。 -- [书的黄昏](https://www.newyorker.com/magazine/2007/12/24/twilight-of-the-books)
 
 ## 美好生活指南：斯多葛派喜悦的古老艺术 - 威廉·欧文
 
