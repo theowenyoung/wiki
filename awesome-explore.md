@@ -11,6 +11,7 @@ Curating the place for explore interesting things.
 ## News/Magazine
 
 - [New Yorker](https://www.newyorker.com/)
+- [The Atlantic](https://www.theatlantic.com/)
 
 ## 专栏
 
@@ -60,6 +61,7 @@ Curating the place for explore interesting things.
 - [Hacker News 经典文章集合](https://hn.lindylearn.io/)
 - [Hacker News 编辑精选](https://news.ycombinator.com/invited)
 - [自力更生的创业者社区](https://barnacl.es/)
+- [Wired - 连线杂志](https://www.wired.com/) - 科技相关的报道
 
 ## 中文
 
