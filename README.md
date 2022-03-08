@@ -20,6 +20,7 @@ tags:
 - [[awesome-quotes]]
 - [[awesome-tools]]
 - [[awesome-answers]]
+- [[awesome-websites]]
 - [[thinking]]
 
 ## Why I build this?
@@ -71,6 +72,7 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 [awesome-quotes]: awesome-quotes.md "收集发人深省的话"
 [awesome-tools]: awesome-tools.md "最好用的工具集合"
 [awesome-answers]: awesome-answers.md "有意思的问题收集"
+[awesome-websites]: awesome-websites.md "收集一些有意思的网站"
 [thinking]: thinking.md "所思所想"
 [now]: now.md "What I’m doing now?"
 [projects]: projects.md "Projects"

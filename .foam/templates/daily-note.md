@@ -1,9 +1,10 @@
 ---
-title: Journal Entry, ${CURRENT_DAY_NAME}, ${CURRENT_MONTH_NAME} ${CURRENT_DATE}, ${CURRENT_YEAR}
+title: ${CURRENT_YEAR}年的一些记录
 tags:
   - Journal
   - "Year${CURRENT_YEAR}"
-  - ${CURRENT_YEAR}-${CURRENT_MONTH}
 ---
 
-## Read List
+## Reading List
+
+> 这里是我在阅读后觉得有必要放在这个 Inbox，以后可能会回味，但又没必要特地放在某个分类下的文章列表。

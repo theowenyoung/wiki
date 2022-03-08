@@ -69,6 +69,7 @@ tags:
 - > 研究人员最近给了密歇根州的儿童和青少年家用电脑，以换取监控他们互联网使用情况的许可。该研究发现，成绩和阅读分数随着在线时间的增加而上升。甚至访问色情网站也提高了学习成绩。当然，如果互联网继续由 YouTube 推动的从印刷品向电视的演变，这种协同效应可能会消失。 -- [书的黄昏](https://www.newyorker.com/magazine/2007/12/24/twilight-of-the-books)
 - > 福特、爱迪生和其他工业大师使自己变得富有，并偶然创造了中产阶级，这反过来又巩固了美国的民主制度。新的科技霸主使自己变得富有，并偶然消灭了中产阶级，同时削弱了民主。 -- [扎克伯格令人愤怒的纯真](https://www.newyorker.com/culture/cultural-comment/the-infuriating-innocence-of-mark-zuckerberg)
 - > 导演"沦为内容制作者，观众沦为不敢冒险的消费者"。 -- [真正的电影观众不在乎烂番茄的评价](https://www.newyorker.com/culture/cultural-comment/real-moviegoers-dont-care-about-rotten-tomatoes)
+- > 隐私是指人们知道您是谁，但不知道您在做什么。匿名是指人们知道您在做什么，但不知道您是谁 - [匿名指南](https://anonymousplanet.org/guide.html)
 
 ## 美好生活指南：斯多葛派喜悦的古老艺术 - 威廉·欧文
 

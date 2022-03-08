@@ -1,5 +1,5 @@
 ---
-title: 收集一些好玩的网站
+title: 收集一些有意思的网站
 language: zh
 tags:
   - Awesome
@@ -54,3 +54,4 @@ tags:
 - [awesome lite website](https://github.com/mdibaiee/awesome-lite-websites) - 轻量级网站汇总
 - [模拟 90 年代的电视](https://www.my90stv.com)
   - [80 年代](https://www.my80stv.com/)
+- [太阳能供电的网站](https://solar.lowtechmagazine.com/power.html)

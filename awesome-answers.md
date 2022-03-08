@@ -26,6 +26,7 @@ tags:
 - [Ask HN: 你在一小时内能学到的最佳价值的东西是什么？](https://news.ycombinator.com/item?id=21581361)
 - [Ask HN: 说出一个改变你生活的想法](https://news.ycombinator.com/item?id=23092657)
 - [最适合居住的国家是哪一个？](https://www.reddit.com/r/AskReddit/comments/sb5gci/what_is_the_best_country_to_live_in/)
+- [问 HN： 你读过的最能改变生活的文章是什么？](https://news.ycombinator.com/item?id=28232165)
 
 ## 两性
 
@@ -48,3 +49,8 @@ tags:
 ## 业余项目
 
 - [HN 提问： 你的不在乎结果的项目是？](https://news.ycombinator.com/item?id=25992782)
+- [HN 提问：给我看看你的半成品项目](https://news.ycombinator.com/item?id=25700135)
+
+## 产品
+
+- [问 HN：除了 HN 之外，还有哪些其他通用链接聚合器？](https://news.ycombinator.com/item?id=28632002)

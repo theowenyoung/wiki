@@ -28,3 +28,7 @@ Curating awesome applications.
 
 - [自记账](https://www.zijizhang.com/) - 自己记账，不找代理
 - [正念消息传递 PonyMessager](https://www.ponymessenger.com/) - 每天固定时间发送和接收消息
+
+## 有意思的
+
+- [To dont](https://crazymarvin.com/to-dont/) - Todo 的反向操作，不要做的事清单

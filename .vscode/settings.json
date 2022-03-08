@@ -18,9 +18,8 @@
     "**/.*/**/*": true
   },
   "foam.edit.linkReferenceDefinitions": "withExtensions",
-  "foam.openDailyNote.directory": "journal",
-  "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
-  "foam.openDailyNote.titleFormat": "'Journal Entry, ' dddd, mmmm d",
+  "foam.openDailyNote.filenameFormat": "'journal-'yyyy",
+  "foam.openDailyNote.titleFormat": "dddd'年的一些记录'",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
