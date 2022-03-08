@@ -15,6 +15,10 @@ tags:
 
 - [reddit 热门提问中文版](https://ask.buzzing.cc/)
 
+## 指南
+
+- [Hacker News 最全使用说明](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+
 ## 人生
 
 - [你收到过的最糟糕的建议是什么？](https://www.reddit.com/r/AskReddit/comments/ph4pax/what_was_the_worst_advice_you_have_ever_received/)

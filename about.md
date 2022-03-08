@@ -1,20 +1,28 @@
 ---
-title: About Me
+title: About Me and the Wiki
 tags:
   - Me
 ---
 
-Programmer, Freelancer, Workflow lover, Personal Finance Enthusiast
+## About the Wiki
 
-See what am I doing now at [here](now.md)
+Since I found [Everything I know](https://wiki.nikitavoloboev.xyz), I was fascinated by this concept, about the wiki, second brain, lifetime notes, backlinks, tags. I realized that "Yes, this is what I want to do", I used to create many blogs, Tumblr, WordPress, Hexo, Hugo, Gatsbyjs, etc. But I do not post too many posts, cause there is a certain cost for a blog post. But not for note/wiki. And also I like tags, wiki links for connecting my notes, and there are no other themes that support this. So I created a new [Gatsby theme](https://github.com/theowenyoung/gatsby-theme-primer-wiki) for this. If you you want to build a wiki like this, you can get started from [this foam template](https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki) or [obsidian template](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki) if you prefer Obsidian.
 
-## A failure of English learning
+Now , I'am using [foam](https://github.com/foambubble/foam) and [obsidian](https://obsidian.md/) to edit the wiki.
+
+## About Me
+
+### A failure of English learning
 
 I've learned English more than 10 years, but it still sucks, so I registered a Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung) for only English tweets, and this [wiki](https://wiki.owenyoung.com) and [blog](https://blog.owenyoung.com) to force me to use more English.
 
-## Programmer
+### Programmer
 
 Full stack developer, main technology stack is javascript. Find more my projects [[projects]]
+
+### What am I doing now?
+
+See what am I doing now at [here](now.md)
 
 ## Contact Me
 
@@ -23,12 +31,10 @@ Full stack developer, main technology stack is javascript. Find more my projects
 - Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
 - 中文推 [@OwenYoungZh](https://twitter.com/OwenYoungZh)
 
-## Follow me at the following platforms
+## Other resources
 
 - Wiki [Everything I Know](https://wiki.owenyoung.com/)
 - Blog [Owen's Story](https://blog.owenyoung.com)
-- Twitter [@TheOwenYoung](https://twitter.com/TheOwenYoung)
-- Twitter for Chinese [@OwenYoungZh](https://twitter.com/OwenYoungZh)
 - Github [@theowenyoung](https://github.com/theowenyoung)
 - Patreon [@theowenyoung](https://www.patreon.com/theowenyoung)
 - Read.cv [@owenyoung](https://read.cv/owenyoung)
