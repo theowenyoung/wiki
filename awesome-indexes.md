@@ -1,5 +1,5 @@
 ---
-title: Awesome Indexes
+title: 互联网目录汇总
 tags:
   - Awesome
   - Indexes
