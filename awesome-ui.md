@@ -48,6 +48,7 @@ Curating awesome UI tools, resources.
 - [headlessui](https://github.com/tailwindlabs/headlessui)
 - [Picocss](https://github.com/picocss/pico) - 语义化的 CSS 框架，极简
 - [Unocss](https://github.com/unocss/unocss) - 工具 css，集成了 tailwind 等
+- [Tachyons](https://tachyons.io/) - 另一个工具性 css 框架
 
 ## React UI
 
