@@ -70,6 +70,7 @@ tags:
 - > 福特、爱迪生和其他工业大师使自己变得富有，并偶然创造了中产阶级，这反过来又巩固了美国的民主制度。新的科技霸主使自己变得富有，并偶然消灭了中产阶级，同时削弱了民主。 -- [扎克伯格令人愤怒的纯真](https://www.newyorker.com/culture/cultural-comment/the-infuriating-innocence-of-mark-zuckerberg)
 - > 导演"沦为内容制作者，观众沦为不敢冒险的消费者"。 -- [真正的电影观众不在乎烂番茄的评价](https://www.newyorker.com/culture/cultural-comment/real-moviegoers-dont-care-about-rotten-tomatoes)
 - > 隐私是指人们知道您是谁，但不知道您在做什么。匿名是指人们知道您在做什么，但不知道您是谁 - [匿名指南](https://anonymousplanet.org/guide.html)
+- > 为了不断学习和成长，我们应该不断寻求新的视角。欣赏我们最初不喜欢的音乐，食物和体验。阅读我们一无所知的主题。了解我们不同意的人。迎接新的挑战。避免例行公事。 -- [Sive](https://sive.rs/left)
 
 ## 美好生活指南：斯多葛派喜悦的古老艺术 - 威廉·欧文
 
