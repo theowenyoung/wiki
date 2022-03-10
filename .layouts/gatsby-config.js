@@ -29,7 +29,7 @@ module.exports = {
       options: {
         icon: "./static/logo.png",
         sidebarComponents: ["latest", "tag"],
-        defaultIndexLatestPostCount: 10,
+        defaultIndexLatestPostCount: 15,
         searchBody: true,
         nav: [
           {

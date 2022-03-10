@@ -8,6 +8,10 @@ tags:
 
 Curating awesome browsers.
 
+## Articles
+
+- [This is my next main browser: a review of Orion](http://morrick.me/archives/9500)
+
 ## Common List
 
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge is the fast and secure browser, which I'm using now. its the best for now.
