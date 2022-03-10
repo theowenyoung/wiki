@@ -10,7 +10,9 @@ tags:
 
 > A personal knowledge based wiki, where I share everything I know. I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between. More details see [[about]]. I hope it's a gift for my grandchildren(if I have :)
 
-[Read this wiki online.](https://wiki.owenyoung.com/)
+- [Read this Wiki Online.](https://wiki.owenyoung.com/)
+- [Read the Latest Updates](https://wiki.owenyoung.com/latest/)
+- [Wiki Source](https://github.com/theowenyoung/wiki)
 
 ## You May Like
 
@@ -68,7 +70,7 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 [about]: about.md "About Me and the Wiki"
 [books]: books.md "读书笔记"
 [awesome-articles]: awesome-articles.md "值得一看的文章列表"
-[awesome-sources]: awesome-sources.md "Awesome Sources"
+[awesome-sources]: awesome-sources.md "探索互联网上高质量的内容"
 [awesome-quotes]: awesome-quotes.md "收集发人深省的话"
 [awesome-tools]: awesome-tools.md "最好用的工具集合"
 [awesome-answers]: awesome-answers.md "有意思的问题收集"
