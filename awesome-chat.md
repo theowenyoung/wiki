@@ -35,3 +35,18 @@ Curating awesome chat resources.
 ## Hosted chat Server
 
 - [connectycube](https://connectycube.com/) - free, 10k user
+
+## Chat Topics
+
+- what did you eat today？
+- What’s your favorite food?
+- What do you do in your spare time?
+- Do you have a pet? dog or cat? what's its name? what's its breed?
+- Have you read any impressive books recently?
+  - Have you read any impressive articles recently?
+  - Have you watch any impressive tv shows/movies recently?
+- What website do you usually visit?
+- Where is one place you’d love to travel to again?
+  - where have you traveled?
+- what projects are you working on now?
+- Do you collect anything?
