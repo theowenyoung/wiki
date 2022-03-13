@@ -63,6 +63,7 @@ Curating the place for valued things.
 ## Tech
 
 - [Hacker News](https://news.ycombinator.com/news)
+  - [Hacker News Search](https://hn.algolia.com/)
 - [ACM Tech News](https://technews.acm.org)
 - [indie hackers](https://www.indiehackers.com/)
 - [Hacker News 经典文章集合](https://hn.lindylearn.io/)

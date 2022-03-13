@@ -16,9 +16,14 @@ tags:
 
 ## 工具
 
+- [Stack Exchange for English](https://english.stackexchange.com/) - 关于英语的问答社区
+- [Youglish](https://youglish.com/) - 利用 Youtube 资源学英语，搜索任何单词学习英语
+  - [Example: Learn English](https://youglish.com/pronounce/learn%20english/english?)
 - [Anki](https://apps.ankiweb.net/) - Anki, 卡片背诵，记忆，按照频率每天背诵一些卡片。
 - [Eudic](https://www.eudic.net/v4/en/app/eudic) - 欧陆词典 mac 版，屏幕取词特别方便，选中自动查询词典并朗读。
 - [English Helper](https://github.com/HDCodePractice/EnglishHelper) - English study corner 小助手， docker 部署，telegram bot
+- [Memrise ](https://www.memrise.com/) - 背单词
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page)
 
 ## 资源
 

@@ -21,3 +21,4 @@ tags:
 - 永远不要在看到一个财经观点的同一天就去操作股票。 - 2022.03.10
 - 水温从 100 度到 90 度所用的时间和 90 度到 80 度所用的时间相同吗？ - 2022.03.11
 - 自动化的网站没有灵魂，就像工具产品一样。人工很重要。 - 2022.03.12
+- [这个地图](https://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html)显示中国人学好英语需要的时间属于最长的一批，平均要 2200 个小时，每天 1 小时，足足要学 6 年。 - 2022.03.13
