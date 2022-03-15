@@ -23,6 +23,7 @@ Curating the place for valued things.
 
 - [Cal Newport ](https://www.newyorker.com/contributors/cal-newport) - 深度工作作者
 - [纽约客专栏作家作品列表](https://www.newyorker.com/news/our-columnists)
+- [Tynan 的博客](https://tynan.com/) - 关于财富，投资
 
 ## Product
 

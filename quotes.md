@@ -37,6 +37,10 @@ tags:
 
 ## 未分类
 
+> 很多人不愿意牺牲的原因不是因为他们无法忍受，而是因为他们无法忍受别人看到它。 - [tynan](https://tynan.com/sacrifice/)
+
+> 五分之一的男性承认没有亲密的朋友 - [泰晤士报](https://www.thetimes.co.uk/article/all-the-lonely-people-are-men-a-fifth-have-no-friends-6rzvhl736)
+
 > 当你需要和半裸女孩说话时，你的大脑会更有动力去学习英语. - [HN 网友](https://news.ycombinator.com/item?id=16787675)
 
 > "我们都在阴沟里，但我们中的一些人正在看星星。 —— 奥斯卡·王尔德， 温德米尔夫人的粉丝

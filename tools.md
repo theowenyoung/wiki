@@ -132,3 +132,7 @@ tags:
 ## Email 订阅
 
 - [竹白](https://zhubai.love/) - 中国邮件订阅/公众号订阅服务
+
+## Play
+
+- [在线和朋友玩游戏/扑克/看视频等等/不登录也可以](https://kosmi.io/)

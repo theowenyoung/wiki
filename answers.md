@@ -21,6 +21,7 @@ tags:
 - [Reddit 搜索指南](https://www.reddit.com/wiki/search)
 - [Wiki How](https://www.wikihow.com/) - 所有事情的指南
   - [编辑精选](https://www.wikihow.com/Category:Featured-Articles)
+- [如何为你的朋友运营一个社交网络](https://runyourown.social/)
 
 ## 人生
 

@@ -31,6 +31,7 @@ tags:
 ## 生活方式
 
 - [掌握金钱，负担得起你所有想要的东西](https://affordanything.com/start-here/)
+- [数字极简主义](https://www.calnewport.com/blog/2016/12/18/on-digital-minimalism/)
 
 ## 人物
 
@@ -102,3 +103,7 @@ tags:
     - 生孩子是"相当可怕的，因为它会发现自己处于困境";另一方面，"乐观使生活更容易忍受。“
   - 反对意见：
     - 这是消极的功利主义
+
+## 友谊
+
+- [男性对友谊很糟糕吗？](https://www.mensjournal.com/health-fitness/do-men-suck-at-friendship-20140422/)

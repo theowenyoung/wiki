@@ -1,10 +1,11 @@
 ---
-title: 收集一些有意思的网站
+title: 收集一些有意思的东西
 language: zh
 tags:
   - Awesome
   - Tools
   - 中文
+  - Things
 ---
 
 ## 列表
@@ -55,3 +56,8 @@ tags:
 - [模拟 90 年代的电视](https://www.my90stv.com)
   - [80 年代](https://www.my80stv.com/)
 - [太阳能供电的网站](https://solar.lowtechmagazine.com/power.html)
+- [你可以在线买一座岛屿](https://www.privateislandsonline.com/)
+
+## 硬件
+
+- [情侣闹钟，互相不吵醒的戒指设计](https://www.coroflot.com/mengfandi/if-concept-awards-2008Best-of-Best)
