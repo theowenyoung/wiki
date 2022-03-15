@@ -108,6 +108,7 @@ tags:
 
 - [男性对友谊很糟糕吗？](https://www.mensjournal.com/health-fitness/do-men-suck-at-friendship-20140422/)
 - [纽约时报：男女之间有真正的友谊吗？](https://www.nytimes.com/2012/04/08/opinion/sunday/a-man-a-woman-just-friends.html?_r=1&pagewanted=all)
+- [Axios: 美国的友谊危机](https://www.axios.com/american-society-friendship-crisis-0272ba80-1967-45ee-8251-63541c48f2cb.html)
 
 ## 离线友好
 

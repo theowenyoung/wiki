@@ -13,6 +13,10 @@ tags:
 
 - [异想天开网站俱乐部](https://whimsical.club/) - 收集了奇奇怪怪的网站
 
+## 线下
+
+- [快速交友活动](https://www.abc.net.au/news/2021-10-21/finding-friends-as-an-adult-through-friend-request-events/100551648)
+
 ## 发现类
 
 - [Reddit 小组趋势](https://subredditstats.com/) 在这可以发现很多有意思的 Reddit 小组，有各种维度的排序
