@@ -107,5 +107,10 @@ tags:
 ## 友谊
 
 - [男性对友谊很糟糕吗？](https://www.mensjournal.com/health-fitness/do-men-suck-at-friendship-20140422/)
+- [纽约时报：男女之间有真正的友谊吗？](https://www.nytimes.com/2012/04/08/opinion/sunday/a-man-a-woman-just-friends.html?_r=1&pagewanted=all)
 
 ## 离线友好
+
+## 纯文本运动
+
+- [纯文本记账](https://plaintextaccounting.org/)

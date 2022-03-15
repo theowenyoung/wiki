@@ -37,6 +37,8 @@ tags:
 
 ## 未分类
 
+> 愿我成为我的狗认为我已经是的那种人。 - [为什么失去一只狗比失去亲戚或朋友更难](https://theconversation.com/why-losing-a-dog-can-be-harder-than-losing-a-relative-or-friend-68207)
+
 > 很多人不愿意牺牲的原因不是因为他们无法忍受，而是因为他们无法忍受别人看到它。 - [tynan](https://tynan.com/sacrifice/)
 
 > 五分之一的男性承认没有亲密的朋友 - [泰晤士报](https://www.thetimes.co.uk/article/all-the-lonely-people-are-men-a-fifth-have-no-friends-6rzvhl736)

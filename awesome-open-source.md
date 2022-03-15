@@ -24,3 +24,8 @@ Curating awesome open source projects is a lot of fun.
   - 不会替换任何一个
   - 力求最大功率重量比
   - 非常重视用户隐私
+- [Hyper Protocol](https://hypercore-protocol.org/) - 分布式，仅追加的协议
+
+## Encode/Decode
+
+- [json crush](https://github.com/KilledByAPixel/JSONCrush) - json to url friendly

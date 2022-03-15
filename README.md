@@ -21,7 +21,7 @@ tags:
 - [[quotes]]
 - [[tools]]
 - [[answers]]
-- [[fun]]
+- [[inspires]]
 - [[thoughts]]
 - [[awesome-articles]]
 
@@ -73,7 +73,7 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 [quotes]: quotes.md "收集发人深省的话"
 [tools]: tools.md "最好用的工具集合"
 [answers]: answers.md "有意思的问题收集"
-[fun]: fun.md "收集一些有意思的东西"
+[inspires]: inspires.md "收集一些给人灵感的东西"
 [thoughts]: thoughts.md "所思所想"
 [awesome-articles]: awesome-articles.md "值得一看的文章列表"
 [now]: now.md "What I’m doing now?"

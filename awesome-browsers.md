@@ -24,6 +24,8 @@ Curating awesome browsers.
 - [bonsai](https://bonsaibrowser.com/) - Web-browser for research that helps programmers think clearly.
 - [Brow](https://www.brow.sh/) - Text based broswer
 - [Nyxt](https://github.com/atlas-engineer/nyxt) - 像 vim 一样的浏览器
+- [Beaker Browswer](https://beakerbrowser.com/) - p2p 浏览器
+  - [user list](https://userlist.beakerbrowser.com/)
 
 ## Paid Browser
 

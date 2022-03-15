@@ -1,11 +1,12 @@
 ---
-title: 收集一些有意思的东西
+title: 收集一些给人灵感的东西
 language: zh
 tags:
   - Awesome
   - Tools
   - 中文
   - Things
+  - Inspires
 ---
 
 ## 列表
