@@ -136,3 +136,11 @@ tags:
 ## Play
 
 - [在线和朋友玩游戏/扑克/看视频等等/不登录也可以](https://kosmi.io/)
+
+## 个人管理
+
+- [monica](https://github.com/monicahq/monica) - 个人 CRM
+
+## 硬件
+
+- [太阳能/家用大功率充电宝](https://sunboxlabs.com/solar-kit/) - $449
