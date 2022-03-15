@@ -144,3 +144,11 @@ tags:
 ## 硬件
 
 - [太阳能/家用大功率充电宝](https://sunboxlabs.com/solar-kit/) - $449
+
+## Focus
+
+- [Stay Focus chrome extension](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=fr)
+
+## 地图
+
+- [Organic Maps](https://github.com/organicmaps/organicmaps) - 开源离线优先地图

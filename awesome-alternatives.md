@@ -31,6 +31,7 @@ Curating awesome alternative resources.
   - [hacker news open source in ruby](hhttps://github.com/lobsters/lobsters)
   - [littr](https://github.com/mariusor/go-littr)
   - [gurlic](https://gurlic.com/) - another hacker news alternatives
+  - [Tildes](https://gitlab.com/tildes/tildes)
 - Netlify
   - [Meli](https://github.com/getmeli/meli)
 - Github

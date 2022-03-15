@@ -62,7 +62,9 @@ tags:
   - [80 年代](https://www.my80stv.com/)
 - [太阳能供电的网站](https://solar.lowtechmagazine.com/power.html)
 - [你可以在线买一座岛屿](https://www.privateislandsonline.com/)
+- [你必须离线才能访问此页面](https://chris.bolin.co/offline/)
 
 ## 硬件
 
 - [情侣闹钟，互相不吵醒的戒指设计](https://www.coroflot.com/mengfandi/if-concept-awards-2008Best-of-Best)
+- [DeadDrop](https://news.ycombinator.com/item?id=1851088) - 用 U 盘作为 P2P 的载体，安装在城市的不同地方
