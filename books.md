@@ -45,6 +45,10 @@ Also see [[tv-shows]], [[movies]]
 - [[awesome-online-books]]
 - [公共领域有声读物](https://librivox.org/)
 
+## 讨论
+
+- [Book Forum](https://www.bookforum.com/) - 高质量的书籍推荐/评论平台
+
 ## 人生必读系列
 
 这里放我自己觉得必读的一些书籍：

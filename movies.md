@@ -15,6 +15,11 @@ Also see [[books]], [[tv-shows]]
 
 - [美国电影协会：有史以来最伟大的 100 部美国电影](https://www.afi.com/afis-100-years-100-movies/)
 
+## 资源
+
+- [免费的版权到期电影](https://cinetimes.org/)
+- [查看相似的电影](https://proximovie.com/)
+
 ## workflows
 
 目前主要是用 [[qbittorrent-setup-for-debian]],[[jackett-setup]]在下载电影，买了一台 1T 的 VPS 作为 NAS。本来想用[[jellyfin-setup]]来作为影视中心的，但是使用后感觉客户端并不是 native 的，略卡，可能暂时还不胜用，所以索性直接上[[caddy-file-server-url-scheme]], 然后 mac 用 [IINA](https://iina.io/)，或者[迅雷看看](https://video.xunlei.com/)（大多数剧的字幕匹配做的好一点），手机端用 [nplayer](https://nplayer.com/)或[VLC](https://www.videolan.org/) 打开流文件。目前这样的体验是最爽的。

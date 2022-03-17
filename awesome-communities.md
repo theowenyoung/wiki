@@ -18,6 +18,7 @@ tags:
 - [community list](https://www.notion.so/Community-908921f2f6584ae990bea68b048b8ea9) - List of some active community you must follow, Free
 - [Reddit List](http://redditlist.com/sfw) - Reddit subs trends, categories
 - [reddit subreddistats](https://subredditstats.com/)
+- [查看相似的 reddit 小组](https://anvaka.github.io/redsim/)
 
 ## 服务器
 

@@ -24,6 +24,7 @@ tags:
 - [[inspires]]
 - [[thoughts]]
 - [[awesome-articles]]
+- [[awesome-communities]]
 
 ## Why I build this?
 
@@ -76,6 +77,7 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 [inspires]: inspires.md "收集一些给人灵感的东西"
 [thoughts]: thoughts.md "所思所想"
 [awesome-articles]: awesome-articles.md "值得一看的文章列表"
+[awesome-communities]: awesome-communities.md "收集一些有意思的社区"
 [now]: now.md "What I’m doing now?"
 [projects]: projects.md "Projects"
 [goals-2021]: goals-2021.md "2021 Goals"
