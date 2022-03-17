@@ -63,6 +63,7 @@ tags:
 - [太阳能供电的网站](https://solar.lowtechmagazine.com/power.html)
 - [你可以在线买一座岛屿](https://www.privateislandsonline.com/)
 - [你必须离线才能访问此页面](https://chris.bolin.co/offline/)
+- [To dont](https://crazymarvin.com/to-dont/) - Todo 的反向操作，不要做的事清单
 
 ## 硬件
 

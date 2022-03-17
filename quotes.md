@@ -37,6 +37,8 @@ tags:
 
 ## 未分类
 
+> 我开始意识到，我的工作在某种程度上是思考与其他人不同的东西 - 但我所处的环境，我只是获得与其他人相同的信息，我只是在思考与其他人相同的事情。 - Sune Lehmann
+
 > 愿我成为我的狗认为我已经是的那种人。 - [为什么失去一只狗比失去亲戚或朋友更难](https://theconversation.com/why-losing-a-dog-can-be-harder-than-losing-a-relative-or-friend-68207)
 
 > 很多人不愿意牺牲的原因不是因为他们无法忍受，而是因为他们无法忍受别人看到它。 - [tynan](https://tynan.com/sacrifice/)

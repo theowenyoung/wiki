@@ -11,6 +11,9 @@ Also see [Twitter @OwenYoungZh](https://twitter.com/OwenYoungZh)
 
 ## 想法
 
+- 感谢英国人给 BBC 交的税，让我能免费享受高质量的音乐台 BBC 1 Relax 和 BBC 6，以及高质量的谈话类电台 BBC 4 - 2022.03.19
+- Email 可能是最后一个我们还和世界在连接的一个东西。 - 2022.03.19
+- 把浏览器的书签功能关掉很重要，不然太容易分心了。浏览器的书签栏就是诱惑你的第一大杀手。 - 2022.03.18
 - 微信读书真变态。。网页直接用 canvas 做。 - 2022.03.18
 - 更好的生活应该拥有的东西：Kindle，mp3，mp4，gps，老人机。重点是离线和本地化。 - 2022.03.18
 - 如何阅读最新的英文书籍？下载 epub，下载[Chrome epub 阅读器扩展](https://chrome.google.com/webstore/detail/epubpup-epub-reader/kjfhlbghiagglcldmlfmpkdgmehmhfjc)，然后在扩展中打开这本书，使用浏览器自带的翻译即可阅读，体验真好。 - 2022.03.18
