@@ -39,6 +39,7 @@ Also see [[tv-shows]], [[movies]]
   - <https://bookzz.ren>
   - <https://booksc.xyz>
 - [[awesome-online-books]]
+- [公共领域有声读物](https://librivox.org/)
 
 ## 人生必读系列
 
