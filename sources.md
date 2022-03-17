@@ -26,6 +26,7 @@ Curating the place for valued things.
 - [Tynan 的博客](https://tynan.com/) - 关于财富，投资
 - [Noah](https://noahpinion.substack.com/)
 - [Tyler Cowen 的专栏](https://www.bloomberg.com/opinion/authors/AS6n2t3d_iA/tyler-cowen) - 经济相关
+- [Adam Grant](https://adamgrant.bulletin.com/)
 
 ## Product
 

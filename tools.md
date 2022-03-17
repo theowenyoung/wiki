@@ -172,6 +172,7 @@ tags:
 - [Your life weekly calendar](https://apps.apple.com/app/id1474476414?utm_campaign=newsletter-2020-03-20&utm_medium=email&utm_source=10words) - List your life by weeks. every week is a dot.
 - [使命闹钟](https://apps.apple.com/cn/app/alarmy-alarm-clock-%E4%BD%BF%E5%91%BD%E9%97%B9%E9%92%9F/id1163786766) - Alarmy 可以帮助您先起床，并让您每天早上成功完成所有“要做的事情”。借助各种有趣的任务和响亮的随机铃声，您可以轻松唤醒并刷新每天养成成功习惯的习惯
 - [自动给图片里的人脸打一个表情符号](https://apps.apple.com/us/app/maskeraid/id1590163828)
+  - [自动给视频打码](https://apps.apple.com/us/app/anonymous-camera/id1504102584)
 
 ## Web
 
