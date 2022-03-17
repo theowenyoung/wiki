@@ -28,3 +28,4 @@ tags:
 ## 资源
 
 - [简易英语](https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/minimal-english)
+- [TED ed](https://ed.ted.com/lessons?direction=desc&sort=featured-position&user_by_click=student)

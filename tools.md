@@ -112,6 +112,7 @@ tags:
 ## 视频
 
 - [爆米花种子播放器，边下边播](https://github.com/popcorn-official/popcorn-desktop)
+- [Good Vids](https://www.goodvids.so/) - 通过你的推特好友，找到推荐的视频
 
 ## Other
 
