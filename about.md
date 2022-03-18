@@ -33,6 +33,7 @@ See what am I doing now at [here](now.md)
 
 ## Other Resources
 
+- Newsletter [Owen's Newsletter](https://theowenyoung.substack.com/)
 - Wiki [Everything I Know](https://wiki.owenyoung.com/)
 - Blog [Owen's Story](https://blog.owenyoung.com)
 - Github [@theowenyoung](https://github.com/theowenyoung)

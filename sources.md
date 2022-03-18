@@ -17,7 +17,8 @@ Curating the place for valued things.
 
 ## 定期查看的文章列表
 
-- [True Reddit 小组的每月排行](https://old.reddit.com/r/Foodforthought/top/?t=month)
+- [True Reddit 小组的每月排行](https://old.reddit.com/r/Foodforthough
+  t/top/?t=month)
 
 ## 专栏
 
@@ -27,6 +28,7 @@ Curating the place for valued things.
 - [Noah](https://noahpinion.substack.com/)
 - [Tyler Cowen 的专栏](https://www.bloomberg.com/opinion/authors/AS6n2t3d_iA/tyler-cowen) - 经济相关
 - [Adam Grant](https://adamgrant.bulletin.com/)
+- [Austin Kleon](https://austinkleon.substack.com/) - 像艺术家一样偷窃作者
 
 ## Product
 

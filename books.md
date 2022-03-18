@@ -30,6 +30,7 @@ Also see [[tv-shows]], [[movies]]
   - [有史以来最好的书 - Good read list](https://www.goodreads.com/list/show/1.Best_Books_Ever)
 - [时代周刊百大最佳英文长篇小说](https://zh.wikipedia.org/wiki/%E6%99%82%E4%BB%A3%E9%9B%9C%E8%AA%8C%E7%99%BE%E5%A4%A7%E8%8B%B1%E6%96%87%E5%B0%8F%E8%AA%AA)
 - [豆瓣外国小说 Top 100](https://m.douban.com/subject_collection/ECY45E4YA)
+- [纽约时报实时畅销榜](https://www.nytimes.com/books/best-sellers/)
 
 ## 资源
 
@@ -49,15 +50,14 @@ Also see [[tv-shows]], [[movies]]
 
 - [Book Forum](https://www.bookforum.com/) - 高质量的书籍推荐/评论平台
 
-## 人生必读系列
-
-这里放我自己觉得必读的一些书籍：
+## 我的推荐
 
 - 动物农场
 - 使女的故事，证言
 - 少数派报告
 - 那不勒斯四部曲
 - 愤怒的葡萄
+- 被偷走的注意力
 
 ## 2020
 

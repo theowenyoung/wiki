@@ -49,6 +49,10 @@ module.exports = {
             title: "About",
             items: [
               {
+                title: "Newsletter",
+                url: "https://theowenyoung.substack.com/",
+              },
+              {
                 title: "Now",
                 url: "/now/",
               },

@@ -58,6 +58,7 @@ I am proud to have developed my own theme [GitHub - theowenyoung/gatsby-theme-pr
 
 ## Other Resources
 
+- Newsletter [Owen's Newsletter](https://theowenyoung.substack.com/)
 - Wiki [Everything I Know](https://wiki.owenyoung.com/)
 - Blog [Owen's Story](https://blog.owenyoung.com)
 - Github [@theowenyoung](https://github.com/theowenyoung)
