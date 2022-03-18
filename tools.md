@@ -182,3 +182,7 @@ tags:
 
 - [自记账](https://www.zijizhang.com/) - 自己记账，不找代理
 - [正念消息传递 PonyMessager](https://www.ponymessenger.com/) - 每天固定时间发送和接收消息
+
+## PAAS
+
+- [Deta](https://deta.space/) - 云中托管个人的数据，免费建立自己的个人空间

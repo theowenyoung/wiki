@@ -39,3 +39,7 @@ tags:
 
 - [Article reader](https://t.me/chotamreaderbot) - A telegram bot that can access paid wall article with a instant view article.
 - [12ft](https://12ft.io/) - Show me a 10ft paywall, I’ll show you a 12ft ladder.
+
+## Free space
+
+- [Deta](https://deta.space/) - 云中托管个人的数据，免费建立自己的个人空间
