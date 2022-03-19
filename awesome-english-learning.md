@@ -29,3 +29,18 @@ tags:
 
 - [简易英语](https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/minimal-english)
 - [TED ed](https://ed.ted.com/lessons?direction=desc&sort=featured-position&user_by_click=student)
+
+## 轻松英语
+
+轻松学习英语的 7 条规则
+
+1. 学习短语而不是单词
+
+   - 准备一个短语笔记本，随时记下短语
+
+2. 学习语法会扼杀你的口语
+3. 用耳朵学习，而不是用眼睛学习。
+4. 重复是掌握口语的关键
+5. 直观和无意识地学习语法
+6. 学习真正的英语，而不是教科书上的英语
+7. 用引入入胜的故事学英语
