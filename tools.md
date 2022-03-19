@@ -150,6 +150,7 @@ tags:
 ## Focus
 
 - [Stay Focus chrome extension](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=fr)
+- [Self Control Mac app](http://selfcontrolapp.com/) - block list
 
 ## 地图
 
