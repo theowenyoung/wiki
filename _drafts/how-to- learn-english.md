@@ -18,3 +18,7 @@ tags:
 - 找到单词和你自己生活中的联系，可以是你拍的一张照片，然后把他输入到 anki 里面。也可以现场拍照片，如果方便的话。
 - 去 mylanguageexchange.com 写一个诚恳的介绍。
 - Hi Native, 修正你的表达。 https://zh.hinative.com/
+
+## 资源
+
+- [Rhinospike - 地道语言录制互助社区](https://rhinospike.com/language/)

@@ -38,6 +38,8 @@ Curating awesome chat resources.
 
 ## Chat Topics
 
+- [对话启动器](https://www.conversationstarters.com/)
+- [对话问题](https://blog.fluent-forever.com/conversation-questions/)
 - what did you eat today？
 - What’s your favorite food?
 - What do you do in your spare time?
