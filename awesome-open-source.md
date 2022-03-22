@@ -15,6 +15,7 @@ Curating awesome open source projects is a lot of fun.
 ## Search
 
 - [typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
+- [MiniSearch](https://github.com/lucaong/minisearch)
 
 ## Protocol
 

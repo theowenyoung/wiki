@@ -11,7 +11,7 @@ tags:
 - [Eleventy](https://www.11ty.dev/docs/getting-started/)
 - [Gatsby](https://www.gatsbyjs.com/docs/tutorial/)
 - [Docusaurus](https://docusaurus.io/)
-- [blade site](https://github.com/grego/bladesite) - rust generator, blaze fast
+- [blade site](https://github.com/grego/blades) - rust generator, blaze fast
 
 ## Starter
 

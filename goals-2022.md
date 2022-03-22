@@ -10,3 +10,4 @@ tags:
 - [ ] 180 天挑战，每天录一条英文视频。
 - [ ] More patient about stocks.
 - [ ] Significantly improve English level
+- [ ] 读者达到 1000 人。包括 twitter newsletter

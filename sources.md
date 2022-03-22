@@ -18,8 +18,7 @@ Curating the place for valued things.
 
 ## 定期查看的文章列表
 
-- [True Reddit 小组的每月排行](https://old.reddit.com/r/Foodforthough
-  t/top/?t=month)
+- [True Reddit 小组的每月排行](https://old.reddit.com/r/Foodforthought/top/?t=month)
 
 ## 专栏
 
