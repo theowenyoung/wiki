@@ -43,22 +43,22 @@ module.exports = {
           },
           {
             title: "Blog",
-            url: "https://blog.owenyoung.com/",
+            url: "https://www.owenyoung.com/",
           },
           {
             title: "About",
             items: [
               {
                 title: "Newsletter",
-                url: "https://theowenyoung.substack.com/",
+                url: "https://digests.owenyoung.com/",
               },
               {
                 title: "Now",
-                url: "/now/",
+                url: "https://www.owenyoung.com/now/",
               },
               {
                 title: "About",
-                url: "/about/",
+                url: "https://www.owenyoung.com/about/",
               },
               {
                 title: "Github",

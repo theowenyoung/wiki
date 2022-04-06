@@ -33,9 +33,9 @@ See what am I doing now at [here](now.md)
 
 ## Other Resources
 
-- Newsletter [Owen's Newsletter](https://theowenyoung.substack.com/)
+- Newsletter [Owen's Newsletter](https://digests.owenyoung.com/)
 - Wiki [Everything I Know](https://wiki.owenyoung.com/)
-- Blog [Owen's Story](https://blog.owenyoung.com)
+- Blog [Owen's Story](https://www.owenyoung.com)
 - Github [@theowenyoung](https://github.com/theowenyoung)
 - Patreon [@theowenyoung](https://www.patreon.com/theowenyoung)
 - Read.cv [@owenyoung](https://read.cv/owenyoung)
