@@ -8,9 +8,9 @@ tags:
   - Me
 ---
 
-> This wiki has been [migrated](https://www.owenyoung.com/blog/migrate-to-zola/) to [https://www.owenyoung.com](www.owenyoung.com), please use the new address to visit the latest content.
+> This wiki has been [migrated](https://www.owenyoung.com/blog/migrate-to-zola/) to [www.owenyoung.com](https://www.owenyoung.com), please use the new address to visit the latest content.
 
-> 这个笔记站点已经[迁移](https://www.owenyoung.com/blog/migrate-to-zola/)到[https://www.owenyoung.com](www.owenyoung.com)，请使用新地址来访问最新内容。
+> 这个笔记站点已经[迁移](https://www.owenyoung.com/blog/migrate-to-zola/)到[www.owenyoung.com](https://www.owenyoung.com)，请使用新地址来访问最新内容。
 
 > A personal knowledge based wiki, where I share everything I know. I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between. More details see [[about]]. I hope it's a gift for my grandchildren(if I have :)
 
