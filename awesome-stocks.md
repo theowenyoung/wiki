@@ -7,8 +7,8 @@ tags:
 
 ## Tools
 
-- [美国众议员的股票操作跟踪](https://housestockwatcher.com/)
-- [美国参议院的股票操作跟踪](https://senatestockwatcher.com/)
+- [美国众议员的股票操作跟踪](https://alphayou.net/politicians)
+- [美国参议院的股票操作跟踪](https://alphayou.net/politicians)
 - [用中文查看美国股市热门讨论](https://stocks.buzzing.cc)
 
 ## Interesting
